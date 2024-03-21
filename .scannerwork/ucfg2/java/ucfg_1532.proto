@@ -1,0 +1,158 @@
+
+Ycom.simplecity.amp_library.ui.modelviews.FolderView#areContentsEqual(Ljava/lang/Object;)Zt
+h/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.java‘ ‘(#"startingBlock*%
+2
+ŸP Ÿ(U"
+
+ŸI Ÿ(V
+""*ü
+3
+Ÿ Ÿ(µ
+≤
+
+Ÿ Ÿ(5
+%5/com.simplecity.amp_library.model.BaseFileObject"__id*g
+
+__unknown_file (K*I5
+3com.simplecity.amp_library.ui.modelviews.FolderView"
+baseFileObjectô
+ñ
+
+Ÿ# Ÿ(F5
+%6/com.simplecity.amp_library.model.BaseFileObject"__id*K
+
+__unknown_file (/*-
+
+otherjava.lang.Object"
+baseFileObject±Æ
+
+Ÿ Ÿ(G
+%7boolean"Kcom.simplecity.amp_library.model.BaseFileObject#equals(Ljava/lang/Object;)Z*S
+
+__unknown_file (7
+5
+%5/com.simplecity.amp_library.model.BaseFileObject*S
+
+__unknown_file (7
+5
+%6/com.simplecity.amp_library.model.BaseFileObject2equals(Ljava/lang/Object;)*
+2
+1*è
+startingBlock
+‘# ‘(1é
+ã
+
+” ”(
+%8"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.Object[
+Y
+
+‘+ ‘(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%8*
+10*%
+4
+◊3 ◊(8"
+
+◊, ◊(9
+""*%
+6
+÷D ÷(I"
+
+÷= ÷(J
+""*®
+7
+÷ ÷(%µ≤
+
+÷ ÷('
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*S
+
+__unknown_file (75
+3com.simplecity.amp_library.ui.modelviews.FolderView2
+getClass()ôñ
+
+÷+ ÷(;
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*7
+
+__unknown_file (
+
+otherjava.lang.Object2
+getClass()∑
+¥
+
+÷ ÷(;
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*	
+3
+4
+6*ƒ
+8
+÷ ÷(™
+ß
+
+÷ ÷(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*7
+
+__unknown_file (
+
+otherjava.lang.Object*"
+
+__unknown_file (
+""*
+6
+7*%
+9
+’" ’(&"
+
+’ ’('
+""*ˆ
+10
+’ ’(€
+ÿ
+
+’ ’(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*S
+
+__unknown_file (75
+3com.simplecity.amp_library.ui.modelviews.FolderView*7
+
+__unknown_file (
+
+otherjava.lang.Object*
+8
+9*%
+1
+€ €("
+
+€ €(
+"":'
+
+‘$ ‘(0
+otherjava.lang.ObjectB75
+3com.simplecity.amp_library.ui.modelviews.FolderViewHX

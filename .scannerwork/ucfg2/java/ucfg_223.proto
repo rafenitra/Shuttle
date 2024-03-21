@@ -1,0 +1,337 @@
+
+Ltest.com.androidnavigation.fragment.FragmentInfo#equals(Ljava/lang/Object;)Z€
+v/D:/EPSI/Analyse Code/Shuttle/libraries/navigation/src/main/java/test/com/androidnavigation/fragment/FragmentInfo.java& &("startingBlock*ó
+13,* ,(<•
+’
+,* ,(<
+%10java.lang.Class"__id*h
+
+__unknown_file (L*J2
+0test.com.androidnavigation.fragment.FragmentInfo"
+rootViewController›
+˜
+,D ,([
+%11java.lang.Class"__id*n
+
+__unknown_file (R*P
+8
+that0test.com.androidnavigation.fragment.FragmentInfo"
+rootViewControllerÓÐ
+,* ,(\
+%12boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*4
+
+__unknown_file (
+
+%10java.lang.Class*4
+
+__unknown_file (
+
+%11java.lang.Class2equals(Ljava/lang/Object;)N
+L
+,) ,(\
+%7boolean"__id*+
+
+__unknown_file (
+
+%8boolean*
+9
+10*Ú
+14*+ *(,
+
+* *(-8
+that0test.com.androidnavigation.fragment.FragmentInfo"__id*3
+
+__unknown_file (
+
+ojava.lang.Object”
+‘
+, ,(
+%5java.lang.Class"__id*h
+
+__unknown_file (L*J2
+0test.com.androidnavigation.fragment.FragmentInfo"
+rootViewController¤
+¡
+, ,(&
+%6boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%5java.lang.Class*"
+
+__unknown_file (
+""*
+13
+12*"
+15(< ((A"
+(5 ((B
+""*™
+16( ((!°­
+( ((#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*P
+
+__unknown_file (42
+0test.com.androidnavigation.fragment.FragmentInfo2
+getClass()“
+(' ((3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+²
+( ((3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+14
+15*¿
+17( ((¤
+¡
+( ((
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+15
+16*"
+18' '(""
+' '(#
+""*í
+19' '(Ò
+Ï
+' '(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*P
+
+__unknown_file (42
+0test.com.androidnavigation.fragment.FragmentInfo*3
+
+__unknown_file (
+
+ojava.lang.Object*
+17
+18*!
+1. .(I"
+. .(I
+""*à
+2.7 .(;‹
+ˆ
+.7 .(H
+%26"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"">
+<
+.7 .(H
+%24"__id*#
+
+__unknown_file (
+
+%26*
+1*R
+3. .(">
+<
+. .(4
+%24"__id*#
+
+__unknown_file (
+
+%25*
+1*ƒ
+startingBlock& &(#‰
+†
+% %(
+%27"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+&! &("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%27*
+19*£
+4. .(‹
+ˆ
+. .(
+%23"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*%
+5
+-“ -(˜"
+
+-Œ -(™
+""*¶
+7-h -(l 
+
+	-h -(‚
+%22java.lang.String"__id*q
+
+__unknown_file (U*S
+8
+that0test.com.androidnavigation.fragment.FragmentInfo"
+rootViewControllerTag¨
+¥
+	-h -(Š
+%18boolean"	__compare*"
+
+__unknown_file (
+!=*5
+
+__unknown_file (
+
+%22java.lang.String*"
+
+__unknown_file (
+""Q
+O
+	-h -(Š
+%16boolean"__id*,
+
+__unknown_file (
+
+%18boolean*
+4
+5*ý
+8-- -(B™
+–
+-- -(B
+%19java.lang.String"__id*k
+
+__unknown_file (O*M2
+0test.com.androidnavigation.fragment.FragmentInfo"
+rootViewControllerTagŸ
+œ
+-J -(d
+%20java.lang.String"__id*q
+
+__unknown_file (U*S
+8
+that0test.com.androidnavigation.fragment.FragmentInfo"
+rootViewControllerTagÕÒ
+-- -(e
+%21boolean",java.lang.String#equals(Ljava/lang/Object;)Z*5
+
+__unknown_file (
+
+%19java.lang.String*5
+
+__unknown_file (
+
+%20java.lang.String2equals(Ljava/lang/Object;)P
+N
+-, -(e
+%16boolean"__id*,
+
+__unknown_file (
+
+%17boolean*
+4
+5*Û
+9- -(!™
+–
+- -(!
+%14java.lang.String"__id*k
+
+__unknown_file (O*M2
+0test.com.androidnavigation.fragment.FragmentInfo"
+rootViewControllerTag§
+¤
+- -()
+%15boolean"	__compare*"
+
+__unknown_file (
+!=*5
+
+__unknown_file (
+
+%14java.lang.String*"
+
+__unknown_file (
+""*
+7
+8*&
+10
+,‡ ,(Œ"
+
+,€ ,(
+""*­
+12,_ ,(c›
+˜
+,_ ,(v
+%13java.lang.Class"__id*n
+
+__unknown_file (R*P
+8
+that0test.com.androidnavigation.fragment.FragmentInfo"
+rootViewController¥
+¢
+,_ ,(~
+%9boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%13java.lang.Class*"
+
+__unknown_file (
+""N
+L
+,_ ,(~
+%7boolean"__id*+
+
+__unknown_file (
+
+%9boolean*
+9
+10:!
+& &("
+ojava.lang.ObjectB42
+0test.com.androidnavigation.fragment.FragmentInfoHX

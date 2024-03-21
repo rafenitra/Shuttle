@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask#onPostExecute(Ljava/lang/Boolean;)V
+==
+onPermissionCheck com.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask$PermissionCheckListener#onPermissionCheck(Z)V

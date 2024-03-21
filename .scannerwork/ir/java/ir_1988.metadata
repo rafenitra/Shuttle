@@ -1,0 +1,8 @@
+com.simplecity.amp_library.sql.providers.CustomArtworkContentProvider#checkColumns([Ljava/lang/String;)V
+java.util.HashSet#<init>(Ljava/util/Collection;)V
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
+java.util.HashSet#instance-init#
+java.lang.IllegalArgumentException#instance-init#
+==
+containsAll java.util.AbstractCollection#containsAll(Ljava/util/Collection;)Z

@@ -1,0 +1,3 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#setContentScrimResource(I)V
+==
+setContentScrim android.support.design.widget.CustomCollapsingToolbarLayout#setContentScrim(LDrawable;)V

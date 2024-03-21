@@ -1,0 +1,149 @@
+
+Wcom.simplecity.amp_library.ui.modelviews.QueuePagerItemView#equals(Ljava/lang/Object;)Zz
+p/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/QueuePagerItemView.javaJ J("startingBlock*Ý
+2P7 P(;Š
+‡
+P7 P(H
+%8"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""<
+:
+P7 P(H
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*P
+3P P("<
+:
+P P(4
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*€
+startingBlockJ J(#ˆ
+…
+I I(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+J! J("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*²
+4N7 N(8
+Š
+N N(9C
+that;com.simplecity.amp_library.ui.modelviews.QueuePagerItemView"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectŠ
+‡
+P P(
+%5"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*!
+5L< L(A"
+L5 L(B
+""*¡
+6L L(!»¸
+L L(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*[
+
+__unknown_file (?=
+;com.simplecity.amp_library.ui.modelviews.QueuePagerItemView2
+getClass()“
+L' L(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+²
+L L(3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+4
+5*¼
+7L L(¤
+¡
+L L(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+5
+6*!
+8K K(""
+K K(#
+""*õ
+9K K(Ý
+Ú
+K K(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*[
+
+__unknown_file (?=
+;com.simplecity.amp_library.ui.modelviews.QueuePagerItemView*3
+
+__unknown_file (
+
+ojava.lang.Object*
+7
+8*!
+1P P(I"
+P P(I
+"":!
+J J("
+ojava.lang.ObjectB?=
+;com.simplecity.amp_library.ui.modelviews.QueuePagerItemViewHX

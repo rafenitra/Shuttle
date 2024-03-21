@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.AestheticFab#invalidateColors(LColorIsDarkState;)V
+==
+setImageDrawable com.afollestad.aesthetic.AestheticFab#setImageDrawable(LDrawable;)V

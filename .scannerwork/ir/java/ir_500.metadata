@@ -1,0 +1,3 @@
+com.simplecity.amp_library.glide.utils.AlwaysCrossFade#build(ZZ)LGlideAnimation;
+com.simplecity.amp_library.glide.utils.AlwaysCrossFade$RealCrossFadeAnimation#instance-init#
+com.simplecity.amp_library.glide.utils.AlwaysCrossFade$RealCrossFadeAnimation#<init>(LGlideAnimation;)V

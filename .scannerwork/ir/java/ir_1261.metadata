@@ -1,0 +1,5 @@
+com.simplecity.amp_library.sql.providers.PlayCountContentProvider#query(LUri;[Ljava/lang/String;Ljava/lang/String;[Ljava/lang/String;Ljava/lang/String;)LCursor;
+null
+java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
+com.simplecity.amp_library.sql.providers.PlayCountContentProvider#checkColumns([Ljava/lang/String;)V
+java.lang.IllegalArgumentException#instance-init#

@@ -1,0 +1,5 @@
+com.simplecity.amp_library.playback.MusicService#onCreate()V
+null
+com.simplecity.amp_library.playback.MusicService#scheduleDelayedShutdown()V
+==
+registerExternalStorageListener com.simplecity.amp_library.playback.MusicService#registerExternalStorageListener()V

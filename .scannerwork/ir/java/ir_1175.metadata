@@ -1,0 +1,8 @@
+com.afollestad.aesthetic.Aesthetic#invalidateStatusBar(LAppCompatActivity;)V
+com.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;
+com.afollestad.aesthetic.Util#resolveColor(LContext;I)I
+com.afollestad.aesthetic.Util#getRootView(LActivity;)LViewGroup;
+com.afollestad.aesthetic.Util#isColorLight(I)Z
+com.afollestad.aesthetic.Util#setStatusBarColorCompat(LAppCompatActivity;I)V
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+com.afollestad.aesthetic.Util#setLightStatusBarCompat(LAppCompatActivity;Z)V

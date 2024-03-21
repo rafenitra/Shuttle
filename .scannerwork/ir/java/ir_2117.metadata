@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.SearchHeaderView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/SearchHeaderView$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.SearchHeaderView$ViewHolder#instance-init#
+com.simplecity.amp_library.ui.modelviews.SearchHeaderView$ViewHolder#<init>(LView;)V

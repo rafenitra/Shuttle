@@ -1,0 +1,7 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#<init>(LContext;LAttributeSet;I)V
+null
+==
+setStatusBarScrim android.support.design.widget.CustomCollapsingToolbarLayout#setStatusBarScrim(LDrawable;)V
+setTitle android.support.design.widget.CustomCollapsingToolbarLayout#setTitle(Ljava/lang/CharSequence;)V
+setContentScrim android.support.design.widget.CustomCollapsingToolbarLayout#setContentScrim(LDrawable;)V
+setSubtitle android.support.design.widget.CustomCollapsingToolbarLayout#setSubtitle(Ljava/lang/CharSequence;)V

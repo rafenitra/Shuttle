@@ -1,0 +1,6 @@
+com.simplecity.amp_library.playback.MediaSessionManager#updateMediaSession(Ljava/lang/String;)V
+null
+java.lang.String#valueOf([C)Ljava/lang/String;
+com.simplecity.amp_library.playback.MediaSessionManager#getMediaSessionActions()J
+java.lang.String#equals(Ljava/lang/Object;)Z
+com.simplecity.amp_library.playback.MediaSessionManager#updateMediaSessionArtwork(LMediaMetadataCompat/Builder;)V

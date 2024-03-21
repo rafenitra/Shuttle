@@ -1,0 +1,2 @@
+com.simplecity.amp_library.utils.FileHelper#deleteFile(Ljava/io/File;)Z
+com.simplecity.amp_library.utils.FileHelper#DeleteRecursive(Ljava/io/File;)Z

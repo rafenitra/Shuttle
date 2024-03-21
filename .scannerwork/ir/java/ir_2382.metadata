@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.ShuffleView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/ShuffleView$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.ShuffleView$ViewHolder#instance-init#
+com.simplecity.amp_library.ui.modelviews.ShuffleView$ViewHolder#<init>(LView;)V

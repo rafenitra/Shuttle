@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.screens.tagger.TaggerTask#onPostExecute(Ljava/lang/Boolean;)V
+==
+onFailure com.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener#onFailure()V
+onSuccess com.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener#onSuccess()V

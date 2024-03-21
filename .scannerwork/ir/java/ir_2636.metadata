@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.ActiveInactiveColors#create(II)Lcom/afollestad/aesthetic/ActiveInactiveColors;
+com.afollestad.aesthetic.ActiveInactiveColors#<init>(II)V
+com.afollestad.aesthetic.ActiveInactiveColors#instance-init#

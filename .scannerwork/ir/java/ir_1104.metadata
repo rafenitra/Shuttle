@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#newInstance(Ljava/lang/String;Z)Lcom/simplecity/amp_library/ui/screens/folders/FolderFragment;
+null
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#instance-init#
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#<init>()V

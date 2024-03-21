@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.PlaybackManager#release()V
+==
+isPlaying com.simplecity.amp_library.playback.PlaybackManager#isPlaying()Z

@@ -1,0 +1,2 @@
+com.github.florent37.glidepalette.BitmapPalette#crossfade(Z)Lcom/github/florent37/glidepalette/BitmapPalette;
+com.github.florent37.glidepalette.BitmapPalette#assertTargetsIsNotEmpty()V

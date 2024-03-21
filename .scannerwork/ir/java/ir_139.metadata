@@ -1,0 +1,4 @@
+com.simplecity.amp_library.utils.ThreadUtils#ensureNotOnMainThread()V
+java.lang.IllegalStateException#instance-init#
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+java.lang.Thread#currentThread()Ljava/lang/Thread;

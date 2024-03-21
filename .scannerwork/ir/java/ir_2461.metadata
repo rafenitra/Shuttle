@@ -1,0 +1,2 @@
+com.simplecity.amp_library.billing.BillingManager#queryPurchases()V
+com.simplecity.amp_library.billing.BillingManager#startServiceConnection(LUnsafeAction;)V

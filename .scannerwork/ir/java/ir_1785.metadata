@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#removeDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)V
+==
+contains java.util.List#contains(Ljava/lang/Object;)Z
+remove java.util.List#remove(Ljava/lang/Object;)Z
+isEmpty java.util.List#isEmpty()Z

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.adapters.PagerAdapter#getPageTitle(I)Ljava/lang/CharSequence;
+==
+getItem com.simplecity.amp_library.ui.adapters.PagerAdapter#getItem(I)LFragment;

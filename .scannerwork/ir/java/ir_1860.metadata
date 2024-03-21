@@ -1,0 +1,9 @@
+com.simplecity.amp_library.playback.PlaybackManager#onTrackEnded(LPlayback;Z)V
+com.simplecity.amp_library.playback.PlaybackManager#notifyChange(Ljava/lang/String;)V
+==
+play com.simplecity.amp_library.playback.PlaybackManager#play()V
+getPlayback com.simplecity.amp_library.playback.PlaybackManager#getPlayback()LPlayback;
+setNextTrack com.simplecity.amp_library.playback.PlaybackManager#setNextTrack()V
+seekTo com.simplecity.amp_library.playback.PlaybackManager#seekTo(J)V
+next com.simplecity.amp_library.playback.PlaybackManager#next(Z)Z
+pause com.simplecity.amp_library.playback.PlaybackManager#pause(Z)V

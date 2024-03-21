@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#onCreateDialog(LBundle;)LDialog;
+null
+com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#setupViews(LView;)V
+==
+populateViews com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#populateViews()V

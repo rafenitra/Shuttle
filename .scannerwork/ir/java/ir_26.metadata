@@ -1,0 +1,3 @@
+com.github.florent37.glidepalette.GlidePalette#intoTextColor(LTextView;)Lcom/github/florent37/glidepalette/GlidePalette;
+==
+intoTextColor com.github.florent37.glidepalette.GlidePalette#intoTextColor(LTextView;I)Lcom/github/florent37/glidepalette/GlidePalette;

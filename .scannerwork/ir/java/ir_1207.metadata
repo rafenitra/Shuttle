@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.Aesthetic#colorStatusBar()LObservable;
+==
+colorPrimaryDark com.afollestad.aesthetic.Aesthetic#colorPrimaryDark()LObservable;

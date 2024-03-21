@@ -1,0 +1,32 @@
+
+Mcom.simplecity.amp_library.saf.SafManager#requiresPermission(Ljava/io/File;)Zh
+^/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/saf/SafManager.javaM M(%"1*–
+1N N(!Ñ
+Å
+N N('
+%0java.lang.String"^com.simplecity.amp_library.saf.SafManager#getExtSdCardFolder(Ljava/io/File;)Ljava/lang/String;*I
+
+__unknown_file (-+
+)com.simplecity.amp_library.saf.SafManager*2
+
+__unknown_file (
+
+filejava.io.File•
+¢
+N N(/
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+"""
+N N(0
+"": 
+M& M(/
+filejava.io.FileB-+
+)com.simplecity.amp_library.saf.SafManagerHX

@@ -1,0 +1,3 @@
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#setItems(Ljava/util/List;)LDisposable;
+==
+setItems com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#setItems(Ljava/util/List;LCompletionListUpdateCallback;)LDisposable;

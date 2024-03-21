@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.BgIconColorState#create(ILActiveInactiveColors;)Lcom/afollestad/aesthetic/BgIconColorState;
+com.afollestad.aesthetic.BgIconColorState#<init>(ILActiveInactiveColors;)V
+com.afollestad.aesthetic.BgIconColorState#instance-init#

@@ -1,0 +1,10 @@
+com.simplecity.amp_library.ui.views.SnowfallView#addSnow(I)V
+com.simplecity.amp_library.ui.views.SnowfallView$Snowflake#<init>(FFFFFI)V
+com.simplecity.amp_library.ui.views.SnowfallView$Snowflake#instance-init#
+java.lang.StrictMath#sin(D)D
+java.lang.StrictMath#cos(D)D
+java.lang.StrictMath#toRadians(D)D
+==
+nextDouble java.util.Random#nextDouble()D
+add java.util.List#add(Ljava/lang/Object;)Z
+nextFloat java.util.Random#nextFloat()F

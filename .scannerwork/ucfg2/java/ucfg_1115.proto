@@ -1,0 +1,149 @@
+
+[com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#equals(Ljava/lang/Object;)Z~
+t/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView.javaK K("startingBlock*Ý
+2Q[ Q(_Š
+‡
+Q[ Q(x
+%8"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""<
+:
+Q[ Q(x
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*P
+3Q* Q(:<
+:
+Q* Q(X
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*€
+startingBlockK K(#ˆ
+…
+J J(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+K! K("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*¶
+4O? O(@‘
+Ž
+O O(AG
+that?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectŠ
+‡
+Q Q('
+%5"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*!
+5M< M(A"
+M5 M(B
+""*¥
+6M M(!¿¼
+M M(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*_
+
+__unknown_file (CA
+?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView2
+getClass()“
+M' M(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+²
+M M(3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+4
+5*¼
+7M M(¤
+¡
+M M(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+5
+6*!
+8L L(""
+L L(#
+""*ù
+9L L(á
+Þ
+L L(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*_
+
+__unknown_file (CA
+?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView*3
+
+__unknown_file (
+
+ojava.lang.Object*
+7
+8*!
+1Q Q(y"
+Q Q(y
+"":!
+K K("
+ojava.lang.ObjectBCA
+?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerViewHX

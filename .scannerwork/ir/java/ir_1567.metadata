@@ -1,0 +1,3 @@
+com.simplecity.amp_library.utils.StringUtils#makeSongsAndTimeLabel(LContext;IJ)Ljava/lang/String;
+com.simplecity.amp_library.utils.StringUtils#makeLongTimeString(LContext;J)Ljava/lang/String;
+com.simplecity.amp_library.utils.StringUtils#makeSongsLabel(LContext;I)Ljava/lang/String;

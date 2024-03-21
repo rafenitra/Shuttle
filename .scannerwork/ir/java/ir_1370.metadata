@@ -1,0 +1,4 @@
+com.simplecity.amp_library.utils.sorting.SortManager#sortAlbums(Ljava/util/List;)V
+==
+getAlbumsSortOrder com.simplecity.amp_library.utils.sorting.SortManager#getAlbumsSortOrder()I
+sortAlbums com.simplecity.amp_library.utils.sorting.SortManager#sortAlbums(Ljava/util/List;I)V

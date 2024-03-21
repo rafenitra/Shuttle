@@ -1,0 +1,20 @@
+
+Wcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#canShowMiniPlayer()ZÅ
+w/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager.java ($"1*Ω
+1 (¢
+ü
+ (
+%0java.util.List"__id*w
+
+__unknown_file ([*YD
+Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager"
+miniPlayerLocksus
+ ((
+%1boolean"java.util.List#isEmpty()Z*2
+
+__unknown_file (
+
+%0java.util.List2	isEmpty()"
+ ()
+""BFD
+Bcom.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManagerHX

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.DrawerIconImageView#invalidateColors(II)V
+==
+setImageDrawable com.simplecity.amp_library.ui.views.DrawerIconImageView#setImageDrawable(LDrawable;)V

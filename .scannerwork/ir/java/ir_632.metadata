@@ -1,0 +1,3 @@
+android.support.design.widget.CustomCollapsingTextHelper#setInterpolatedTextSize(F)V
+android.support.design.widget.CustomCollapsingTextHelper#calculateUsingTextSize(F)V
+android.support.design.widget.CustomCollapsingTextHelper#ensureExpandedTexture()V

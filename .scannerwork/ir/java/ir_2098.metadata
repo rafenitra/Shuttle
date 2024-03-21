@@ -1,0 +1,3 @@
+com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createSingleList(LContext;LFunction;LQuery;)LSingle;
+java.util.Collections#emptyList()Ljava/util/List;
+com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createObservableList(LContext;LFunction;LQuery;)LObservable;

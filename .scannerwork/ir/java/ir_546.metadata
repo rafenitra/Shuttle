@@ -1,0 +1,4 @@
+com.simplecity.amp_library.utils.CustomMediaScanner#scanFiles(LContext;Ljava/util/List;Lcom/simplecity/amp_library/utils/CustomMediaScanner$ScanCompletionListener;)V
+null
+com.simplecity.amp_library.utils.CustomMediaScanner#<init>(LContext;Ljava/util/List;Lcom/simplecity/amp_library/utils/CustomMediaScanner$ScanCompletionListener;)V
+com.simplecity.amp_library.utils.CustomMediaScanner#instance-init#

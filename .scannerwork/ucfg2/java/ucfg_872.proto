@@ -1,0 +1,209 @@
+
+Qcom.simplecity.amp_library.sql.legacy.WhitelistFolder#equals(Ljava/lang/Object;)Zt
+j/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/sql/legacy/WhitelistFolder.java ("startingBlock*•
+2= (Aï
+í
+= (H
+%13java.lang.String"__id*g
+
+__unknown_file (K*I
+=
+that5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
+folderß
+§
+= (P
+%10boolean"	__compare*"
+
+__unknown_file (
+==*5
+
+__unknown_file (
+
+%13java.lang.String*"
+
+__unknown_file (
+""O
+M
+= (P
+%8boolean"__id*,
+
+__unknown_file (
+
+%10boolean*
+1*„
+3  (&è
+å
+  (&
+%11java.lang.String"__id*a
+
+__unknown_file (E*C7
+5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
+folderï
+í
+. (9
+%12java.lang.String"__id*g
+
+__unknown_file (K*I
+=
+that5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
+folder‘—
+  (:
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*5
+
+__unknown_file (
+
+%11java.lang.String*5
+
+__unknown_file (
+
+%12java.lang.String2equals(Ljava/lang/Object;)N
+L
+  (:
+%8boolean"__id*+
+
+__unknown_file (
+
+%9boolean*
+1*É
+startingBlock (#â
+Ü
+ (
+%14"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+! ("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%14*
+11*Œ
+4 (é
+ã
+ (
+%6java.lang.String"__id*a
+
+__unknown_file (E*C7
+5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
+folder•
+¢
+ (
+%7boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%6java.lang.String*"
+
+__unknown_file (
+""*
+2
+3*!
+5" ('"
+ ((
+""*µ
+61 (2á
+Ñ
+ (3=
+that5com.simplecity.amp_library.sql.legacy.WhitelistFolder"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectì
+ê
+ (
+%5boolean"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+4
+5*!
+7< (A"
+5 (B
+""*õ
+8 (!µ≤
+ (#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*U
+
+__unknown_file (97
+5com.simplecity.amp_library.sql.legacy.WhitelistFolder2
+getClass()ìê
+' (3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+≤
+ (3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+6
+7*º
+9 (§
+°
+ (
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+7
+8*"
+10 (""
+ (#
+""*Ò
+11 (◊
+‘
+ (
+%0boolean"	__compare*"
+
+__unknown_file (
+==*U
+
+__unknown_file (97
+5com.simplecity.amp_library.sql.legacy.WhitelistFolder*3
+
+__unknown_file (
+
+ojava.lang.Object*
+9
+10*!
+1 (Q"
+ (Q
+"":!
+ ("
+ojava.lang.ObjectB97
+5com.simplecity.amp_library.sql.legacy.WhitelistFolderHX

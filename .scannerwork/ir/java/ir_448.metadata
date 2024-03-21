@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.CircleImageView#setImageDrawable(LDrawable;)V
+com.simplecity.amp_library.ui.views.CircleImageView#getBitmapFromDrawable(LDrawable;)LBitmap;
+com.simplecity.amp_library.ui.views.CircleImageView#setup()V

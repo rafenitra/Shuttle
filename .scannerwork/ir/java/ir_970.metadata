@@ -1,0 +1,8 @@
+com.simplecity.amp_library.playback.MusicService#toggleShuffleMode()V
+com.simplecity.amp_library.playback.MusicService#showToast(I)V
+==
+setRepeatMode com.simplecity.amp_library.playback.MusicService#setRepeatMode(I)V
+getRepeatMode com.simplecity.amp_library.playback.MusicService#getRepeatMode()I
+notifyChange com.simplecity.amp_library.playback.MusicService#notifyChange(Ljava/lang/String;)V
+getShuffleMode com.simplecity.amp_library.playback.MusicService#getShuffleMode()I
+setShuffleMode com.simplecity.amp_library.playback.MusicService#setShuffleMode(I)V

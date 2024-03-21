@@ -1,0 +1,4 @@
+com.simplecity.amp_library.utils.color.ColorHelper#findContrastColorAgainstDark(IIZD)I
+com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateContrast(II)D
+com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#HSLToColor([F)I
+com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#colorToHSL(I[F)V

@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.ViewHintTextColorAction#create(LTextView;)Lcom/afollestad/aesthetic/ViewHintTextColorAction;
+com.afollestad.aesthetic.ViewHintTextColorAction#<init>(LTextView;)V
+com.afollestad.aesthetic.ViewHintTextColorAction#instance-init#

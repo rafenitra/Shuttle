@@ -1,0 +1,9 @@
+com.simplecity.amp_library.playback.QueueManager#deserializePlaylist(Ljava/lang/String;Ljava/util/List;)Ljava/util/List;
+java.util.ArrayList#<init>()V
+null
+java.lang.String#length()I
+java.util.ArrayList#instance-init#
+java.lang.String#charAt(I)C
+java.util.TreeMap#<init>()V
+==
+add java.util.List#add(Ljava/lang/Object;)Z

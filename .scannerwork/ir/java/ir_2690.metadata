@@ -1,0 +1,8 @@
+com.simplecity.amp_library.model.CategoryItem#getCategoryItems(LSharedPreferences;)Ljava/util/List;
+java.util.ArrayList#<init>()V
+com.simplecity.amp_library.model.CategoryItem#<init>(ILSharedPreferences;)V
+java.util.Collections#sort(Ljava/util/List;Ljava/util/Comparator;)V
+java.util.ArrayList#instance-init#
+com.simplecity.amp_library.model.CategoryItem#instance-init#
+==
+add java.util.List#add(Ljava/lang/Object;)Z

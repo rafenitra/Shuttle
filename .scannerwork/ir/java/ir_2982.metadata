@@ -1,0 +1,5 @@
+com.simplecity.amp_library.utils.FileBrowser#atHomeDirectory()Z
+==
+getCurrentDir com.simplecity.amp_library.utils.FileBrowser#getCurrentDir()Ljava/io/File;
+compareTo java.io.File#compareTo(Ljava/io/File;)I
+getHomeDir com.simplecity.amp_library.utils.FileBrowser#getHomeDir()Ljava/io/File;

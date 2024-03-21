@@ -1,0 +1,6 @@
+com.github.florent37.glidepalette.BitmapPalette#apply(LPalette;Z)V
+null
+com.github.florent37.glidepalette.BitmapPalette#getColor(LPalette/Swatch;I)I
+com.github.florent37.glidepalette.BitmapPalette#crossfadeTargetBackground(LPaletteTarget;LPair;I)V
+==
+onPaletteLoaded com.github.florent37.glidepalette.BitmapPalette$CallBack#onPaletteLoaded(LPalette;)V

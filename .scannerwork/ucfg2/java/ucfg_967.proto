@@ -1,0 +1,65 @@
+
+Ccom.simplecity.amp_library.model.Query#toString()Ljava/lang/String;e
+[/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Query.java? ?("1*³
+1@ @(^
+\
+@ A(
+%0java.lang.String"__concat*
+@ @(
+
+Query{*
+A A(
+
+\nuri=…
+‚
+B2 B(<
+%1java.lang.String[]"__id*V
+
+__unknown_file (:*8(
+&com.simplecity.amp_library.model.Query"
+
+projectionÑ
+Î
+B" B(=
+%2java.lang.String"@java.util.Arrays#toString([Ljava/lang/Object;)Ljava/lang/String;*0
+
+__unknown_file ("
+java.util.Arrays*6
+
+__unknown_file (
+
+%1java.lang.String[]
+
+C" C(+
+%3java.lang.String"__id*U
+
+__unknown_file (9*7(
+&com.simplecity.amp_library.model.Query"
+	selection~
+|
+D, D(0
+%4java.lang.String[]"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Query"
+argsÑ
+Î
+D D(1
+%5java.lang.String"@java.util.Arrays#toString([Ljava/lang/Object;)Ljava/lang/String;*0
+
+__unknown_file ("
+java.util.Arrays*6
+
+__unknown_file (
+
+%4java.lang.String[]|
+z
+E E(!
+%6java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Query"
+sort"
+@ F(
+""B*(
+&com.simplecity.amp_library.model.QueryH

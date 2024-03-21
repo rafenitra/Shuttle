@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.modelviews.AlbumArtistView#bindView(Lcom/simplecity/amp_library/ui/modelviews/AlbumArtistView$ViewHolder;)V
+java.lang.String#valueOf([C)Ljava/lang/String;
+==
+getViewType com.simplecity.amp_library.ui.modelviews.AlbumArtistView#getViewType()I

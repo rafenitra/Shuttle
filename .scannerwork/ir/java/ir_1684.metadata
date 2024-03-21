@@ -1,0 +1,4 @@
+com.simplecity.amp_library.model.Song#<init>(LCursor;)V
+com.simplecity.amp_library.model.Song#setArtworkKey()V
+==
+setSortKey com.simplecity.amp_library.model.Song#setSortKey()V

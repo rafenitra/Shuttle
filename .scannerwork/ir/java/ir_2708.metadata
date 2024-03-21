@@ -1,0 +1,3 @@
+com.github.florent37.glidepalette.BitmapPalette#intoCallBack(Lcom/github/florent37/glidepalette/BitmapPalette$CallBack;)Lcom/github/florent37/glidepalette/BitmapPalette;
+==
+add java.util.ArrayList#add(Ljava/lang/Object;)Z

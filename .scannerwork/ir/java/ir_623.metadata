@@ -1,0 +1,10 @@
+android.support.design.widget.CustomCollapsingTextHelper#calculateOffsets(F)V
+android.support.design.widget.CustomCollapsingTextHelper#interpolateBounds(F)V
+android.support.design.widget.CustomCollapsingTextHelper#getCurrentExpandedTextColor()I
+android.support.design.widget.CustomCollapsingTextHelper#getCurrentCollapsedSubColor()I
+android.support.design.widget.CustomCollapsingTextHelper#getCurrentExpandedSubColor()I
+android.support.design.widget.CustomCollapsingTextHelper#blendColors(IIF)I
+android.support.design.widget.CustomCollapsingTextHelper#getCurrentCollapsedTextColor()I
+android.support.design.widget.CustomCollapsingTextHelper#lerp(FFFLInterpolator;)F
+android.support.design.widget.CustomCollapsingTextHelper#setInterpolatedTextSize(F)V
+android.support.design.widget.CustomCollapsingTextHelper#setInterpolatedSubSize(F)V

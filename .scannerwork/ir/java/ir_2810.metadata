@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.TabViewModel#onCheckboxClicked(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;Z)V
+==
+onFolderChecked com.simplecity.amp_library.ui.modelviews.TabViewModel$Listener#onFolderChecked(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel;Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;)V

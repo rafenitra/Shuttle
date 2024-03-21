@@ -1,0 +1,2 @@
+com.simplecity.amp_library.playback.MediaManager#getQueue()Ljava/util/List;
+java.util.ArrayList#<init>()V

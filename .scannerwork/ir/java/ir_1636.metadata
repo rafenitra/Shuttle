@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.ArtworkView#onClick()V
+==
+onClick com.simplecity.amp_library.ui.modelviews.ArtworkView$ClickListener#onClick(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView;)V

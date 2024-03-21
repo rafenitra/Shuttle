@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#newInstance(Ljava/io/Serializable;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerDialog;
+null
+com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#instance-init#
+com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#<init>()V

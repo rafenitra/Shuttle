@@ -1,0 +1,6 @@
+com.simplecity.amp_library.playback.PlaybackManager#play()V
+com.simplecity.amp_library.playback.PlaybackManager#notifyChange(Ljava/lang/String;)V
+==
+playAutoShuffleList com.simplecity.amp_library.playback.PlaybackManager#playAutoShuffleList()V
+getAudioSessionId com.simplecity.amp_library.playback.PlaybackManager#getAudioSessionId()I
+next com.simplecity.amp_library.playback.PlaybackManager#next(Z)Z

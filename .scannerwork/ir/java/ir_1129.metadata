@@ -1,0 +1,7 @@
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#onMenuItemClick(LMenuItem;)Z
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#updateMenuItems()V
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#showWhitelist(Z)V
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#showBlacklist(Z)V
+==
+reload com.simplecity.amp_library.ui.screens.folders.FolderFragment#reload()V
+changeDir com.simplecity.amp_library.ui.screens.folders.FolderFragment#changeDir(Ljava/io/File;)V

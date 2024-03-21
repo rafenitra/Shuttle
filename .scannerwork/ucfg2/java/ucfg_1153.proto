@@ -1,0 +1,43 @@
+
+Ecom.simplecity.amp_library.playback.PlaybackManager#recentlyPlayed()Zt
+h/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/PlaybackManager.java– –("3* 
+2
+— —($s
+q
+
+— —(8
+
+%1long"%java.lang.System#currentTimeMillis()J*0
+
+__unknown_file ("
+java.lang.System”
+‘
+
+— —(Y
+%2boolean"	__compare*!
+
+__unknown_file (
+<*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+1*Ü
+3
+— —(Â¿
+
+— —(
+%0boolean"@com.simplecity.amp_library.playback.PlaybackManager#isPlaying()Z*S
+
+__unknown_file (75
+3com.simplecity.amp_library.playback.PlaybackManager2isPlaying()*
+2
+1*%
+1
+— —(g"
+
+— —(g
+""B75
+3com.simplecity.amp_library.playback.PlaybackManagerX

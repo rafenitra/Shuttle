@@ -1,0 +1,5 @@
+com.github.florent37.glidepalette.BitmapPalette#start(LBitmap;)V
+null
+==
+apply com.github.florent37.glidepalette.BitmapPalette#apply(LPalette;Z)V
+intercept com.github.florent37.glidepalette.BitmapPalette$PaletteBuilderInterceptor#intercept(LPalette/Builder;)LPalette/Builder;

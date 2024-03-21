@@ -1,0 +1,8 @@
+com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#onUpdate(LContext;LAppWidgetManager;[I)V
+null
+==
+getWidgetLayoutId com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getWidgetLayoutId()I
+initialiseWidget com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#initialiseWidget(LContext;LSharedPreferences;I)V
+getSharedPreferences com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getSharedPreferences(LContext;)LSharedPreferences;
+getUpdateCommandString com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getUpdateCommandString()Ljava/lang/String;
+getLayoutIdString com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#getLayoutIdString()Ljava/lang/String;

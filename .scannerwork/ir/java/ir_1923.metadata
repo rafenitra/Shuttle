@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#clearView(LRecyclerView;LRecyclerView/ViewHolder;)V
+==
+onClear com.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnClearListener#onClear()V
+onDrop com.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnDropListener#onDrop(II)V

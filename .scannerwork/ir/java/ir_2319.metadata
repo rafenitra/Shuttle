@@ -1,0 +1,2 @@
+com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#selectVibrantCandidate(LPalette/Swatch;LPalette/Swatch;)LPalette/Swatch;
+com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#hasEnoughPopulation(LPalette/Swatch;)Z

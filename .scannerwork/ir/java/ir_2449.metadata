@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.ViewTextColorAction#create(LTextView;)Lcom/afollestad/aesthetic/ViewTextColorAction;
+com.afollestad.aesthetic.ViewTextColorAction#<init>(LTextView;)V
+com.afollestad.aesthetic.ViewTextColorAction#instance-init#

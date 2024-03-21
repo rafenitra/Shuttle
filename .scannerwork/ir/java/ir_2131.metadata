@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.DragHandle#setActivated(Z)V
+==
+getColorObservable com.simplecity.amp_library.ui.views.DragHandle#getColorObservable()LObservable;

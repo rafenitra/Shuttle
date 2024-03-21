@@ -1,0 +1,3 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#setStatusBarScrimResource(I)V
+==
+setStatusBarScrim android.support.design.widget.CustomCollapsingToolbarLayout#setStatusBarScrim(LDrawable;)V

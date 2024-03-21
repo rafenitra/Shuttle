@@ -1,0 +1,5 @@
+com.simplecity.amp_library.model.Song#getTrackNumberLabel()Ljava/lang/String;
+java.lang.String#valueOf([C)Ljava/lang/String;
+java.lang.String#valueOf(I)Ljava/lang/String;
+==
+getTagInfo com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;

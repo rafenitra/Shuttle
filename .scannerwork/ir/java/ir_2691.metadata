@@ -1,0 +1,4 @@
+com.simplecity.amp_library.model.CategoryItem#savePrefs(LSharedPreferences/Editor;)V
+==
+getSortKey com.simplecity.amp_library.model.CategoryItem#getSortKey()Ljava/lang/String;
+getEnabledKey com.simplecity.amp_library.model.CategoryItem#getEnabledKey()Ljava/lang/String;

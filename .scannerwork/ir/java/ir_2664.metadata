@@ -1,0 +1,11 @@
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#equalizerCopyToCustom()V
+java.lang.StringBuilder#instance-init#
+java.lang.String#valueOf(I)Ljava/lang/String;
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#deleteCharAt(I)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;
+java.lang.StringBuilder#append(F)Ljava/lang/StringBuilder;
+==
+length java.lang.AbstractStringBuilder#length()I
+getBandLevelRange com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#getBandLevelRange()[I

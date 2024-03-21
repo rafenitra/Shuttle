@@ -1,0 +1,6 @@
+com.simplecity.amp_library.utils.FileHelper#DeleteRecursive(Ljava/io/File;)Z
+com.simplecity.amp_library.utils.FileHelper#DeleteRecursive(Ljava/io/File;)Z
+==
+listFiles java.io.File#listFiles()[Ljava/io/File;
+delete java.io.File#delete()Z
+isDirectory java.io.File#isDirectory()Z

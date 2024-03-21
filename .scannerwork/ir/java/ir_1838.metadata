@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.PlaybackManager#load(ZLjava/lang/Boolean;J)V
+com.simplecity.amp_library.playback.PlaybackManager#loadAttempt(ILjava/lang/Boolean;JLFunction1;)V
+==
+stop com.simplecity.amp_library.playback.PlaybackManager#stop(Z)V

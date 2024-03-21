@@ -1,0 +1,3 @@
+com.github.florent37.glidepalette.GlidePalette#onResourceReady(Ljava/lang/Object;Ljava/lang/Object;LTarget;ZZ)Z
+==
+getBitmap com.github.florent37.glidepalette.GlidePalette$BitmapHolder#getBitmap()LBitmap;

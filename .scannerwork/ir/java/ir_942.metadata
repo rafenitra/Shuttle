@@ -1,0 +1,6 @@
+com.simplecity.amp_library.playback.MusicService#releaseServiceUiAndStop()V
+null
+com.simplecity.amp_library.playback.MusicService#cancelNotification()V
+==
+isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z
+saveState com.simplecity.amp_library.playback.MusicService#saveState(Z)V

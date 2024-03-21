@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.modelviews.FolderView#bindView(Lcom/simplecity/amp_library/ui/modelviews/FolderView$ViewHolder;)V
+com.simplecity.amp_library.ui.modelviews.FolderView$DurationTask#<init>(LTextView;LFileObject;)V
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+com.simplecity.amp_library.ui.modelviews.FolderView$DurationTask#instance-init#

@@ -1,0 +1,44 @@
+
+Ccom.simplecity.amp_library.model.Album#toString()Ljava/lang/String;g
+[/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java¬ ¬("1*”
+1
+­ ­(a
+_
+
+­ ®(
+%0java.lang.String"__concat*
+
+­ ­(
+
+Album{*
+
+® ®(
+id=~
+|
+
+¯ ¯(!
+%1java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Album"
+nameŠ
+‡
+
+±( ±(7
+%2java.lang.String"__id*[
+
+__unknown_file (?*=(
+&com.simplecity.amp_library.model.Album"
+albumArtistName}
+{
+
+¶ ¶("
+%3java.util.List"__id*Q
+
+__unknown_file (5*3(
+&com.simplecity.amp_library.model.Album"
+paths"
+
+­ ·(
+""B*(
+&com.simplecity.amp_library.model.AlbumH

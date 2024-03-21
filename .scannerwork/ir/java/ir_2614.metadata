@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.modelviews.FolderView#areContentsEqual(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;
+==
+equals com.simplecity.amp_library.model.BaseFileObject#equals(Ljava/lang/Object;)Z

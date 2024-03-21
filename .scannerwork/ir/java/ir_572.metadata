@@ -1,0 +1,4 @@
+com.simplecity.amp_library.model.Album#getArtworkPath()Ljava/lang/String;
+==
+isEmpty java.util.List#isEmpty()Z
+get java.util.List#get(I)Ljava/lang/Object;

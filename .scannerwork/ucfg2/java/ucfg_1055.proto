@@ -1,0 +1,81 @@
+
+Ycom.simplecity.amp_library.model.Song#compareTo(Lcom/simplecity/amp_library/model/Song;)If
+Z/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaë ë("startingBlock*µ
+startingBlock
+ë ë(,ò
+ï
+
+è è(
+%2"
+__annotate*(
+
+__unknown_file (
+
+Nullable*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song¢
+ü
+
+ê ê(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Songó
+î
+
+ë ë(!
+%4"
+__annotate*'
+
+__unknown_file (	
+NonNull*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song∏
+µ
+
+ë' ë(+-
+song%com.simplecity.amp_library.model.Song"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%4*
+1*µ
+1
+í í(¬ø
+
+í' í(3
+%0java.lang.String"Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2getSortKey()»≈
+
+í5 í(F
+%1java.lang.String"Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song2getSortKey()"
+
+í í(H
+"":;
+
+ë ë(+-
+song%com.simplecity.amp_library.model.SongB)'
+%com.simplecity.amp_library.model.SongHX

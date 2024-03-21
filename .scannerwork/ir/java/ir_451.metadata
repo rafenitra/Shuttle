@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.views.CircleImageView#setup()V
+null
+com.simplecity.amp_library.ui.views.CircleImageView#updateShaderMatrix()V
+java.lang.Math#min(II)I

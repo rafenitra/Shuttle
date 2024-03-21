@@ -11,6 +11,8 @@ import java.util.Map;
 
 public class HttpServer {
 
+    private static final String TEXT_PLAIN = "text/plain";
+
     private static final String TAG = "HttpServer";
 
     private static HttpServer sHttpServer;
@@ -177,9 +179,9 @@ public class HttpServer {
         put("html", "text/html");
         put("xml", "text/xml");
         put("java", "text/x-java-source, text/java");
-        put("md", "text/plain");
-        put("txt", "text/plain");
-        put("asc", "text/plain");
+        put("md", TEXT_PLAIN);
+        put("txt", TEXT_PLAIN);
+        put("asc", TEXT_PLAIN);
         put("gif", "image/gif");
         put("jpg", "image/jpeg");
         put("jpeg", "image/jpeg");

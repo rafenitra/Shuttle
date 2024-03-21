@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.QueueManager#getCurrentSong()LSong;
+==
+getCurrentQueueItem com.simplecity.amp_library.playback.QueueManager#getCurrentQueueItem()LQueueItem;

@@ -1,0 +1,2 @@
+android.support.design.widget.CustomCollapsingTextHelper#setPositionInterpolator(LInterpolator;)V
+android.support.design.widget.CustomCollapsingTextHelper#recalculate()V

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.AlbumView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/AlbumView$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.AlbumView$ViewHolder#<init>(LView;)V
+com.simplecity.amp_library.ui.modelviews.AlbumView$ViewHolder#instance-init#

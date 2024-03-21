@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.SongView#onStartDrag(Lcom/simplecity/amp_library/ui/modelviews/SongView$ViewHolder;)V
+==
+onStartDrag com.simplecity.amp_library.ui.modelviews.SongView$ClickListener#onStartDrag(Lcom/simplecity/amp_library/ui/modelviews/SongView$ViewHolder;)V

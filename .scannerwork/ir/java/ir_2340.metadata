@@ -1,0 +1,1 @@
+com.simplecity.amp_library.playback.QueueManager#<init>(LMusicService/Callbacks;LRepository/SongsRepository;LPlaybackSettingsManager;LSettingsManager;)V

@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.MediaManager#playAll(Ljava/util/List;IZLFunction0;)V
+==
+setShuffleMode com.simplecity.amp_library.playback.MediaManager#setShuffleMode(I)V
+getRememberShuffle com.simplecity.amp_library.utils.SettingsManager#getRememberShuffle()Z

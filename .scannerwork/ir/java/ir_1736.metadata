@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.AestheticCoordinatorLayout#onOffsetChanged(LAppBarLayout;I)V
+com.afollestad.aesthetic.AestheticCoordinatorLayout#invalidateColors()V
+java.lang.Math#abs(I)I

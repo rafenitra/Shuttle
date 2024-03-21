@@ -1,0 +1,4 @@
+com.simplecity.amp_library.utils.ComparisonUtils#compare(Ljava/lang/String;Ljava/lang/String;)I
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+compare java.text.Collator#compare(Ljava/lang/String;Ljava/lang/String;)I

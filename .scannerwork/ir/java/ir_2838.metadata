@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#onCreate(LBundle;)V
+==
+add java.util.List#add(Ljava/lang/Object;)Z
+isEmpty java.util.List#isEmpty()Z

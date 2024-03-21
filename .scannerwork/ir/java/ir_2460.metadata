@@ -1,0 +1,6 @@
+com.simplecity.amp_library.billing.BillingManager#onPurchasesUpdated(ILjava/util/List;)V
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+==
+onPremiumPurchaseRestored com.simplecity.amp_library.billing.BillingManager$BillingUpdatesListener#onPremiumPurchaseRestored()V
+onPurchasesUpdated com.simplecity.amp_library.billing.BillingManager$BillingUpdatesListener#onPurchasesUpdated(Ljava/util/List;)V
+onPremiumPurchaseCompleted com.simplecity.amp_library.billing.BillingManager$BillingUpdatesListener#onPremiumPurchaseCompleted()V

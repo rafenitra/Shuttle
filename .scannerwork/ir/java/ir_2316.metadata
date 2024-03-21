@@ -1,0 +1,2 @@
+com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#selectForegroundColor(ILPalette;)I
+com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#selectForegroundColorForSwatches(LPalette/Swatch;LPalette/Swatch;LPalette/Swatch;LPalette/Swatch;LPalette/Swatch;I)I

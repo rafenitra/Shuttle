@@ -1,0 +1,62 @@
+
+2com.simplecity.amp_library.model.Genre#hashCode()Ie
+[/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Genre.java5 5("4*Z
+27A 7(BF
+D
+7A 7(B	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*Ñ
+37/ 7(3|
+z
+7/ 7(3
+%5java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Genre"
+namewu
+7/ 7(>	
+%3int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%5java.lang.String2
+hashCode()F
+D
+7/ 7(>	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*»
+46 6(|
+z
+7  7($
+%0java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Genre"
+name¥
+¢
+7  7(,
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+2
+3*!
+17 7(C"
+9 9(
+""B*(
+&com.simplecity.amp_library.model.GenreHX

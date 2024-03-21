@@ -1,0 +1,126 @@
+
+^com.simplecity.amp_library.saf.SafManager#getExtSdCardFolder(Ljava/io/File;)Ljava/lang/String;j
+^/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/saf/SafManager.java¾ ¾(%"startingBlock*
+3
+Á Á(!W
+U
+
+Á Á(!
+	extSdPathjava.lang.String"__id*"
+
+__unknown_file (
+""š
+—
+
+Á Á(!
+	extSdPathjava.lang.String"
+__arrayGet*:
+
+__unknown_file (
+
+
+extSdPathsjava.util.List*"
+
+__unknown_file (
+""*
+7
+1*
+startingBlock
+¾% ¾(6
+}
+
+¼ ¼(*
+%3"
+__annotate*)
+
+__unknown_file (
+	TargetApi*2
+
+__unknown_file (
+
+filejava.io.File~
+|
+
+½ ½(
+%4"
+__annotate*(
+
+__unknown_file (
+
+Nullable*2
+
+__unknown_file (
+
+filejava.io.Filez
+x
+
+¾1 ¾(5
+filejava.io.File"__annotation*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%4*
+9*>
+4
+Ã Ã($"-
+
+Ã Ã(%
+
+	extSdPathjava.lang.String*ý
+6
+Â7 Â(@ãà
+
+Â Â(A
+%2boolean"0java.lang.String#startsWith(Ljava/lang/String;)Z*4
+
+__unknown_file (
+
+%1java.lang.String*;
+
+__unknown_file (
+
+	extSdPathjava.lang.String2startsWith(Ljava/lang/String;)*
+3
+4*¹
+7
+Â Â(¢Ÿ
+
+Â Â(+
+%1java.lang.String"1java.io.File#getCanonicalPath()Ljava/lang/String;*2
+
+__unknown_file (
+
+filejava.io.File2getCanonicalPath()*
+6*¾
+9
+¿" ¿(3¿
+¼
+
+¿" ¿(5
+%0java.util.List"Mcom.simplecity.amp_library.saf.SafManager#getExtSdCardPaths()Ljava/util/List;*I
+
+__unknown_file (-+
+)com.simplecity.amp_library.saf.SafManagerf
+d
+
+¿ ¿(6
+
+extSdPathsjava.util.List"__id*2
+
+__unknown_file (
+
+%0java.util.List*
+3*%
+1
+É É("
+
+É É(
+"":"
+
+¾& ¾(5
+filejava.io.FileB-+
+)com.simplecity.amp_library.saf.SafManager

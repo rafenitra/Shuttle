@@ -1,0 +1,5 @@
+com.simplecity.amp_library.playback.PlaybackManager#next(Z)Z
+com.simplecity.amp_library.playback.PlaybackManager#notifyChange(Ljava/lang/String;)V
+com.simplecity.amp_library.playback.PlaybackManager#getNextPosition(Z)I
+==
+setQueuePosition com.simplecity.amp_library.playback.PlaybackManager#setQueuePosition(I)V

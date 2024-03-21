@@ -1,0 +1,22 @@
+
+7com.simplecity.amp_library.model.Song#getElapsedTime()Jf
+Z/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÕ Õ("1"2*%
+2
+× ×("
+
+× ×(
+""*š
+1
+Ù Ù(s
+q
+
+Ù! Ù(;
+
+%0long"%java.lang.System#currentTimeMillis()J*0
+
+__unknown_file ("
+java.lang.System"
+
+Ù Ù(H
+""B)'
+%com.simplecity.amp_library.model.SongX

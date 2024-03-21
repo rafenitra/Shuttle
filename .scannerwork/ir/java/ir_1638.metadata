@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.ArtworkView#bindView(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$ViewHolder;ILjava/util/List;)V
+==
+isSelected com.simplecity.amp_library.ui.modelviews.ArtworkView#isSelected()Z

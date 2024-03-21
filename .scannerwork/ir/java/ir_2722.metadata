@@ -1,0 +1,3 @@
+com.simplecity.amp_library.utils.AnalyticsManager#logUpgrade(Ljava/lang/String;)V
+null
+com.simplecity.amp_library.utils.AnalyticsManager#analyticsEnabled()Z

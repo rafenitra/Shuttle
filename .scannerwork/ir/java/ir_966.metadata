@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.MusicService#setRepeatMode(I)V
+==
+setNextTrack com.simplecity.amp_library.playback.MusicService#setNextTrack()V

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.sql.legacy.BlacklistDbOpenHelper#onUpgrade(LSQLiteDatabase;II)V
+==
+onCreate com.simplecity.amp_library.sql.legacy.BlacklistDbOpenHelper#onCreate(LSQLiteDatabase;)V

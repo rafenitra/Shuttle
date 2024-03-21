@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#setupViews(LView;)V
+com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#getParent(LEditText;)LTextInputLayout;

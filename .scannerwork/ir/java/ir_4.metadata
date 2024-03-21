@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.RepeatButton#setRepeatMode(I)V
+==
+invalidateColors com.simplecity.amp_library.ui.views.RepeatButton#invalidateColors(II)V

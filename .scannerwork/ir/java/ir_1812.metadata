@@ -1,0 +1,5 @@
+com.simplecity.amp_library.saf.SafManager#getWriteableDocumentFiles(Ljava/util/List;)Ljava/util/List;
+java.util.ArrayList#<init>()V
+==
+getDocumentTree com.simplecity.amp_library.saf.SafManager#getDocumentTree()Ljava/lang/String;
+getWriteableDocumentFile com.simplecity.amp_library.saf.SafManager#getWriteableDocumentFile(Ljava/io/File;)LDocumentFile;

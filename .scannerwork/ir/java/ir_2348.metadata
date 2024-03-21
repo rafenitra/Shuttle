@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.QueueManager#moveQueueItem(II)V
+com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
+==
+getCurrentPlaylist com.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;

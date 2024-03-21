@@ -1,0 +1,8 @@
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;
+null
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#getCenterFreqs()[I
+java.lang.Integer#parseInt(Ljava/lang/String;)I
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#setupPresets()V
+==
+getBandLevelRange com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#getBandLevelRange()[I

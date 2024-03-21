@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.AlbumArtistView#onItemClick(ILcom/simplecity/amp_library/ui/modelviews/AlbumArtistView$ViewHolder;)V
+==
+onAlbumArtistClick com.simplecity.amp_library.ui.modelviews.AlbumArtistView$ClickListener#onAlbumArtistClick(ILcom/simplecity/amp_library/ui/modelviews/AlbumArtistView;Lcom/simplecity/amp_library/ui/modelviews/AlbumArtistView$ViewHolder;)V

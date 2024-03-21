@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#onServiceConnected(LComponentName;LIBinder;)V
+com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#searchAndPlaySongs()V

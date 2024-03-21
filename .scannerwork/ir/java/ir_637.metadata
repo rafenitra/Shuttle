@@ -1,0 +1,3 @@
+android.support.design.widget.CustomCollapsingTextHelper#recalculate()V
+android.support.design.widget.CustomCollapsingTextHelper#calculateBaseOffsets()V
+android.support.design.widget.CustomCollapsingTextHelper#calculateCurrentOffsets()V

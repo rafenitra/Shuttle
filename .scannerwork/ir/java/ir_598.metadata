@@ -1,0 +1,3 @@
+android.support.design.widget.CustomCollapsingTextHelper#setExpandedBounds(IIII)V
+android.support.design.widget.CustomCollapsingTextHelper#rectEquals(LRect;IIII)Z
+android.support.design.widget.CustomCollapsingTextHelper#onBoundsChanged()V

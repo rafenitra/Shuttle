@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#onMove(LRecyclerView;LRecyclerView/ViewHolder;LRecyclerView/ViewHolder;)Z
+==
+onItemMove com.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback$OnItemMoveListener#onItemMove(II)V

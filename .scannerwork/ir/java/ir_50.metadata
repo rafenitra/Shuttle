@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.AlbumView#onAlbumLongclick(I)Z
+==
+onAlbumLongClick com.simplecity.amp_library.ui.modelviews.AlbumView$ClickListener#onAlbumLongClick(ILcom/simplecity/amp_library/ui/modelviews/AlbumView;)Z

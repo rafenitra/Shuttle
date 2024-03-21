@@ -1,0 +1,4 @@
+com.simplecity.multisheetview.ui.view.MultiSheetView#consumeBackPress()Z
+==
+getCurrentSheet com.simplecity.multisheetview.ui.view.MultiSheetView#getCurrentSheet()I
+collapseSheet com.simplecity.multisheetview.ui.view.MultiSheetView#collapseSheet(I)V

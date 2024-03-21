@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#onOptionsItemSelected(LMenuItem;)Z
+==
+onMenuItemClick com.simplecity.amp_library.ui.screens.folders.FolderFragment#onMenuItemClick(LMenuItem;)Z

@@ -1,0 +1,2 @@
+com.simplecity.amp_library.model.Album#getFolderArtworkFiles()Ljava/util/List;
+com.simplecity.amp_library.model.Album#getArtworkPath()Ljava/lang/String;

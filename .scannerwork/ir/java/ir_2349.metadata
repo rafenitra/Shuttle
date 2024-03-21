@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.QueueManager#clearQueue()V
+com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
+==
+setShuffleMode com.simplecity.amp_library.playback.QueueManager#setShuffleMode(I)V

@@ -1,0 +1,61 @@
+
+Tcom.simplecity.amp_library.model.AlbumArtist#getRemoteArtworkUrl()Ljava/lang/String;m
+a/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.javaÄ Ä(%"5*Ë
+2Ç Ç(ç¨
+©
+Ç Ç(ç
+%4java.lang.String"__concat*O
+
+Ç Ç(RA?
+=https://artwork.shuttlemusicplayer.app/api/v1/artwork?artist=*'
+ÇU Ç(ç
+
+%3java.lang.String"'
+Ç Ç(é
+
+%4java.lang.String*µ
+3ÇU Ç(çù
+ö
+ÇU Ç(ç
+%3java.lang.String"Rjava.net.URLEncoder#encode(Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*3
+
+__unknown_file ("
+java.net.URLEncoder*4
+
+__unknown_file (
+
+%0java.lang.String*4
+
+__unknown_file (
+
+%2java.lang.String*
+2*π
+4Çm Ç(å°û
+Çm Ç(å
+%2java.lang.String"1java.nio.charset.Charset#name()Ljava/lang/String;*<
+
+__unknown_file ( 
+
+%1java.nio.charset.Charset2name()*
+3*Ä
+5
+Ç Ç(RÖ
+Ç
+
+Çg Ç(k
+%0java.lang.String"__id*V
+
+__unknown_file (:*8.
+,com.simplecity.amp_library.model.AlbumArtist"
+name·
+ﬁ
+Çm Ç(Ö
+%1java.nio.charset.Charset"Njava.nio.charset.Charset#forName(Ljava/lang/String;)Ljava/nio/charset/Charset;*8
+
+__unknown_file ("
+java.nio.charset.Charset*%
+
+__unknown_file (	
+UTF-8*
+4B0.
+,com.simplecity.amp_library.model.AlbumArtistH

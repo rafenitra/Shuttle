@@ -1,0 +1,25 @@
+
+[com.simplecity.amp_library.ui.adapters.PagerAdapter#getPageTitle(I)Ljava/lang/CharSequence;r
+h/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/adapters/PagerAdapter.java+ +($"1*Ù
+1, ,(âß
+, ,( 
+%0"Hcom.simplecity.amp_library.ui.adapters.PagerAdapter#getItem(I)LFragment;*S
+
+__unknown_file (75
+3com.simplecity.amp_library.ui.adapters.PagerAdapter*"
+
+__unknown_file (
+""2
+getItem(I)Q
+O
+,: ,(H
+%1java.lang.String"__id*%
+
+__unknown_file (	
+title"
+, ,(J
+"": 
+
+__unknown_file (
+""B75
+3com.simplecity.amp_library.ui.adapters.PagerAdapterH

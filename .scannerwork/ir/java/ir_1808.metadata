@@ -1,0 +1,3 @@
+com.simplecity.amp_library.saf.SafManager#getInstance(LContext;LSettingsManager;)Lcom/simplecity/amp_library/saf/SafManager;
+com.simplecity.amp_library.saf.SafManager#<init>(LContext;LSettingsManager;)V
+com.simplecity.amp_library.saf.SafManager#instance-init#

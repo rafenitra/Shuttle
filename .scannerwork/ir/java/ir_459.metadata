@@ -1,0 +1,7 @@
+com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onCreate(LBundle;)V
+com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#instance-init#
+com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#<init>(Lcom/simplecity/amp_library/ui/widgets/BaseWidgetConfigureActivity;LFragmentManager;)V
+==
+getWidgetLayouts com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#getWidgetLayouts()[I
+updateWidgetUI com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#updateWidgetUI()V
+getLayoutIdString com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#getLayoutIdString()Ljava/lang/String;

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.utils.LetterDrawable#draw(LCanvas;)V
+java.lang.String#length()I
+com.simplecity.amp_library.utils.LetterDrawable#pickColor(Ljava/lang/String;)I

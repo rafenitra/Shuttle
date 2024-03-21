@@ -1,0 +1,2 @@
+com.simplecity.amp_library.androidauto.PackageValidator#isPlatformSigned(LContext;Ljava/lang/String;)Z
+com.simplecity.amp_library.androidauto.PackageValidator#getPackageInfo(LContext;Ljava/lang/String;)LPackageInfo;

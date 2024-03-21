@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.LockActionBarView#toggle()V
+==
+setLocked com.simplecity.amp_library.ui.views.LockActionBarView#setLocked(ZZ)V

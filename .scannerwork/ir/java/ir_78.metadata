@@ -1,0 +1,2 @@
+com.simplecity.amp_library.model.AlbumArtist#getFolderArtworkFiles()Ljava/util/List;
+java.util.Collections#emptyList()Ljava/util/List;

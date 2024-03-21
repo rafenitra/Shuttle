@@ -1,0 +1,337 @@
+
+Lcom.simplecity.amp_library.model.SuggestedHeader#equals(Ljava/lang/Object;)Zo
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/SuggestedHeader.java ("startingBlock*›
+13 ("â
+Ü
+ ("
+%10java.lang.String"__id*[
+
+__unknown_file (?*=2
+0com.simplecity.amp_library.model.SuggestedHeader"
+titleè
+å
+* (4
+%11java.lang.String"__id*a
+
+__unknown_file (E*C
+8
+that0com.simplecity.amp_library.model.SuggestedHeader"
+title’“
+ (5
+%12boolean",java.lang.String#equals(Ljava/lang/Object;)Z*5
+
+__unknown_file (
+
+%10java.lang.String*5
+
+__unknown_file (
+
+%11java.lang.String2equals(Ljava/lang/Object;)N
+L
+ (5
+%7boolean"__id*+
+
+__unknown_file (
+
+%8boolean*
+9
+10*œ
+141 (2Å
+
+ (38
+that0com.simplecity.amp_library.model.SuggestedHeader"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectà
+Ö
+ (
+%5java.lang.String"__id*[
+
+__unknown_file (?*=2
+0com.simplecity.amp_library.model.SuggestedHeader"
+title•
+¢
+ (
+%6boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%5java.lang.String*"
+
+__unknown_file (
+""*
+13
+12*"
+15< (A"
+5 (B
+""*ô
+16 (!∞≠
+ (#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*P
+
+__unknown_file (42
+0com.simplecity.amp_library.model.SuggestedHeader2
+getClass()ìê
+' (3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+≤
+ (3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+14
+15*ø
+17 (§
+°
+ (
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+15
+16*"
+18 (""
+ (#
+""*Ì
+19 (“
+œ
+ (
+%0boolean"	__compare*"
+
+__unknown_file (
+==*P
+
+__unknown_file (42
+0com.simplecity.amp_library.model.SuggestedHeader*3
+
+__unknown_file (
+
+ojava.lang.Object*
+17
+18*!
+1 (Y"
+ (Y
+""*‡
+2C (Gã
+à
+C (X
+%26"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"">
+<
+C (X
+%24"__id*#
+
+__unknown_file (
+
+%26*
+1*R
+3" (*>
+<
+" (@
+%24"__id*#
+
+__unknown_file (
+
+%25*
+1*É
+startingBlock (#â
+Ü
+ (
+%27"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+! ("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%27*
+19*£
+4 (ã
+à
+ (
+%23"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*!
+5 ("
+ (
+""*¶
+7A (Eí
+è
+A (N
+%22java.lang.String"__id*d
+
+__unknown_file (H*F
+8
+that0com.simplecity.amp_library.model.SuggestedHeader"
+
+subtitleß
+§
+A (V
+%18boolean"	__compare*"
+
+__unknown_file (
+!=*5
+
+__unknown_file (
+
+%22java.lang.String*"
+
+__unknown_file (
+""P
+N
+A (V
+%16boolean"__id*,
+
+__unknown_file (
+
+%18boolean*
+4
+5*„
+8  ((å
+â
+  ((
+%19java.lang.String"__id*^
+
+__unknown_file (B*@2
+0com.simplecity.amp_library.model.SuggestedHeader"
+
+subtitleí
+è
+0 (=
+%20java.lang.String"__id*d
+
+__unknown_file (H*F
+8
+that0com.simplecity.amp_library.model.SuggestedHeader"
+
+subtitle’“
+  (>
+%21boolean",java.lang.String#equals(Ljava/lang/Object;)Z*5
+
+__unknown_file (
+
+%19java.lang.String*5
+
+__unknown_file (
+
+%20java.lang.String2equals(Ljava/lang/Object;)P
+N
+ (>
+%16boolean"__id*,
+
+__unknown_file (
+
+%17boolean*
+4
+5*Œ
+9 (å
+â
+ (
+%14java.lang.String"__id*^
+
+__unknown_file (B*@2
+0com.simplecity.amp_library.model.SuggestedHeader"
+
+subtitleß
+§
+ (
+%15boolean"	__compare*"
+
+__unknown_file (
+!=*5
+
+__unknown_file (
+
+%14java.lang.String*"
+
+__unknown_file (
+""*
+7
+8*"
+10S (X"
+L (Y
+""*¢
+128 (<è
+å
+8 (B
+%13java.lang.String"__id*a
+
+__unknown_file (E*C
+8
+that0com.simplecity.amp_library.model.SuggestedHeader"
+title¶
+£
+8 (J
+%9boolean"	__compare*"
+
+__unknown_file (
+!=*5
+
+__unknown_file (
+
+%13java.lang.String*"
+
+__unknown_file (
+""N
+L
+8 (J
+%7boolean"__id*+
+
+__unknown_file (
+
+%9boolean*
+9
+10:!
+ ("
+ojava.lang.ObjectB42
+0com.simplecity.amp_library.model.SuggestedHeaderHX

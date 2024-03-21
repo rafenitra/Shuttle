@@ -1,0 +1,4 @@
+com.simplecity.amp_library.utils.PlaceholderProvider#<init>(LContext;)V
+com.simplecity.amp_library.utils.TypefaceManager#getInstance()Lcom/simplecity/amp_library/utils/TypefaceManager;
+==
+getTypeface com.simplecity.amp_library.utils.TypefaceManager#getTypeface(LContext;Ljava/lang/String;)LTypeface;

@@ -74,7 +74,7 @@ public class ShuttleApplication extends DaggerApplication {
 
     private RefWatcher refWatcher;
 
-    public HashMap<String, UserSelectedArtwork> userSelectedArtwork = new HashMap<>();
+    private Map<String, UserSelectedArtwork> userSelectedArtwork = new HashMap<>();
 
     private static Logger jaudioTaggerLogger1 = Logger.getLogger("org.jaudiotagger.audio");
     private static Logger jaudioTaggerLogger2 = Logger.getLogger("org.jaudiotagger");
@@ -105,9 +105,6 @@ public class ShuttleApplication extends DaggerApplication {
         // Todo: Remove for production builds. Useful for tracking down crashes in beta.
         RxDogTag.install();
 
-        if (BuildConfig.DEBUG) {
-            // enableStrictMode();
-        }
 
         refWatcher = LeakCanary.install(this);
         // workaround to fix InputMethodManager leak as suggested by LeakCanary lib
@@ -213,12 +210,18 @@ public class ShuttleApplication extends DaggerApplication {
 
         Glide.get(this).clearMemory();
     }
+    
+
+    //Correction
+    public HashMap<String, UserSelectedArtwork> getUserSelectedArtwork() {
+        return userSelectedArtwork;
+    }
 
     public String getVersion() {
         try {
             return getPackageManager().getPackageInfo(getPackageName(), 0).versionName;
         } catch (PackageManager.NameNotFoundException | NullPointerException ignored) {
-
+            System.out.println(ignored.toString());
         }
         return "unknown";
     }

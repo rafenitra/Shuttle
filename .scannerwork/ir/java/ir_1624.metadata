@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#getInstance()Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager;
+com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#<init>()V
+com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#instance-init#

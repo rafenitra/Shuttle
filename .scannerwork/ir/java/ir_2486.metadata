@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.views.PlayPauseDrawable#draw(LCanvas;)V
+com.simplecity.amp_library.ui.views.PlayPauseDrawable#lerp(FFF)F

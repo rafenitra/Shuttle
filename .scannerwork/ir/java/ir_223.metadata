@@ -1,0 +1,3 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#setExpandedTitleColor(I)V
+==
+setExpandedTitleTextColor android.support.design.widget.CustomCollapsingToolbarLayout#setExpandedTitleTextColor(LColorStateList;)V

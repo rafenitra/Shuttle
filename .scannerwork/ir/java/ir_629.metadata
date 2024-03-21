@@ -1,0 +1,2 @@
+android.support.design.widget.CustomCollapsingTextHelper#interpolateBounds(F)V
+android.support.design.widget.CustomCollapsingTextHelper#lerp(FFFLInterpolator;)F

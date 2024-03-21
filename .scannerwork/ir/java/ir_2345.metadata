@@ -1,0 +1,7 @@
+com.simplecity.amp_library.playback.QueueManager#setShuffleMode(I)V
+com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
+com.simplecity.amp_library.playback.QueueManager#notifyShuffleChanged()V
+==
+getCurrentPlaylist com.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;
+saveQueue com.simplecity.amp_library.playback.QueueManager#saveQueue(Z)V
+makeShuffleList com.simplecity.amp_library.playback.QueueManager#makeShuffleList()V

@@ -1,0 +1,4 @@
+com.afollestad.aesthetic.Aesthetic#colorAccent()LObservable;
+com.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;
+com.afollestad.aesthetic.Util#resolveColor(LContext;I)I
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

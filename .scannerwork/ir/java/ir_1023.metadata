@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.widgets.WidgetProviderLarge#initialiseWidget(LContext;LSharedPreferences;I)V
+null
+==
+getRootViewId com.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getRootViewId()I

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.common.BaseFragment#onResume()V
+==
+screenName com.simplecity.amp_library.ui.common.BaseFragment#screenName()Ljava/lang/String;

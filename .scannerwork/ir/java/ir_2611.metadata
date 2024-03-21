@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.FolderView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/FolderView$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.FolderView$ViewHolder#instance-init#
+com.simplecity.amp_library.ui.modelviews.FolderView$ViewHolder#<init>(LView;)V

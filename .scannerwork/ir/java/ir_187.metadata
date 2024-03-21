@@ -1,0 +1,3 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#ensureToolbar()V
+android.support.design.widget.CustomCollapsingToolbarLayout#findDirectChild(LView;)LView;
+android.support.design.widget.CustomCollapsingToolbarLayout#updateDummyView()V

@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.modelviews.SuggestedSongView#bindView(Lcom/simplecity/amp_library/ui/modelviews/SuggestedSongView$ViewHolder;)V
+com.simplecity.amp_library.utils.PlaceholderProvider#getInstance(LContext;)Lcom/simplecity/amp_library/utils/PlaceholderProvider;

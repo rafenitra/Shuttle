@@ -1,0 +1,7 @@
+com.simplecity.amp_library.playback.MediaManager#shuffleAll(Ljava/util/List;LFunction0;)V
+java.util.Random#instance-init#
+java.util.Random#<init>()V
+==
+playAll com.simplecity.amp_library.playback.MediaManager#playAll(Ljava/util/List;IZLFunction0;)V
+setShuffleMode com.simplecity.amp_library.playback.MediaManager#setShuffleMode(I)V
+nextInt java.util.Random#nextInt(I)I

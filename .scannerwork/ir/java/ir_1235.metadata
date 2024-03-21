@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.Aesthetic#snackbarActionTextColor()LObservable;
+==
+colorAccent com.afollestad.aesthetic.Aesthetic#colorAccent()LObservable;

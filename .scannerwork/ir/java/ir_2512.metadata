@@ -1,0 +1,6 @@
+com.afollestad.aesthetic.TintHelper#setTintAuto(LView;IZZ)V
+null
+com.afollestad.aesthetic.TintHelper#setTintSelector(LView;IZZ)V
+com.afollestad.aesthetic.TintHelper#setTint(LProgressBar;I)V
+com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;I)LDrawable;
+com.afollestad.aesthetic.TintHelper#setTint(LRadioButton;IZ)V

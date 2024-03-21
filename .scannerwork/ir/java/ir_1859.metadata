@@ -1,0 +1,5 @@
+com.simplecity.amp_library.playback.PlaybackManager#togglePlayback()V
+==
+play com.simplecity.amp_library.playback.PlaybackManager#play()V
+isPlaying com.simplecity.amp_library.playback.PlaybackManager#isPlaying()Z
+pause com.simplecity.amp_library.playback.PlaybackManager#pause(Z)V

@@ -1,0 +1,147 @@
+
+`com.afollestad.aesthetic.Aesthetic#colorNavigationBarAuto(Z)Lcom/afollestad/aesthetic/Aesthetic;s
+g/D:/EPSI/Analyse Code/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java ()"7*Z
+4
+”C ”(HD
+B
+
+”C ”(H
+%8"__id*(
+
+__unknown_file (
+
+
+%10int*
+1*T
+5
+”5 ”(:>
+<
+
+”5 ”(@
+%8"__id*"
+
+__unknown_file (
+
+%9*
+1*£
+6
+“ “(Õ
+Ò
+
+“0 “(Z
+%6"7com.afollestad.aesthetic.Util#resolveColor(LContext;I)I*=
+
+__unknown_file (!"
+com.afollestad.aesthetic.Util*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""±
+®
+
+” ”(2
+%7boolean".com.afollestad.aesthetic.Util#isColorLight(I)Z*=
+
+__unknown_file (!"
+com.afollestad.aesthetic.Util*"
+
+__unknown_file (
+""*
+4
+5*…
+
+7
+ (^
+\
+
+% (6
+%0java.lang.String"__id*0
+
+__unknown_file (
+nav_bar_color_%sÂ
+¿
+
+8 (D
+%1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
+
+__unknown_file (&"$
+"com.afollestad.aesthetic.Aesthetic*"
+
+__unknown_file (
+""ó
+ð
+
+ (E
+%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+
+%1W
+U
+
+ (F
+	navBarKeyjava.lang.String"__id*"
+
+__unknown_file (
+
+%2^
+\
+
+‘+ ‘(<
+%3java.lang.String"__id*0
+
+__unknown_file (
+primary_color_%sÂ
+¿
+
+‘> ‘(J
+%4"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
+
+__unknown_file (&"$
+"com.afollestad.aesthetic.Aesthetic*"
+
+__unknown_file (
+""ó
+ð
+
+‘ ‘(K
+%5"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*4
+
+__unknown_file (
+
+%3java.lang.String*"
+
+__unknown_file (
+
+%4]
+[
+
+‘ ‘(L#
+primaryColorKeyjava.lang.String"__id*"
+
+__unknown_file (
+
+%5*
+6
+1*E
+1
+˜ ˜("4
+
+˜ ˜(&$
+"com.afollestad.aesthetic.Aesthetic: 
+
+__unknown_file (
+""B&$
+"com.afollestad.aesthetic.AestheticH

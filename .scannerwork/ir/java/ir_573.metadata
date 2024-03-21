@@ -1,0 +1,3 @@
+com.simplecity.amp_library.model.Album#compareTo(Lcom/simplecity/amp_library/model/Album;)I
+==
+getSortKey com.simplecity.amp_library.model.Album#getSortKey()Ljava/lang/String;

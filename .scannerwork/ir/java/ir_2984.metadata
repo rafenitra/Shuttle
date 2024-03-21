@@ -1,0 +1,4 @@
+com.simplecity.amp_library.utils.FileBrowser#getHomeDirTitle()I
+==
+atHomeDirectory com.simplecity.amp_library.utils.FileBrowser#atHomeDirectory()Z
+hasHomeDir com.simplecity.amp_library.utils.FileBrowser#hasHomeDir()Z

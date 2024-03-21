@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.views.BreadcrumbView#createBreadcrumbItem(Ljava/io/File;)LBreadcrumbItem;
+java.lang.String#length()I
+==
+getName java.io.File#getName()Ljava/lang/String;
+getPath java.io.File#getPath()Ljava/lang/String;

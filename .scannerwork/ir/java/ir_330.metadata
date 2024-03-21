@@ -1,0 +1,11 @@
+com.simplecity.amp_library.utils.color.ColorHelper#ensureColors(LContext;ZII)LPair;
+null
+com.simplecity.amp_library.utils.color.ColorHelper#findContrastColorAgainstDark(IIZD)I
+com.simplecity.amp_library.utils.color.ColorHelper#calculateLuminance(I)D
+com.simplecity.amp_library.utils.color.ColorHelper#findAlphaToMeetContrast(IID)I
+com.simplecity.amp_library.utils.color.ColorHelper#resolvePrimaryColor(LContext;I)I
+com.simplecity.amp_library.utils.color.ColorHelper#changeColorLightness(II)I
+com.simplecity.amp_library.utils.color.ColorHelper#satisfiesTextContrast(II)Z
+com.simplecity.amp_library.utils.color.ColorHelper#resolveSecondaryColor(LContext;I)I
+com.simplecity.amp_library.utils.color.ColorHelper#calculateContrast(II)D
+com.simplecity.amp_library.utils.color.ColorHelper#findContrastColor(IIZD)I

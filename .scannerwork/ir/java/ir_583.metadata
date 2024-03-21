@@ -1,0 +1,6 @@
+com.afollestad.aesthetic.AestheticBottomNavigationView#onState(Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;)V
+null
+java.lang.IllegalStateException#instance-init#
+java.lang.IllegalStateException#<init>(Ljava/lang/String;)V
+==
+setBackgroundColor com.afollestad.aesthetic.AestheticBottomNavigationView#setBackgroundColor(I)V

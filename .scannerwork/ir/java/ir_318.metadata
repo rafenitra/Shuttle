@@ -1,0 +1,3 @@
+com.simplecity.amp_library.utils.color.ColorHelper#getInstance()Lcom/simplecity/amp_library/utils/color/ColorHelper;
+com.simplecity.amp_library.utils.color.ColorHelper#instance-init#
+com.simplecity.amp_library.utils.color.ColorHelper#<init>()V

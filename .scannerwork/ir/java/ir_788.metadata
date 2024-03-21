@@ -1,0 +1,4 @@
+com.simplecity.multisheetview.ui.view.MultiSheetView#unhide(Z)V
+==
+getMainContainerResId com.simplecity.multisheetview.ui.view.MultiSheetView#getMainContainerResId()I
+isHidden com.simplecity.multisheetview.ui.view.MultiSheetView#isHidden()Z

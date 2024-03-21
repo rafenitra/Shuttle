@@ -1,0 +1,79 @@
+
+^com.simplecity.amp_library.model.Album$Builder#build()Lcom/simplecity/amp_library/model/Album;g
+[/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.javaç ç("1*˛	
+1
+é é(á
+Ñ
+
+é! é(%
+%0java.lang.String"__id*X
+
+__unknown_file (<*:0
+.com.simplecity.amp_library.model.Album$Builder"
+nameí
+è
+
+é0 é(?
+%1java.lang.String"__id*c
+
+__unknown_file (G*E0
+.com.simplecity.amp_library.model.Album$Builder"
+albumArtistNameÜ
+É
+
+ér é(w
+%2java.util.List"__id*Y
+
+__unknown_file (=*;0
+.com.simplecity.amp_library.model.Album$Builder"
+pathsdb
+
+é é(,
+%3&com.simplecity.amp_library.model.Album"&com.simplecity.amp_library.model.Albumü
+ú
+é é(á
+%4"{com.simplecity.amp_library.model.Album#<init>(JLjava/lang/String;Ljava/util/List;Ljava/lang/String;IIIJJLjava/util/List;I)V*J
+
+__unknown_file (.
+,
+%3&com.simplecity.amp_library.model.Album*"
+
+__unknown_file (
+""*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*4
+
+__unknown_file (
+
+%1java.lang.String*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*2
+
+__unknown_file (
+
+%2java.util.List*"
+
+__unknown_file (
+"""=
+é é(à.
+,
+%3&com.simplecity.amp_library.model.AlbumB20
+.com.simplecity.amp_library.model.Album$BuilderH

@@ -1,0 +1,17 @@
+com.simplecity.amp_library.playback.MusicService#onStartCommand(LIntent;II)I
+null
+com.simplecity.amp_library.playback.MusicService#scheduleDelayedShutdown()V
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+==
+toggleFavorite com.simplecity.amp_library.playback.MusicService#toggleFavorite()V
+releaseServiceUiAndStop com.simplecity.amp_library.playback.MusicService#releaseServiceUiAndStop()V
+play com.simplecity.amp_library.playback.MusicService#play()V
+pause com.simplecity.amp_library.playback.MusicService#pause(Z)V
+playAutoShuffleList com.simplecity.amp_library.playback.MusicService#playAutoShuffleList()V
+commandToAction com.simplecity.amp_library.playback.MusicService#commandToAction(Ljava/lang/String;)Ljava/lang/String;
+gotoNext com.simplecity.amp_library.playback.MusicService#gotoNext(Z)V
+isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z
+previous com.simplecity.amp_library.playback.MusicService#previous(Z)V
+toggleRepeat com.simplecity.amp_library.playback.MusicService#toggleRepeat()V
+notifyChange com.simplecity.amp_library.playback.MusicService#notifyChange(Ljava/lang/String;)V
+toggleShuffleMode com.simplecity.amp_library.playback.MusicService#toggleShuffleMode()V

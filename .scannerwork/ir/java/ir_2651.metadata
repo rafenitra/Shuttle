@@ -1,0 +1,6 @@
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#instance-init#
+java.lang.StringBuilder#instance-init#
+java.util.Locale#getDefault()Ljava/util/Locale;
+java.util.Formatter#<init>(Ljava/lang/Appendable;Ljava/util/Locale;)V
+java.lang.StringBuilder#<init>()V
+java.util.Formatter#instance-init#

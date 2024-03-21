@@ -1,0 +1,5 @@
+com.simplecity.amp_library.utils.PlaceholderProvider#getPlaceHolderDrawable(Ljava/lang/String;ZLSettingsManager;)LDrawable;
+com.simplecity.amp_library.utils.PlaceholderProvider#getLargePlaceHolderResId()I
+com.simplecity.amp_library.utils.PlaceholderProvider#getInstance(LContext;)Lcom/simplecity/amp_library/utils/PlaceholderProvider;
+==
+getMediumPlaceHolderResId com.simplecity.amp_library.utils.PlaceholderProvider#getMediumPlaceHolderResId()I

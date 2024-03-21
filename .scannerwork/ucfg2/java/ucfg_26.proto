@@ -1,0 +1,116 @@
+
+fcom.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel#areContentsEqual(Ljava/lang/Object;)Z
+u/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/BaseSelectableViewModel.java' '(#"startingBlock*!
+2)D )(I"
+)= )(J
+""*™
+3) )(%¿Ω
+) )('
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*`
+
+__unknown_file (DB
+@com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel2
+getClass()óî
+)+ )(;
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*7
+
+__unknown_file (
+
+otherjava.lang.Object2
+getClass()µ
+≤
+) )(;
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+2
+1*à
+startingBlock'# '(1å
+â
+& &(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.ObjectY
+W
+'+ '(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*
+6*¿
+4) )(®
+•
+) )(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*7
+
+__unknown_file (
+
+otherjava.lang.Object*"
+
+__unknown_file (
+""*
+2
+3*!
+5(" ((&"
+( (('
+""*˛
+6( ((Ê
+„
+( ((
+%0boolean"	__compare*"
+
+__unknown_file (
+==*`
+
+__unknown_file (DB
+@com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel*7
+
+__unknown_file (
+
+otherjava.lang.Object*
+4
+5*–
+1+A +(Fñ
+ì
++ +(GH
+that@com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModel"__id*7
+
+__unknown_file (
+
+otherjava.lang.Objectì
+ê
+- -(,
+%5boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+- -(-
+"":%
+'$ '(0
+otherjava.lang.ObjectBDB
+@com.simplecity.amp_library.ui.modelviews.BaseSelectableViewModelHX

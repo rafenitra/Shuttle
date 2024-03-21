@@ -1,0 +1,4 @@
+com.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Z
+==
+canRead java.io.File#canRead()Z
+canWrite java.io.File#canWrite()Z

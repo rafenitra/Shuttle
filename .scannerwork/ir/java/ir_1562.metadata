@@ -1,0 +1,10 @@
+com.simplecity.amp_library.utils.StringUtils#makeSubfoldersLabel(LContext;II)Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.util.Formatter#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/util/Formatter;
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(Ljava/lang/CharSequence;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(Ljava/lang/Object;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;
+==
+setLength java.lang.AbstractStringBuilder#setLength(I)V

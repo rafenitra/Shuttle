@@ -1,0 +1,165 @@
+
+Icom.simplecity.amp_library.model.InclExclItem#equals(Ljava/lang/Object;)Zl
+b/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/InclExclItem.java) )("startingBlock*!
+20& 0(+"
+0 0(,
+""*´
+30 0(ì
+ê
+0 0(
+%6boolean"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+1*É
+startingBlock) )(#â
+Ü
+( ((
+%10"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+)! )("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%10*
+10*!
+4/" /('"
+/ /((
+""*´
+5-+ -(,~
+|
+- -(-5
+that-com.simplecity.amp_library.model.InclExclItem"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectì
+ê
+/ /(
+%5boolean"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+3
+4*!
+6+< +(A"
++5 +(B
+""*ì
+7+ +(!≠™
++ +(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.InclExclItem2
+getClass()ìê
++' +(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+≤
++ +(3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+5
+6*º
+8+ +(§
+°
++ +(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+6
+7*!
+9* *(""
+* *(#
+""*Ë
+10* *(œ
+Ã
+* *(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.InclExclItem*3
+
+__unknown_file (
+
+ojava.lang.Object*
+8
+9*ä
+11 1(Ñ
+Å
+1 1(
+%7java.lang.String"__id*W
+
+__unknown_file (;*9/
+-com.simplecity.amp_library.model.InclExclItem"
+pathä
+á
+1 1($
+%8java.lang.String"__id*]
+
+__unknown_file (A*?
+5
+that-com.simplecity.amp_library.model.InclExclItem"
+path“œ
+1 1(%
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*4
+
+__unknown_file (
+
+%7java.lang.String*4
+
+__unknown_file (
+
+%8java.lang.String2equals(Ljava/lang/Object;)"
+1 1(&
+"":!
+) )("
+ojava.lang.ObjectB1/
+-com.simplecity.amp_library.model.InclExclItemHX

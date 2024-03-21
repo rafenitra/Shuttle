@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.ViewBackgroundSubscriber#create(LView;)Lcom/afollestad/aesthetic/ViewBackgroundSubscriber;
+com.afollestad.aesthetic.ViewBackgroundSubscriber#instance-init#
+com.afollestad.aesthetic.ViewBackgroundSubscriber#<init>(LView;)V

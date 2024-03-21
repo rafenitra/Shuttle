@@ -1,0 +1,40 @@
+
+Wcom.simplecity.amp_library.glide.fetcher.FolderFetcher#getStream()Ljava/io/InputStream;u
+k/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/fetcher/FolderFetcher.java (#"3*!
+2 (""
+ (6
+""*Å
+3 (‰
+†
+ (
+%0java.io.File"__id*`
+
+__unknown_file (D*B8
+6com.simplecity.amp_library.glide.fetcher.FolderFetcher"
+file¡
+ž
+ (
+%1boolean"	__compare*"
+
+__unknown_file (
+==*0
+
+__unknown_file (
+
+%0java.io.File*"
+
+__unknown_file (
+""*
+2
+1*­
+1 (‰
+†
++ (/
+%2java.io.File"__id*`
+
+__unknown_file (D*B8
+6com.simplecity.amp_library.glide.fetcher.FolderFetcher"
+file"
+ (1
+""B:8
+6com.simplecity.amp_library.glide.fetcher.FolderFetcher

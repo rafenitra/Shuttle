@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.SubheaderView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/SubheaderView$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.SubheaderView$ViewHolder#<init>(LView;)V
+com.simplecity.amp_library.ui.modelviews.SubheaderView$ViewHolder#instance-init#

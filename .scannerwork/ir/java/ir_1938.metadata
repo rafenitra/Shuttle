@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.InclExclView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/InclExclView$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder#<init>(LView;)V
+com.simplecity.amp_library.ui.modelviews.InclExclView$ViewHolder#instance-init#

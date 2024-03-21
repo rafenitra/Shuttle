@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.FavoriteActionBarView#onFinishInflate()V
+==
+setIsFavorite com.simplecity.amp_library.ui.views.FavoriteActionBarView#setIsFavorite(Z)V

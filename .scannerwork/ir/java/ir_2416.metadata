@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.DiscNumberView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/DiscNumberView$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.DiscNumberView$ViewHolder#instance-init#
+com.simplecity.amp_library.ui.modelviews.DiscNumberView$ViewHolder#<init>(LView;)V

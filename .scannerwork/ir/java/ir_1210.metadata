@@ -1,0 +1,5 @@
+com.afollestad.aesthetic.Aesthetic#colorNavigationBarAuto(Z)Lcom/afollestad/aesthetic/Aesthetic;
+com.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;
+com.afollestad.aesthetic.Util#resolveColor(LContext;I)I
+com.afollestad.aesthetic.Util#isColorLight(I)Z
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

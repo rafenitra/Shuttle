@@ -1,0 +1,102 @@
+
+½com.afollestad.aesthetic.AestheticBottomNavigationView$State$1#apply(Ljava/lang/Integer;Ljava/lang/Integer;Ljava/lang/Boolean;)Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;‡
+{/D:/EPSI/Analyse Code/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/AestheticBottomNavigationView.javaÃ Ã("startingBlock*€
+startingBlock
+Ã Ã(O‘
+
+
+Â Â(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*:
+
+__unknown_file (
+
+integerjava.lang.Integer^
+\
+
+Ã# Ã(*
+integerjava.lang.Integer"__annotation*"
+
+__unknown_file (
+
+%1’
+
+
+Â Â(
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*;
+
+__unknown_file (
+
+integer2java.lang.Integer_
+]
+
+Ã4 Ã(<
+integer2java.lang.Integer"__annotation*"
+
+__unknown_file (
+
+%2’
+
+
+Â Â(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*;
+
+__unknown_file (
+
+aBooleanjava.lang.Boolean_
+]
+
+ÃF Ã(N
+aBooleanjava.lang.Boolean"__annotation*"
+
+__unknown_file (
+
+%3*
+1*Ö
+1
+Ä Ä(ğ
+í
+
+Ä Ä(:B
+%0<com.afollestad.aesthetic.AestheticBottomNavigationView$State"†com.afollestad.aesthetic.AestheticBottomNavigationView$State#create(IIZ)Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;*\
+
+__unknown_file (@">
+<com.afollestad.aesthetic.AestheticBottomNavigationView$State*:
+
+__unknown_file (
+
+integerjava.lang.Integer*;
+
+__unknown_file (
+
+integer2java.lang.Integer*;
+
+__unknown_file (
+
+aBooleanjava.lang.Boolean"R
+
+Ä
+ Ä(;D
+B
+%0<com.afollestad.aesthetic.AestheticBottomNavigationView$State:*
+
+Ã Ã(+
+integerjava.lang.Integer:+
+
+Ã, Ã(=
+integer2java.lang.Integer:+
+
+Ã> Ã(N
+aBooleanjava.lang.BooleanBB@
+>com.afollestad.aesthetic.AestheticBottomNavigationView$State$1H

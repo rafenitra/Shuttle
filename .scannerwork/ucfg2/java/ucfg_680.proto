@@ -1,0 +1,49 @@
+
+›com.simplecity.amp_library.ui.screens.folders.FolderFragment#newInstance(Ljava/lang/String;Z)Lcom/simplecity/amp_library/ui/screens/folders/FolderFragment;}
+q/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/folders/FolderFragment.java¨! ¨(,"1*¹
+1
+©" ©(6‘Ž
+
+©& ©(4B
+%0<com.simplecity.amp_library.ui.screens.folders.FolderFragment"<com.simplecity.amp_library.ui.screens.folders.FolderFragment¿
+¼
+
+©" ©(6
+%1"Fcom.simplecity.amp_library.ui.screens.folders.FolderFragment#<init>()V*`
+
+__unknown_file (D
+B
+%0<com.simplecity.amp_library.ui.screens.folders.FolderFragmentÁ
+¾
+
+© ©(7H
+fragment<com.simplecity.amp_library.ui.screens.folders.FolderFragment"__id*`
+
+__unknown_file (D
+B
+%0<com.simplecity.amp_library.ui.screens.folders.FolderFragmentS
+Q
+
+« «( 
+%2java.lang.String"__id*%
+
+__unknown_file (	
+title_
+]
+
+¬ ¬(-
+%3java.lang.String"__id*1
+
+__unknown_file (
+displayed_in_tabs"X
+
+® ®(J
+H
+fragment<com.simplecity.amp_library.ui.screens.folders.FolderFragment:'
+
+¨- ¨(:
+titlejava.lang.String: 
+
+__unknown_file (
+""B@">
+<com.simplecity.amp_library.ui.screens.folders.FolderFragmentH

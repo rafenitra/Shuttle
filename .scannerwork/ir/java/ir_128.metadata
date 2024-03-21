@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.adapters.PagerAdapter#removeAllChildFragments()V
+==
+clear com.simplecity.amp_library.ui.adapters.PagerAdapter#clear()V

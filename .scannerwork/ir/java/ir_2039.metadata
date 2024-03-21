@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.common.BaseActivity#onResume()V
+com.simplecity.amp_library.ui.common.BaseActivity#keepScreenOn(Z)V
+==
+bindService com.simplecity.amp_library.ui.common.BaseActivity#bindService()V

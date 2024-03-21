@@ -1,0 +1,4 @@
+com.simplecity.amp_library.utils.SettingsManager#getArtistColumnCount(LContext;)I
+com.simplecity.amp_library.utils.SettingsManager#getArtistColumnCountKey(LContext;)Ljava/lang/String;
+==
+getArtistDisplayType com.simplecity.amp_library.utils.SettingsManager#getArtistDisplayType()I

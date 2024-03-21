@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#consumeBackPress()Z
+==
+getParentFile java.io.File#getParentFile()Ljava/io/File;
+compareTo java.io.File#compareTo(Ljava/io/File;)I
+changeDir com.simplecity.amp_library.ui.screens.folders.FolderFragment#changeDir(Ljava/io/File;)V

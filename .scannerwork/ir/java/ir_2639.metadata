@@ -1,0 +1,4 @@
+com.afollestad.aesthetic.ActiveInactiveColors#toEnabledSl()LColorStateList;
+null
+com.afollestad.aesthetic.ActiveInactiveColors#activeColor()I
+com.afollestad.aesthetic.ActiveInactiveColors#inactiveColor()I

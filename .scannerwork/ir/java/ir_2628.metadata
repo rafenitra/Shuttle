@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;
+com.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment$OnSwipeTouchListener#<init>(Lcom/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment;LContext;)V
+com.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment$OnSwipeTouchListener#instance-init#

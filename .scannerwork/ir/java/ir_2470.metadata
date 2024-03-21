@@ -1,0 +1,12 @@
+com.simplecity.amp_library.utils.ArtworkUtils#getAllFolderArtwork(Ljava/lang/String;)Ljava/util/List;
+java.util.ArrayList#<init>()V
+java.io.File#<init>(Ljava/lang/String;)V
+java.util.ArrayList#instance-init#
+java.io.File#instance-init#
+java.util.regex.Pattern#compile(Ljava/lang/String;I)Ljava/util/regex/Pattern;
+==
+getParentFile java.io.File#getParentFile()Ljava/io/File;
+listFiles java.io.File#listFiles(Ljava/io/FileFilter;)[Ljava/io/File;
+add java.util.List#add(Ljava/lang/Object;)Z
+exists java.io.File#exists()Z
+isDirectory java.io.File#isDirectory()Z

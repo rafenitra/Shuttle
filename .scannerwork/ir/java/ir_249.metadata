@@ -1,0 +1,2 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#getMaxOffsetForPinChild(LView;)I
+android.support.design.widget.CustomCollapsingToolbarLayout#getViewOffsetHelper(LView;)LViewOffsetHelper;

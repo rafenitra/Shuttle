@@ -1,0 +1,3 @@
+test.com.androidnavigation.fragment.BaseNavigationController#pushViewController(LFragment;Ljava/lang/String;)V
+==
+pushViewController test.com.androidnavigation.fragment.BaseNavigationController#pushViewController(LFragment;Ljava/lang/String;Ljava/util/List;)V

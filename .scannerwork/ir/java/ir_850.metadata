@@ -1,0 +1,6 @@
+com.simplecity.amp_library.format.PrefixHighlighter#indexOfWordPrefix(Ljava/lang/CharSequence;[C)I
+java.lang.Character#isLetterOrDigit(C)Z
+java.lang.Character#toUpperCase(C)C
+==
+charAt java.lang.CharSequence#charAt(I)C
+length java.lang.CharSequence#length()I

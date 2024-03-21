@@ -1,0 +1,64 @@
+
+gcom.simplecity.amp_library.model.AlbumArtist#compareTo(Lcom/simplecity/amp_library/model/AlbumArtist;)Im
+a/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java¡ ¡("startingBlock* 
+startingBlock
+¡ ¡(:°
+­
+
+   (
+%2"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*Y
+
+__unknown_file (=
+;
+albumArtist,com.simplecity.amp_library.model.AlbumArtist¥
+¢
+
+¡ ¡(!
+%3"
+__annotate*'
+
+__unknown_file (	
+NonNull*Y
+
+__unknown_file (=
+;
+albumArtist,com.simplecity.amp_library.model.AlbumArtist¢
+Ÿ
+
+¡. ¡(9;
+albumArtist,com.simplecity.amp_library.model.AlbumArtist"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*
+1*Ø
+1
+¢ ¢(ÐÍ
+
+¢' ¢(3
+%0java.lang.String"Kcom.simplecity.amp_library.model.AlbumArtist#getSortKey()Ljava/lang/String;*L
+
+__unknown_file (0.
+,com.simplecity.amp_library.model.AlbumArtist2getSortKey()ÝÚ
+
+¢5 ¢(M
+%1java.lang.String"Kcom.simplecity.amp_library.model.AlbumArtist#getSortKey()Ljava/lang/String;*Y
+
+__unknown_file (=
+;
+albumArtist,com.simplecity.amp_library.model.AlbumArtist2getSortKey()"
+
+¢ ¢(O
+"":I
+
+¡ ¡(9;
+albumArtist,com.simplecity.amp_library.model.AlbumArtistB0.
+,com.simplecity.amp_library.model.AlbumArtistHX

@@ -1,0 +1,4 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#updateScrimVisibility()V
+==
+setScrimsShown android.support.design.widget.CustomCollapsingToolbarLayout#setScrimsShown(Z)V
+getScrimVisibleHeightTrigger android.support.design.widget.CustomCollapsingToolbarLayout#getScrimVisibleHeightTrigger()I

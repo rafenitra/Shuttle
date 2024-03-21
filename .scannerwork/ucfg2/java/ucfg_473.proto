@@ -1,0 +1,133 @@
+
+Qcom.simplecity.amp_library.sql.legacy.BlacklistedSong#equals(Ljava/lang/Object;)Zt
+j/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/sql/legacy/BlacklistedSong.java ("startingBlock*®
+2  (&ì
+ê
+  (5
+%6boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+1*µ
+31 (2á
+Ñ
+ (3=
+that5com.simplecity.amp_library.sql.legacy.BlacklistedSong"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectì
+ê
+ (
+%5boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+1*Ä
+startingBlock (#à
+Ö
+ (
+%7"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+! ("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%7*
+8*!
+4< (A"
+5 (B
+""*õ
+5 (!µ≤
+ (#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*U
+
+__unknown_file (97
+5com.simplecity.amp_library.sql.legacy.BlacklistedSong2
+getClass()ìê
+' (3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+≤
+ (3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+3
+4*º
+6 (§
+°
+ (
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+4
+5*!
+7 (""
+ (#
+""*Ô
+8 (◊
+‘
+ (
+%0boolean"	__compare*"
+
+__unknown_file (
+==*U
+
+__unknown_file (97
+5com.simplecity.amp_library.sql.legacy.BlacklistedSong*3
+
+__unknown_file (
+
+ojava.lang.Object*
+6
+7*!
+1 (6"
+ (6
+"":!
+ ("
+ojava.lang.ObjectB97
+5com.simplecity.amp_library.sql.legacy.BlacklistedSongHX

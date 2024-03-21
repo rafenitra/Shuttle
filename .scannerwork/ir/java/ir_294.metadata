@@ -1,0 +1,3 @@
+com.simplecity.amp_library.glide.fetcher.BaseFetcher#getId()Ljava/lang/String;
+==
+getTag com.simplecity.amp_library.glide.fetcher.BaseFetcher#getTag()Ljava/lang/String;

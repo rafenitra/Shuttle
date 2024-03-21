@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onClick(LView;)V
+null
+==
+getRootViewId com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#getRootViewId()I
+getUpdateCommandString com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#getUpdateCommandString()Ljava/lang/String;

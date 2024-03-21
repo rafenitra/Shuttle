@@ -1,0 +1,4 @@
+com.github.florent37.glidepalette.BitmapPalette#instance-init#
+java.util.ArrayList#<init>()V
+java.util.LinkedList#<init>()V
+java.util.ArrayList#instance-init#

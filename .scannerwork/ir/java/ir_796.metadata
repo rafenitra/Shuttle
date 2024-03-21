@@ -1,0 +1,4 @@
+com.simplecity.multisheetview.ui.view.MultiSheetView#fadeView(II)V
+com.simplecity.multisheetview.ui.view.MultiSheetView#fadeView(LView;F)V
+==
+getSheetPeekViewResId com.simplecity.multisheetview.ui.view.MultiSheetView#getSheetPeekViewResId(I)I

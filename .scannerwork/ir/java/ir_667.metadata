@@ -1,0 +1,2 @@
+com.simplecity.amp_library.utils.SettingsManager#setArtistColumnCount(LContext;I)V
+com.simplecity.amp_library.utils.SettingsManager#getArtistColumnCountKey(LContext;)Ljava/lang/String;

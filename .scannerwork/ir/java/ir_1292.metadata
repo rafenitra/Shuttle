@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.main.LibraryController#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;
+com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;
+com.simplecity.amp_library.ui.screens.main.LibraryController#setupViewPager()V

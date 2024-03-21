@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.ShuffleButton#<init>(LContext;LAttributeSet;I)V
+==
+setShuffleMode com.simplecity.amp_library.ui.views.ShuffleButton#setShuffleMode(I)V

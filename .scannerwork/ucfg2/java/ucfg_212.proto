@@ -1,0 +1,61 @@
+
+_com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#getTempDouble3Array()[Ds
+g/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÑ Ñ(+"3*±
+2
+á$ á(%U
+S
+
+à à(
+%3java.lang.ThreadLocal"__id*"
+
+__unknown_file (
+""√¿
+
+à à(&
+
+%4void".java.lang.ThreadLocal#set(Ljava/lang/Object;)V*9
+
+__unknown_file (
+
+%3java.lang.ThreadLocal*"
+
+__unknown_file (
+""2set(Ljava/lang/Object;)*
+1*ô
+3
+Ö Ö((U
+S
+
+Ö Ö((
+%0java.lang.ThreadLocal"__id*"
+
+__unknown_file (
+""êç
+
+Ö Ö(.
+%1double[]"-java.lang.ThreadLocal#get()Ljava/lang/Object;*9
+
+__unknown_file (
+
+%0java.lang.ThreadLocal2get()ï
+í
+
+Ü Ü(
+%2boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+1*%
+1
+ä ä("
+
+ä ä(
+""BK"I
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.utils.FileHelper#getExtension(Ljava/lang/String;)Ljava/lang/String;
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.String#lastIndexOf(I)I

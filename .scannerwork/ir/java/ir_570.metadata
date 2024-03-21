@@ -1,0 +1,2 @@
+com.simplecity.amp_library.model.Album#getTagArtwork()Ljava/io/InputStream;
+com.simplecity.amp_library.model.Album#getArtworkPath()Ljava/lang/String;

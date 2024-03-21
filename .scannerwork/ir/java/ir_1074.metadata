@@ -1,0 +1,3 @@
+com.simplecity.amp_library.utils.ShuttleUtils#getShuttleWebIntent(Ljava/lang/String;)LIntent;
+null
+com.simplecity.amp_library.utils.ShuttleUtils#isAmazonBuild()Z

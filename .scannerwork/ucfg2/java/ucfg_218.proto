@@ -1,0 +1,57 @@
+
+dcom.simplecity.amp_library.http.HttpClient#getInstance()Lcom/simplecity/amp_library/http/HttpClient;i
+_/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/http/HttpClient.java* (5"3*½
+2 ((jh
+ (&0
+%2*com.simplecity.amp_library.http.HttpClient"*com.simplecity.amp_library.http.HttpClient™
+–
+ ((
+%3"4com.simplecity.amp_library.http.HttpClient#<init>()V*N
+
+__unknown_file (2
+0
+%2*com.simplecity.amp_library.http.HttpClient 
+
+ ((;,
+*com.simplecity.amp_library.http.HttpClient"
+	sInstance"__id*N
+
+__unknown_file (2
+0
+%2*com.simplecity.amp_library.http.HttpClient*
+1*ú
+3 ( 
+
+ (0
+%0*com.simplecity.amp_library.http.HttpClient"__id*Y
+
+__unknown_file (=*;,
+*com.simplecity.amp_library.http.HttpClient"
+	sInstance¿
+¼
+ (
+%1boolean"	__compare*"
+
+__unknown_file (
+==*N
+
+__unknown_file (2
+0
+%0*com.simplecity.amp_library.http.HttpClient*"
+
+__unknown_file (
+""*
+2
+1*ð
+1 ( 
+
+ (0
+%4*com.simplecity.amp_library.http.HttpClient"__id*Y
+
+__unknown_file (=*;,
+*com.simplecity.amp_library.http.HttpClient"
+	sInstance">
+ (2
+0
+%4*com.simplecity.amp_library.http.HttpClientB.",
+*com.simplecity.amp_library.http.HttpClientH

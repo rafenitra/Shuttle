@@ -1,0 +1,81 @@
+
+~com.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask#doInBackground([Ljava/lang/Void;)Ljava/lang/Boolean;à
+~/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/CheckDocumentPermissionsTask.java! !($"startingBlock*Ÿ
+2"M "(X°
+û
+
+"ß "(¨
+%2java.util.List"__id*t
+
+__unknown_file (X*VK
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
+paths†
+ù
+	"M "(≠
+%3"ècom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#hasDocumentTreePermission(LContext;LSettingsManager;Ljava/util/List;Ljava/util/List;)Z*X
+
+__unknown_file (<":
+8com.simplecity.amp_library.ui.screens.tagger.TaggerUtils*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*2
+
+__unknown_file (
+
+%2java.util.List*
+1*Ë
+3" "(ü
+ú
+"C "(H
+%0java.util.List"__id*t
+
+__unknown_file (X*VK
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask"
+pathsÆ
+´
+" "(I
+%1"gcom.simplecity.amp_library.ui.screens.tagger.TaggerUtils#requiresPermission(LContext;Ljava/util/List;)Z*X
+
+__unknown_file (<":
+8com.simplecity.amp_library.ui.screens.tagger.TaggerUtils*"
+
+__unknown_file (
+""*2
+
+__unknown_file (
+
+%0java.util.List*
+2
+1*ä
+startingBlock!$ !(4ç
+ä
+   (
+%4"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*8
+
+__unknown_file (
+
+paramsjava.lang.Void[]Z
+X
+!- !(3
+paramsjava.lang.Void[]"__annotation*"
+
+__unknown_file (
+
+%4*
+3*#
+1	" "(Æ"
+	" "(Æ
+"":&
+!% !(3
+paramsjava.lang.Void[]BMK
+Icom.simplecity.amp_library.ui.screens.tagger.CheckDocumentPermissionsTask

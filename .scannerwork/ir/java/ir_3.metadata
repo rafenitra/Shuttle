@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.RepeatButton#<init>(LContext;LAttributeSet;I)V
+==
+setRepeatMode com.simplecity.amp_library.ui.views.RepeatButton#setRepeatMode(I)V

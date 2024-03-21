@@ -1,0 +1,61 @@
+
+Hcom.simplecity.amp_library.model.Song#getFormatLabel()Ljava/lang/String;f
+Z/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaþ þ( "3*²
+2
+€ €($§¤
+
+€ €(&
+%2";com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;*E
+
+__unknown_file ()'
+%com.simplecity.amp_library.model.Song2getTagInfo()r
+p
+
+€ €(-8'
+%com.simplecity.amp_library.model.Song"
+formatLabel"__id*"
+
+__unknown_file (
+""*
+1*É
+3
+ÿ ÿ(…
+‚
+
+ÿ ÿ(
+%0java.lang.String"__id*V
+
+__unknown_file (:*8'
+%com.simplecity.amp_library.model.Song"
+formatLabel§
+¤
+
+ÿ ÿ(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+2
+1*¿
+1
+‚ ‚(…
+‚
+
+‚ ‚(
+%3java.lang.String"__id*V
+
+__unknown_file (:*8'
+%com.simplecity.amp_library.model.Song"
+formatLabel"&
+
+‚ ‚(
+
+%3java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

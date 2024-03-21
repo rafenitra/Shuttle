@@ -1,0 +1,112 @@
+
+Lcom.simplecity.amp_library.model.BaseFileObject#toString()Ljava/lang/String;n
+d/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/BaseFileObject.java ("1*¬
+1 ( g
+e
+ (
+%0java.lang.String"__concat*
+ ( 
+BaseFileObject{*
+ (
+
+name='†
+ƒ
+ (
+%1java.lang.String"__id*Y
+
+__unknown_file (=*;1
+/com.simplecity.amp_library.model.BaseFileObject"
+namez
+x
+ (
+%2java.lang.String"__concat*$
+ (
+
+%0java.lang.String*$
+ (
+
+%1java.lang.Stringh
+f
+ (&
+%3java.lang.String"__concat*$
+ (
+
+%2java.lang.String*
+" (&
+\'n
+l
+ (
+%4java.lang.String"__concat*$
+ (&
+
+%3java.lang.String*
+ (
+
+, path='†
+ƒ
+ (!
+%5java.lang.String"__id*Y
+
+__unknown_file (=*;1
+/com.simplecity.amp_library.model.BaseFileObject"
+pathz
+x
+ (!
+%6java.lang.String"__concat*$
+ (
+
+%4java.lang.String*$
+ (!
+
+%5java.lang.Stringh
+f
+ ((
+%7java.lang.String"__concat*$
+ (!
+
+%6java.lang.String*
+$ ((
+\'q
+o
+ (
+%8java.lang.String"__concat*$
+ ((
+
+%7java.lang.String*
+ (
+, fileType=h
+f
+ ((
+%9java.lang.String"__concat*$
+ (
+
+%8java.lang.String*
+  ((
+""i
+g
+  (
+%10java.lang.String"__concat*$
+ ((
+
+%9java.lang.String*
+   (
+} x
+v
+   ('
+%11java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*"
+
+__unknown_file (
+""}
+{
+  ('
+%12java.lang.String"__concat*%
+  (
+
+%10java.lang.String*%
+   ('
+
+%11java.lang.String"%
+  ((
+
+%12java.lang.StringB31
+/com.simplecity.amp_library.model.BaseFileObjectH

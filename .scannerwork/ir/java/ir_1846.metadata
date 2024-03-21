@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.PlaybackManager#destroy()V
+==
+getAudioSessionId com.simplecity.amp_library.playback.PlaybackManager#getAudioSessionId()I

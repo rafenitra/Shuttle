@@ -1,0 +1,5 @@
+android.support.design.widget.CustomCollapsingTextHelper#calculateBaseOffsets()V
+android.support.design.widget.CustomCollapsingTextHelper#clearTexture()V
+android.support.design.widget.CustomCollapsingTextHelper#calculateUsingSubSize(F)V
+android.support.design.widget.CustomCollapsingTextHelper#setInterpolatedTextSize(F)V
+android.support.design.widget.CustomCollapsingTextHelper#calculateUsingTextSize(F)V

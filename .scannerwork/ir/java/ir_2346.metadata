@@ -1,0 +1,5 @@
+com.simplecity.amp_library.playback.QueueManager#load(Ljava/util/List;ILUnsafeAction;)V
+com.simplecity.amp_library.playback.QueueManager#notifyMetaChanged()V
+com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
+==
+makeShuffleList com.simplecity.amp_library.playback.QueueManager#makeShuffleList()V

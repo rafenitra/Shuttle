@@ -1,0 +1,197 @@
+
+Ncom.simplecity.amp_library.ui.modelviews.AlbumView#equals(Ljava/lang/Object;)Zs
+g/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumView.javaÒ Ò("startingBlock*ã
+2
+Ù? Ù(HŒ
+‰
+
+Ù? Ù(V
+%9"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"">
+<
+
+Ù? Ù(V
+%7"__id*"
+
+__unknown_file (
+
+%9*
+1*T
+3
+Ù Ù($>
+<
+
+Ù Ù(<
+%7"__id*"
+
+__unknown_file (
+
+%8*
+1*‰
+startingBlock
+Ò Ò(#‹
+ˆ
+
+Ñ Ñ(
+%10"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectX
+V
+
+Ò! Ò("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%10*
+11*¦
+4
+Ù Ù(Œ
+‰
+
+Ù Ù(
+%6"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*%
+5
+Ø3 Ø(8"
+
+Ø, Ø(9
+""*½
+6
+Ö* Ö(+‹
+ˆ
+
+Ö Ö(,?
+	albumView2com.simplecity.amp_library.ui.modelviews.AlbumView"__id*3
+
+__unknown_file (
+
+ojava.lang.Object•
+’
+
+Ø Ø(*
+%5boolean"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+4
+5*%
+7
+Ô< Ô(A"
+
+Ô5 Ô(B
+""* 
+8
+Ô Ô(!´±
+
+Ô Ô(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*R
+
+__unknown_file (64
+2com.simplecity.amp_library.ui.modelviews.AlbumView2
+getClass()•’
+
+Ô' Ô(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()·
+´
+
+Ô Ô(3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+6
+7*À
+9
+Ô Ô(¦
+£
+
+Ô Ô(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+7
+8*&
+10
+Ó Ó(""
+
+Ó Ó(#
+""*ò
+11
+Ó Ó(Ö
+Ó
+
+Ó Ó(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*R
+
+__unknown_file (64
+2com.simplecity.amp_library.ui.modelviews.AlbumView*3
+
+__unknown_file (
+
+ojava.lang.Object*
+9
+10*%
+1
+Ù Ù(W"
+
+Ù Ù(W
+"":#
+
+Ò Ò("
+ojava.lang.ObjectB64
+2com.simplecity.amp_library.ui.modelviews.AlbumViewHX

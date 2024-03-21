@@ -1,0 +1,4 @@
+com.simplecity.amp_library.utils.sorting.SortManager#sortSongs(Ljava/util/List;)V
+==
+sortSongs com.simplecity.amp_library.utils.sorting.SortManager#sortSongs(Ljava/util/List;I)V
+getSongsSortOrder com.simplecity.amp_library.utils.sorting.SortManager#getSongsSortOrder()I

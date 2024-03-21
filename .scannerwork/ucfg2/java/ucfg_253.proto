@@ -1,0 +1,64 @@
+
+Fcom.simplecity.amp_library.model.Playlist#toString()Ljava/lang/String;h
+^/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.javaw w("1*½
+1x x(^
+\
+x y(
+%0java.lang.String"__concat*
+x x(
+	Playlist{*
+y y(
+id=h
+f
+x y(
+%1java.lang.String"__concat*$
+x y(
+
+%0java.lang.String*
+y y(
+""n
+l
+x z(
+%2java.lang.String"__concat*$
+x y(
+
+%1java.lang.String*
+z z(
+
+, name='
+}
+z z(!
+%3java.lang.String"__id*S
+
+__unknown_file (7*5+
+)com.simplecity.amp_library.model.Playlist"
+namez
+x
+x z(!
+%4java.lang.String"__concat*$
+x z(
+
+%2java.lang.String*$
+z z(!
+
+%3java.lang.Stringh
+f
+x z((
+%5java.lang.String"__concat*$
+x z(!
+
+%4java.lang.String*
+z$ z((
+\'g
+e
+x {(
+%6java.lang.String"__concat*$
+x z((
+
+%5java.lang.String*
+{ {(
+}"$
+x {(
+
+%6java.lang.StringB-+
+)com.simplecity.amp_library.model.PlaylistH

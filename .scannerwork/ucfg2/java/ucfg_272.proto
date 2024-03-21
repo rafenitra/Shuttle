@@ -1,0 +1,34 @@
+
+|com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapter#getPageTitle(I)Ljava/lang/CharSequence;‚
+v/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/BaseWidgetConfigureActivity.java¥ ¥(("1*Û
+1
+¦ ¦(¬
+©
+
+¦ ¦(;
+%0java.lang.String"-java.lang.String#valueOf(I)Ljava/lang/String;*0
+
+__unknown_file ("
+java.lang.String*"
+
+__unknown_file (
+""s
+q
+
+¦ ¦(;
+%1java.lang.String"__concat*
+
+¦ ¦(	
+Layout *&
+
+¦ ¦(;
+
+%0java.lang.String"&
+
+¦ ¦(<
+
+%1java.lang.String: 
+
+__unknown_file (
+""BXV
+Tcom.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity$WidgetPagerAdapterH

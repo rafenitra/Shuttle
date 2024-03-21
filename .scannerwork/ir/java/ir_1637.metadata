@@ -1,0 +1,8 @@
+com.simplecity.amp_library.ui.modelviews.ArtworkView#bindView(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$ViewHolder;)V
+null
+java.lang.String#contains(Ljava/lang/CharSequence;)Z
+java.lang.System#currentTimeMillis()J
+==
+getName java.io.File#getName()Ljava/lang/String;
+getPath java.io.File#getPath()Ljava/lang/String;
+isSelected com.simplecity.amp_library.ui.modelviews.ArtworkView#isSelected()Z

@@ -1,0 +1,3 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#onAttachedToWindow()V
+android.support.design.widget.CustomCollapsingToolbarLayout$OffsetUpdateListener#<init>(Landroid/support/design/widget/CustomCollapsingToolbarLayout;)V
+android.support.design.widget.CustomCollapsingToolbarLayout$OffsetUpdateListener#instance-init#

@@ -1,0 +1,6 @@
+com.simplecity.amp_library.playback.PlaybackManager#stop(Z)V
+com.simplecity.amp_library.playback.PlaybackManager#saveBookmarkIfNeeded()V
+java.lang.System#currentTimeMillis()J
+com.simplecity.amp_library.playback.PlaybackManager#updateLastPlayedTime()V
+==
+isPlaying com.simplecity.amp_library.playback.PlaybackManager#isPlaying()Z

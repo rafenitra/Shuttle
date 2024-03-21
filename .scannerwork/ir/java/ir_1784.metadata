@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#addDrawerLock(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerLockManager$DrawerLock;)V
+==
+contains java.util.List#contains(Ljava/lang/Object;)Z
+add java.util.List#add(Ljava/lang/Object;)Z

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.AestheticTintedImageView#invalidateColors(I)V
+==
+setImageDrawable com.simplecity.amp_library.ui.views.AestheticTintedImageView#setImageDrawable(LDrawable;)V

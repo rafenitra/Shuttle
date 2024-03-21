@@ -1,0 +1,9 @@
+com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#onCreate(LBundle;)V
+com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#initButtons()V
+com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#registerIntentReceiver()V
+com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#initializeBackButton()V
+==
+initTextViews com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#initTextViews()V
+setCircleLayoutParam com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#setCircleLayoutParam(LView;)V
+initializeViewInformationFromDB com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#initializeViewInformationFromDB()V
+setQuickCircleWindowParam com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#setQuickCircleWindowParam()V

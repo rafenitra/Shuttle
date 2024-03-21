@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.PlaybackManager#<init>(LContext;LQueueManager;LPlaybackSettingsManager;LRepository/SongsRepository;LRepository/AlbumsRepository;LRepository/AlbumArtistsRepository;LRepository/GenresRepository;LRepository/PlaylistsRepository;LMusicService/Callbacks;LSettingsManager;)V
+null
+com.simplecity.amp_library.utils.SleepTimer#getInstance()Lcom/simplecity/amp_library/utils/SleepTimer;
+com.simplecity.amp_library.utils.SleepTimer#getCurrentTimeObservable()LFlowable;

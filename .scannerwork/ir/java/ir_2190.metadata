@@ -1,0 +1,3 @@
+test.com.androidnavigation.fragment.BaseNavigationController#onViewCreated(LView;LBundle;)V
+==
+addRootFragment test.com.androidnavigation.fragment.BaseNavigationController#addRootFragment()V

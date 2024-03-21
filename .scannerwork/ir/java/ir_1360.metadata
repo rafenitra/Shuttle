@@ -1,0 +1,3 @@
+com.simplecity.amp_library.utils.sorting.SortManager#setPlaylistDetailSongsAscending(LPlaylist;Z)V
+com.simplecity.amp_library.utils.sorting.SortManager#setAscending(Ljava/lang/String;Z)V
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

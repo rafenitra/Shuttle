@@ -1,0 +1,3 @@
+com.simplecity.amp_library.utils.SleepTimer#getInstance()Lcom/simplecity/amp_library/utils/SleepTimer;
+com.simplecity.amp_library.utils.SleepTimer#<init>()V
+com.simplecity.amp_library.utils.SleepTimer#instance-init#

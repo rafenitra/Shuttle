@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.screens.drawer.DrawerParent#getLibraryParent(LSettingsManager;)Lcom/simplecity/amp_library/ui/screens/drawer/DrawerParent;
+com.simplecity.amp_library.ui.screens.drawer.DrawerParent#<init>(IIILNavigationEventRelay/NavigationEvent;ZLSettingsManager;)V
+com.simplecity.amp_library.ui.screens.drawer.DrawerParent#instance-init#

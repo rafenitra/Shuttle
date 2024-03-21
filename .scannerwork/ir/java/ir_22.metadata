@@ -1,0 +1,3 @@
+com.github.florent37.glidepalette.GlidePalette#with(Ljava/lang/String;)Lcom/github/florent37/glidepalette/GlidePalette;
+com.github.florent37.glidepalette.GlidePalette#instance-init#
+com.github.florent37.glidepalette.GlidePalette#<init>()V

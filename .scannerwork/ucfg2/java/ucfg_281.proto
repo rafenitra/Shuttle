@@ -1,0 +1,63 @@
+
+Jcom.simplecity.amp_library.model.FolderObject#toString()Ljava/lang/String;l
+b/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/FolderObject.java ("1*Ç
+1 (i
+g
+ (
+%0java.lang.String"__concat*
+ (
+FolderObject{*
+ (
+
+fileCount=h
+f
+ ((
+%1java.lang.String"__concat*$
+ (
+
+%0java.lang.String*
+ ((
+""t
+r
+ ( 
+%2java.lang.String"__concat*$
+ ((
+
+%1java.lang.String*
+ ( 
+, folderCount=h
+f
+ (.
+%3java.lang.String"__concat*$
+ ( 
+
+%2java.lang.String*
+# (.
+""h
+f
+ (
+%4java.lang.String"__concat*$
+ (.
+
+%3java.lang.String*
+ (
+} w
+u
+ ('
+%5java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*"
+
+__unknown_file (
+""z
+x
+ ('
+%6java.lang.String"__concat*$
+ (
+
+%4java.lang.String*$
+ ('
+
+%5java.lang.String"$
+ ((
+
+%6java.lang.StringB1/
+-com.simplecity.amp_library.model.FolderObjectH

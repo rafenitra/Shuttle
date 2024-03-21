@@ -1,0 +1,2 @@
+com.simplecity.amp_library.utils.MediaButtonIntentReceiver#onReceive(LContext;LIntent;)V
+com.simplecity.amp_library.utils.MediaButtonIntentReceiver#handleIntent(LContext;LIntent;LPlaybackSettingsManager;)V

@@ -1,0 +1,4 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#setScrimsShown(ZZ)V
+android.support.design.widget.CustomCollapsingToolbarLayout#animateScrim(I)V
+==
+setScrimAlpha android.support.design.widget.CustomCollapsingToolbarLayout#setScrimAlpha(I)V

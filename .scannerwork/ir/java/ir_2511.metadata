@@ -1,0 +1,6 @@
+com.afollestad.aesthetic.TintHelper#setTintSelector(LView;IZZ)V
+null
+com.afollestad.aesthetic.TintHelper#getDefaultRippleColor(LContext;Z)I
+com.afollestad.aesthetic.TintHelper#getDisabledColorStateList(II)LColorStateList;
+com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;LColorStateList;)LDrawable;
+com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;I)LDrawable;

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#onAttachedToWindow()V
+==
+getEvents com.simplecity.amp_library.ui.views.multisheet.MultiSheetEventRelay#getEvents()LObservable;

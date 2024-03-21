@@ -1,0 +1,27 @@
+
+Icom.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Zj
+`/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileHelper.javax x(&"3*‰
+2y! y(%us
+y! y(0
+%1boolean"java.io.File#canWrite()Z*2
+
+__unknown_file (
+
+filejava.io.File2
+canWrite()*
+1*Š
+3y y(sq
+y y(
+%0boolean"java.io.File#canRead()Z*2
+
+__unknown_file (
+
+filejava.io.File2	canRead()*
+2
+1*!
+1y y(1"
+y y(1
+"": 
+x' x(0
+filejava.io.FileB/"-
++com.simplecity.amp_library.utils.FileHelperHX

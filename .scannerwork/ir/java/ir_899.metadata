@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.settings.SupportPresenter#rateClicked()V
+==
+getView com.simplecity.amp_library.ui.common.Presenter#getView()Ljava/lang/Object;
+setHasRated com.simplecity.amp_library.utils.SettingsManager#setHasRated()V

@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.AestheticTextInputEditText#onAttachedToWindow()V
+null
+com.afollestad.aesthetic.ViewHintTextColorAction#create(LTextView;)Lcom/afollestad/aesthetic/ViewHintTextColorAction;

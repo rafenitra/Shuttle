@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView#onClick()V
+==
+onSuggestedHeaderClick com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView$ClickListener#onSuggestedHeaderClick(LSuggestedHeader;)V

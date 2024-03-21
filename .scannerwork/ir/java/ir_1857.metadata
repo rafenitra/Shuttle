@@ -1,0 +1,7 @@
+com.simplecity.amp_library.playback.PlaybackManager#previous(Z)V
+com.simplecity.amp_library.playback.PlaybackManager#load(ZLjava/lang/Boolean;J)V
+==
+play com.simplecity.amp_library.playback.PlaybackManager#play()V
+stop com.simplecity.amp_library.playback.PlaybackManager#stop(Z)V
+getSeekPosition com.simplecity.amp_library.playback.PlaybackManager#getSeekPosition()J
+seekTo com.simplecity.amp_library.playback.PlaybackManager#seekTo(J)V

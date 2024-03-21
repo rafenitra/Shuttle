@@ -1,0 +1,2 @@
+com.simplecity.amp_library.utils.sorting.SortManager#getPlaylistDetailAlbumsSortOrder(LPlaylist;)I
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

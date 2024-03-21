@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.EdgeGlowUtil#invalidateScrollViewFields()V
+java.lang.reflect.Field#setAccessible(Z)V
+java.lang.reflect.Field#getName()Ljava/lang/String;

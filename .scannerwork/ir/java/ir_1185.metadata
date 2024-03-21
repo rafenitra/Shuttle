@@ -1,0 +1,2 @@
+com.afollestad.aesthetic.Aesthetic#colorPrimaryDark()LObservable;
+com.afollestad.aesthetic.Util#resolveColor(LContext;I)I

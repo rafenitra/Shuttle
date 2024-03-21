@@ -1,0 +1,5 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#onLayout(ZIIII)V
+android.support.design.widget.CustomCollapsingToolbarLayout#getViewOffsetHelper(LView;)LViewOffsetHelper;
+android.support.design.widget.CustomCollapsingToolbarLayout#updateScrimVisibility()V
+android.support.design.widget.CustomCollapsingToolbarLayout#getHeightWithMargins(LView;)I
+android.support.design.widget.CustomCollapsingToolbarLayout#getMaxOffsetForPinChild(LView;)I

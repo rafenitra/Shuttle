@@ -1,0 +1,4 @@
+com.jp.wasabeef.glide.transformations.CropTransformation#transform(LResource;II)LResource;
+null
+java.lang.Math#max(FF)F
+com.jp.wasabeef.glide.transformations.CropTransformation#getTop(F)F

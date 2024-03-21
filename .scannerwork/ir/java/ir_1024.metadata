@@ -1,0 +1,7 @@
+com.simplecity.amp_library.ui.widgets.WidgetProviderLarge#update(Lcom/simplecity/amp_library/playback/MusicService;LSharedPreferences;[IZ)V
+null
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getSong com.simplecity.amp_library.playback.MusicService#getSong()LSong;
+isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z
+getRootViewId com.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getRootViewId()I

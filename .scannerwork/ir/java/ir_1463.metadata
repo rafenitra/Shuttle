@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.BreadcrumbsView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/BreadcrumbsView$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.BreadcrumbsView$ViewHolder#<init>(LView;)V
+com.simplecity.amp_library.ui.modelviews.BreadcrumbsView$ViewHolder#instance-init#

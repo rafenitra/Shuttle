@@ -1,0 +1,149 @@
+
+Qcom.simplecity.amp_library.ui.modelviews.PlaylistView#equals(Ljava/lang/Object;)Zt
+j/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/PlaylistView.javac c("startingBlock*Ý
+2iC i(GŠ
+‡
+iC i(X
+%8"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""<
+:
+iC i(X
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*P
+3i" i(*<
+:
+i" i(@
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*€
+startingBlockc c(#ˆ
+…
+b b(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+c! c("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*¬
+4g+ g(,‡
+„
+g g(-=
+that5com.simplecity.amp_library.ui.modelviews.PlaylistView"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectŠ
+‡
+i i(
+%5"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*!
+5e< e(A"
+e5 e(B
+""*›
+6e e(!µ²
+e e(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*U
+
+__unknown_file (97
+5com.simplecity.amp_library.ui.modelviews.PlaylistView2
+getClass()“
+e' e(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+²
+e e(3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+4
+5*¼
+7e e(¤
+¡
+e e(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+5
+6*!
+8d d(""
+d d(#
+""*ï
+9d d(×
+Ô
+d d(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*U
+
+__unknown_file (97
+5com.simplecity.amp_library.ui.modelviews.PlaylistView*3
+
+__unknown_file (
+
+ojava.lang.Object*
+7
+8*!
+1i i(Y"
+i i(Y
+"":!
+c c("
+ojava.lang.ObjectB97
+5com.simplecity.amp_library.ui.modelviews.PlaylistViewHX

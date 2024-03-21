@@ -1,0 +1,3 @@
+com.simplecity.amp_library.sql.legacy.WhitelistDbOpenHelper#onUpgrade(LSQLiteDatabase;II)V
+==
+onCreate com.simplecity.amp_library.sql.legacy.WhitelistDbOpenHelper#onCreate(LSQLiteDatabase;)V

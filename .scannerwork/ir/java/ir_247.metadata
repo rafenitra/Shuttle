@@ -1,0 +1,3 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#generateLayoutParams(LViewGroup/LayoutParams;)LFrameLayout/LayoutParams;
+android.support.design.widget.CustomCollapsingToolbarLayout$LayoutParams#instance-init#
+android.support.design.widget.CustomCollapsingToolbarLayout$LayoutParams#<init>(LViewGroup/LayoutParams;)V

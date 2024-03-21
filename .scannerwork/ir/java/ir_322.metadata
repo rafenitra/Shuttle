@@ -1,0 +1,6 @@
+com.simplecity.amp_library.utils.color.ColorHelper#changeColorLightness(II)I
+com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#getTempDouble3Array()[D
+java.lang.Math#min(DD)D
+java.lang.Math#max(DD)D
+com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#LABToColor(DDD)I
+com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#colorToLAB(I[D)V

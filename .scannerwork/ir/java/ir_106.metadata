@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.SuggestedSongView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/SuggestedSongView$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.SuggestedSongView$ViewHolder#instance-init#
+com.simplecity.amp_library.ui.modelviews.SuggestedSongView$ViewHolder#<init>(LView;)V

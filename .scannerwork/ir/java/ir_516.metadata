@@ -1,0 +1,3 @@
+com.simplecity.amp_library.notifications.MusicNotificationHelper#cancel()V
+==
+cancel com.simplecity.amp_library.notifications.NotificationHelper#cancel(I)V

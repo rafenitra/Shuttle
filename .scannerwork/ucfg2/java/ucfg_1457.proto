@@ -1,0 +1,42 @@
+
+__sonar_lambda_125$l
+b/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ArtworkUtils.java9) 9(\"startingBlock*Ä
+startingBlock9) 9(\£
+ 
+
+__unknown_file ("
+patternjava.util.regex.Pattern"__id*Z
+
+__unknown_file (>*</
+-com.simplecity.amp_library.utils.ArtworkUtils"	
+pattern*
+1*é
+192 9(9Œ
+9B 9(Q
+%9java.lang.String"(java.io.File#getName()Ljava/lang/String;*3
+
+__unknown_file (
+
+file1java.io.File2	getName()œ™
+92 9(R
+%10java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*@
+
+__unknown_file ($
+"
+patternjava.util.regex.Pattern*4
+
+__unknown_file (
+
+%9java.lang.String2!matcher(Ljava/lang/CharSequence;)Š‡
+92 9(\
+%11boolean""java.util.regex.Matcher#matches()Z*<
+
+__unknown_file ( 
+
+%10java.util.regex.Matcher2	matches()"
+92 9(\
+
+%11boolean:!
+9) 9(.
+file1java.io.FileB
+java.io.FileFilter

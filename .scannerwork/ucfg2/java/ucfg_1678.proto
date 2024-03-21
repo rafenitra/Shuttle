@@ -1,0 +1,57 @@
+
+dcom.simplecity.amp_library.http.HttpServer#getInstance()Lcom/simplecity/amp_library/http/HttpServer;i
+_/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/http/HttpServer.java (("3*¿
+2 (*jh
+ ((0
+%2*com.simplecity.amp_library.http.HttpServer"*com.simplecity.amp_library.http.HttpServer™
+–
+ (*
+%3"4com.simplecity.amp_library.http.HttpServer#<init>()V*N
+
+__unknown_file (2
+0
+%2*com.simplecity.amp_library.http.HttpServer¢
+Ÿ
+ (*=,
+*com.simplecity.amp_library.http.HttpServer"
+sHttpServer"__id*N
+
+__unknown_file (2
+0
+%2*com.simplecity.amp_library.http.HttpServer*
+1*ü
+3 (¢
+Ÿ
+ (0
+%0*com.simplecity.amp_library.http.HttpServer"__id*[
+
+__unknown_file (?*=,
+*com.simplecity.amp_library.http.HttpServer"
+sHttpServer¿
+¼
+ (
+%1boolean"	__compare*"
+
+__unknown_file (
+==*N
+
+__unknown_file (2
+0
+%0*com.simplecity.amp_library.http.HttpServer*"
+
+__unknown_file (
+""*
+2
+1*ò
+1   (¢
+Ÿ
+   (0
+%4*com.simplecity.amp_library.http.HttpServer"__id*[
+
+__unknown_file (?*=,
+*com.simplecity.amp_library.http.HttpServer"
+sHttpServer">
+   (2
+0
+%4*com.simplecity.amp_library.http.HttpServerB.",
+*com.simplecity.amp_library.http.HttpServerH

@@ -1,0 +1,6 @@
+com.simplecity.amp_library.playback.MusicService#toggleRepeat()V
+com.simplecity.amp_library.playback.MusicService#showToast(I)V
+==
+setRepeatMode com.simplecity.amp_library.playback.MusicService#setRepeatMode(I)V
+getRepeatMode com.simplecity.amp_library.playback.MusicService#getRepeatMode()I
+notifyChange com.simplecity.amp_library.playback.MusicService#notifyChange(Ljava/lang/String;)V

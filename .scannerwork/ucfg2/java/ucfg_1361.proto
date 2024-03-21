@@ -1,0 +1,38 @@
+
+]com.simplecityapps.recycler_adapter.model.BaseViewModel#areContentsEqual(Ljava/lang/Object;)ZŽ
+ƒ/D:/EPSI/Analyse Code/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/model/BaseViewModel.java+ +(#"startingBlock*ˆ
+startingBlock+# +(1Œ
+‰
+* *(
+%1"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*7
+
+__unknown_file (
+
+otherjava.lang.ObjectY
+W
+++ +(0
+otherjava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%1*
+1*œ
+1, ,(øõ
+, ,(
+%0boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*W
+
+__unknown_file (;9
+7com.simplecityapps.recycler_adapter.model.BaseViewModel*7
+
+__unknown_file (
+
+otherjava.lang.Object2equals(Ljava/lang/Object;)"
+, ,(
+"":%
++$ +(0
+otherjava.lang.ObjectB;9
+7com.simplecityapps.recycler_adapter.model.BaseViewModelHX

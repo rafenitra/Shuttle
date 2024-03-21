@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.modelviews.AlbumView#bindView(Lcom/simplecity/amp_library/ui/modelviews/AlbumView$ViewHolder;)V
+com.github.florent37.glidepalette.GlidePalette#with(Ljava/lang/String;)Lcom/github/florent37/glidepalette/GlidePalette;
+com.simplecity.amp_library.utils.PlaceholderProvider#getInstance(LContext;)Lcom/simplecity/amp_library/utils/PlaceholderProvider;
+==
+getViewType com.simplecity.amp_library.ui.modelviews.AlbumView#getViewType()I

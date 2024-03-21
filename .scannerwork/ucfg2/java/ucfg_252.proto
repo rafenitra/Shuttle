@@ -1,0 +1,62 @@
+
+5com.simplecity.amp_library.model.Playlist#hashCode()Ih
+^/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.javap p("4*Z
+2rA r(BF
+D
+rA r(B	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*Ô
+3r/ r(3
+}
+r/ r(3
+%5java.lang.String"__id*S
+
+__unknown_file (7*5+
+)com.simplecity.amp_library.model.Playlist"
+namewu
+r/ r(>	
+%3int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%5java.lang.String2
+hashCode()F
+D
+r/ r(>	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*¾
+4q q(
+}
+r  r($
+%0java.lang.String"__id*S
+
+__unknown_file (7*5+
+)com.simplecity.amp_library.model.Playlist"
+name¥
+¢
+r  r(,
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+2
+3*!
+1r r(C"
+s s(
+""B-+
+)com.simplecity.amp_library.model.PlaylistHX

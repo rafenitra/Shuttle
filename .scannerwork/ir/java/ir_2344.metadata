@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.QueueManager#setRepeatMode(I)V
+==
+saveQueue com.simplecity.amp_library.playback.QueueManager#saveQueue(Z)V

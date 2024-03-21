@@ -1,0 +1,73 @@
+
+2com.simplecity.amp_library.model.Album#hashCode()Ig
+[/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Album.java¥ ¥("4*^
+2
+§A §(BH
+F
+
+§A §(B	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*Ù
+3
+§/ §(3~
+|
+
+§/ §(3
+%5java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Album"
+nameyw
+
+§/ §(>	
+%3int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%5java.lang.String2
+hashCode()H
+F
+
+§/ §(>	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*Á
+4
+¦ ¦(~
+|
+
+§  §($
+%0java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Album"
+name§
+¤
+
+§  §(,
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+2
+3*%
+1
+§ §(C"
+
+¨ ¨(
+""B*(
+&com.simplecity.amp_library.model.AlbumHX

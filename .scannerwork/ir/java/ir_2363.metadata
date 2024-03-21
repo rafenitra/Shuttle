@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.QueueManager#makeShuffleList()V
+null
+java.util.ArrayList#instance-init#
+java.util.Collections#shuffle(Ljava/util/List;)V

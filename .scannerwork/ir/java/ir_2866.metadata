@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.views.AestheticDrawableTextView#onAttachedToWindow()V
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+invalidateColors com.simplecity.amp_library.ui.views.AestheticDrawableTextView#invalidateColors(I)V

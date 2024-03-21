@@ -1,0 +1,2 @@
+com.simplecity.amp_library.glide.fetcher.MultiFetcher#getId()Ljava/lang/String;
+com.simplecity.amp_library.glide.fetcher.MultiFetcher#getCustomArtworkSuffix(LContext;)Ljava/lang/String;

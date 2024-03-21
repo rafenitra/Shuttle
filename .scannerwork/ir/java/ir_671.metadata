@@ -1,0 +1,4 @@
+com.simplecity.amp_library.utils.SettingsManager#getAlbumColumnCount(LContext;)I
+com.simplecity.amp_library.utils.SettingsManager#getAlbumColumnCountKey(LContext;)Ljava/lang/String;
+==
+getAlbumDisplayType com.simplecity.amp_library.utils.SettingsManager#getAlbumDisplayType(LContext;)I

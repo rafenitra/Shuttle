@@ -1,0 +1,7 @@
+com.simplecity.amp_library.playback.MusicService#getExtras(LSong;)LBundle;
+null
+==
+getSeekPosition com.simplecity.amp_library.playback.MusicService#getSeekPosition()J
+getRepeatMode com.simplecity.amp_library.playback.MusicService#getRepeatMode()I
+isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z
+getShuffleMode com.simplecity.amp_library.playback.MusicService#getShuffleMode()I

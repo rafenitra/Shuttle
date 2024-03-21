@@ -1,0 +1,4 @@
+com.afollestad.aesthetic.AestheticNavigationView#invalidateColors(Lcom/afollestad/aesthetic/ColorIsDarkState;)V
+null
+com.afollestad.aesthetic.ColorIsDarkState#isDark()Z
+com.afollestad.aesthetic.ColorIsDarkState#color()I

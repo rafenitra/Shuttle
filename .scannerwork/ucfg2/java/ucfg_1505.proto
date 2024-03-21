@@ -1,0 +1,27 @@
+
+?com.simplecity.amp_library.model.BaseFileObject#canReadWrite()Zn
+d/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/BaseFileObject.java ("1*‚
+1 (†
+ƒ
+0 (4
+%0java.lang.String"__id*Y
+
+__unknown_file (=*;1
+/com.simplecity.amp_library.model.BaseFileObject"
+path.,
++ (/
+%1java.io.File"java.io.File¥
+¢
+' (5
+%2"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%1java.io.File*4
+
+__unknown_file (
+
+%0java.lang.String"
+ (7
+""B31
+/com.simplecity.amp_library.model.BaseFileObjectHX

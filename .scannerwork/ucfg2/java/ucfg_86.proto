@@ -1,0 +1,199 @@
+
+Pcom.simplecity.amp_library.glide.utils.BitmapAndSize#equals(Ljava/lang/Object;)Zs
+i/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/utils/BitmapAndSize.java ("startingBlock*"
+13 (""
+ (#
+""*ñ
+14 (Ö
+Ó
+ (
+%0boolean"	__compare*"
+
+__unknown_file (
+==*T
+
+__unknown_file (86
+4com.simplecity.amp_library.glide.utils.BitmapAndSize*3
+
+__unknown_file (
+
+ojava.lang.Object*
+13
+12*!
+1 (I"
+ (I
+""*à
+27 (;‹
+ˆ
+7 (H
+%12"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"">
+<
+7 (H
+%10"__id*#
+
+__unknown_file (
+
+%12*
+1*R
+3 (">
+<
+ (4
+%10"__id*#
+
+__unknown_file (
+
+%11*
+1*ƒ
+startingBlock (#‰
+†
+ (
+%13"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+! ("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%13*
+14*¢
+4 (Š
+‡
+ (
+%9"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*!
+5W (\"
+P (]
+""*à
+7; (?Š
+‡
+; (N
+%8"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""<
+:
+; (N
+%6"__id*"
+
+__unknown_file (
+
+%8*
+4
+5*S
+8 ($<
+:
+ (8
+%6"__id*"
+
+__unknown_file (
+
+%7*
+4
+5*«
+9- (.†
+ƒ
+ (/<
+that4com.simplecity.amp_library.glide.utils.BitmapAndSize"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectŠ
+‡
+ (
+%5"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+7
+8*"
+10< (A"
+5 (B
+""*œ
+11 (!´±
+ (#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*T
+
+__unknown_file (86
+4com.simplecity.amp_library.glide.utils.BitmapAndSize2
+getClass()“
+' (3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+²
+ (3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+9
+10*¿
+12 (¤
+¡
+ (
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+10
+11:!
+ ("
+ojava.lang.ObjectB86
+4com.simplecity.amp_library.glide.utils.BitmapAndSizeHX

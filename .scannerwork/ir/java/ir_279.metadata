@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.dialog.DeleteDialog#newInstance(Lcom/simplecity/amp_library/ui/dialog/DeleteDialog$ListAlbumsRef;)Lcom/simplecity/amp_library/ui/dialog/DeleteDialog;
+null
+com.simplecity.amp_library.ui.dialog.DeleteDialog#instance-init#
+com.simplecity.amp_library.ui.dialog.DeleteDialog#<init>()V

@@ -1,0 +1,16 @@
+
+Xcom.simplecity.amp_library.utils.FileHelper#resolveSymlink(Ljava/io/File;)Ljava/io/File;j
+`/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileHelper.javaF F(%"1*Ê
+1G G(˜•
+G G(&
+%0java.io.File"-java.io.File#getCanonicalFile()Ljava/io/File;*2
+
+__unknown_file (
+
+filejava.io.File2getCanonicalFile()" 
+G G('
+
+%0java.io.File: 
+F& F(/
+filejava.io.FileB/"-
++com.simplecity.amp_library.utils.FileHelperH

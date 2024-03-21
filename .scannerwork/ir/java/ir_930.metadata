@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.MusicService#instance-init#
+null
+com.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#<init>(Lcom/simplecity/amp_library/playback/MusicService;)V
+com.simplecity.amp_library.playback.MusicService$MusicServiceCallbacks#instance-init#

@@ -1,0 +1,10 @@
+com.simplecity.amp_library.ui.views.SnowfallView#onDraw(LCanvas;)V
+com.simplecity.amp_library.ui.views.SnowfallView$Snowflake#snowX()F
+com.simplecity.amp_library.ui.views.SnowfallView$Snowflake#snowY()F
+com.simplecity.amp_library.ui.views.SnowfallView$Snowflake#reset()V
+java.lang.StrictMath#round(F)I
+==
+remove java.util.List#remove(Ljava/lang/Object;)Z
+isEmpty java.util.List#isEmpty()Z
+get java.util.List#get(I)Ljava/lang/Object;
+size java.util.List#size()I

@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.AlbumView#onOverflowClick(LView;)V
+==
+onAlbumOverflowClicked com.simplecity.amp_library.ui.modelviews.AlbumView$ClickListener#onAlbumOverflowClicked(LView;LAlbum;)V

@@ -1,0 +1,4 @@
+test.com.androidnavigation.fragment.NavigationController#newInstance(LFragmentInfo;)Ltest/com/androidnavigation/fragment/NavigationController;
+null
+test.com.androidnavigation.fragment.NavigationController#instance-init#
+test.com.androidnavigation.fragment.NavigationController#<init>()V

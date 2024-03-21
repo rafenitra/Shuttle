@@ -1,0 +1,136 @@
+
+Icom.simplecity.amp_library.model.CategoryItem#equals(Ljava/lang/Object;)Zn
+b/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javaš š("startingBlock*%
+2
+œ< œ(A"
+
+œ5 œ(B
+""*›
+3
+œ œ(!¯¬
+
+œ œ(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.CategoryItem2
+getClass()•’
+
+œ' œ(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()·
+´
+
+œ œ(3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+2
+1*†
+startingBlock
+š š(#Š
+‡
+
+™ ™(
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+š! š("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*
+6*À
+4
+œ œ(¦
+£
+
+œ œ(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+2
+3*%
+5
+› ›(""
+
+› ›(#
+""*ë
+6
+› ›(Ñ
+Î
+
+› ›(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.CategoryItem*3
+
+__unknown_file (
+
+ojava.lang.Object*
+4
+5*À
+1
+ž+ ž(,€
+~
+
+ž ž(-5
+that-com.simplecity.amp_library.model.CategoryItem"__id*3
+
+__unknown_file (
+
+ojava.lang.Object•
+’
+
+   ( 
+%5boolean"	__compare*"
+
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+"""
+
+   (!
+"":#
+
+š š("
+ojava.lang.ObjectB1/
+-com.simplecity.amp_library.model.CategoryItemHX

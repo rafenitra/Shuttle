@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.modelviews.FolderView#hashCode()I
+==
+hashCode com.simplecity.amp_library.model.BaseFileObject#hashCode()I
+hashCode java.lang.Object#hashCode()I

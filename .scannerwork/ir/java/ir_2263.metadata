@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.settings.SettingsParentFragment#getRootViewControllerInfo()LFragmentInfo;
+com.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragment#getFragmentInfo(I)LFragmentInfo;

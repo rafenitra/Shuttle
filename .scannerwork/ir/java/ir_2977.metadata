@@ -1,0 +1,8 @@
+com.simplecity.amp_library.utils.FileBrowser#sortFileObjects(Ljava/util/List;)V
+com.simplecity.amp_library.utils.FileBrowser#sizeComparator()Ljava/util/Comparator;
+java.util.Collections#sort(Ljava/util/List;Ljava/util/Comparator;)V
+com.simplecity.amp_library.utils.FileBrowser#filenameComparator()Ljava/util/Comparator;
+com.simplecity.amp_library.utils.FileBrowser#artistNameComparator()Ljava/util/Comparator;
+com.simplecity.amp_library.utils.FileBrowser#albumNameComparator()Ljava/util/Comparator;
+com.simplecity.amp_library.utils.FileBrowser#trackNameComparator()Ljava/util/Comparator;
+com.simplecity.amp_library.utils.FileBrowser#trackNumberComparator()Ljava/util/Comparator;

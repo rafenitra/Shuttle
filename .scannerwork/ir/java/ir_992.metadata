@@ -1,0 +1,10 @@
+com.simplecity.amp_library.playback.MusicService#notifyChange(Ljava/lang/String;)V
+null
+com.simplecity.amp_library.playback.MusicService#onQueueChanged()V
+com.simplecity.amp_library.playback.MusicService#getExtras(LSong;)LBundle;
+com.simplecity.amp_library.playback.MusicService#onMetaChanged()V
+com.simplecity.amp_library.playback.MusicService#onTrackEnded()V
+com.simplecity.amp_library.playback.MusicService#onPlayStateChanged()V
+==
+updateNotification com.simplecity.amp_library.playback.MusicService#updateNotification()V
+saveState com.simplecity.amp_library.playback.MusicService#saveState(Z)V

@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.TintHelper#modifySwitchDrawable(LContext;LDrawable;IZZZ)LDrawable;
+null
+com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;LColorStateList;)LDrawable;

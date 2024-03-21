@@ -1,0 +1,3 @@
+com.simplecity.amp_library.format.PrefixHighlighter#setText(LTextView;[C)V
+==
+setText com.simplecity.amp_library.format.PrefixHighlighter#setText(LTextView;Ljava/lang/String;[C)V

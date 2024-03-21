@@ -1,0 +1,3 @@
+com.simplecity.amp_library.glide.loader.ArtworkModelLoader#<init>(LContext;Z)V
+com.simplecity.amp_library.utils.SettingsManager#<init>(LSharedPreferences;)V
+com.simplecity.amp_library.utils.SettingsManager#instance-init#

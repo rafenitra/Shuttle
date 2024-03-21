@@ -1,0 +1,40 @@
+
+Rcom.simplecity.amp_library.http.lastfm.LastFmAlbum#getImageUrl()Ljava/lang/String;q
+g/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/http/lastfm/LastFmAlbum.java ("3*Ö
+2 (²
+¯
+/ (4>
+%28com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album"__id*]
+
+__unknown_file (A*?4
+2com.simplecity.amp_library.http.lastfm.LastFmAlbum"
+album"
+ (=
+""*š
+3 (²
+¯
+ (>
+%08com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album"__id*]
+
+__unknown_file (A*?4
+2com.simplecity.amp_library.http.lastfm.LastFmAlbum"
+albumÍ
+Ê
+ (
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*\
+
+__unknown_file (@
+>
+%08com.simplecity.amp_library.http.lastfm.LastFmAlbum$Album*"
+
+__unknown_file (
+""*
+2
+1*!
+1 ("
+ (
+""B64
+2com.simplecity.amp_library.http.lastfm.LastFmAlbumH

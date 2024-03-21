@@ -1,0 +1,5 @@
+com.simplecity.amp_library.utils.AnalyticsManager#logInitialTheme(LThemeUtils/Theme;)V
+null
+java.lang.String#valueOf([C)Ljava/lang/String;
+com.simplecity.amp_library.utils.AnalyticsManager#analyticsEnabled()Z
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

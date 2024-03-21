@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#update(LMusicService;LSharedPreferences;[IZ)V
+null
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+getRootViewId com.simplecity.amp_library.ui.widgets.WidgetProviderExtraLarge#getRootViewId()I

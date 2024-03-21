@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ShuttleApplication#onCreate()V
+null
+==
+setLevel java.util.logging.Logger#setLevel(Ljava/util/logging/Level;)V

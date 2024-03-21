@@ -1,0 +1,5 @@
+com.simplecity.amp_library.playback.QueueManager#enqueue(Ljava/util/List;ILUnsafeAction;LUnsafeAction;)V
+com.simplecity.amp_library.playback.QueueManager#notifyMetaChanged()V
+com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
+==
+getCurrentPlaylist com.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;

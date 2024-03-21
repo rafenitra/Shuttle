@@ -1,0 +1,9 @@
+com.simplecity.amp_library.ui.dialog.DeleteDialog#onCreateDialog(LBundle;)LDialog;
+java.util.ArrayList#<init>()V
+null
+java.util.ArrayList#instance-init#
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+==
+isEmpty java.util.List#isEmpty()Z
+get java.util.List#get(I)Ljava/lang/Object;
+size java.util.List#size()I

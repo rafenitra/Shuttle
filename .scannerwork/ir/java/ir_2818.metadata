@@ -1,0 +1,5 @@
+com.simplecity.amp_library.utils.FileHelper#isSymlink(Ljava/io/File;)Z
+java.lang.String#compareTo(Ljava/lang/String;)I
+==
+getAbsolutePath java.io.File#getAbsolutePath()Ljava/lang/String;
+getCanonicalPath java.io.File#getCanonicalPath()Ljava/lang/String;

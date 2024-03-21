@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.dialog.DeleteDialog#deleteSongsOrShowSafDialog()V
+==
+getSongs com.simplecity.amp_library.ui.dialog.DeleteDialog#getSongs()LSingle;

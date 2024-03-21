@@ -1,0 +1,3 @@
+com.jp.wasabeef.glide.transformations.CropCircleTransformation#transform(LResource;II)LResource;
+null
+java.lang.Math#min(II)I

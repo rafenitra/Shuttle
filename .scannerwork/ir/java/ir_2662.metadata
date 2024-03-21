@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#equalizerUpdateDisplay()V
+java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
+java.lang.Float#parseFloat(Ljava/lang/String;)F
+==
+getBandLevelRange com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#getBandLevelRange()[I

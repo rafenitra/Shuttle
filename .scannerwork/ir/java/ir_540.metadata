@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.common.BaseFragment#onCreateAnimation(IZI)LAnimation;
+null
+com.simplecity.amp_library.ui.common.BaseFragment#getNextAnimationDuration(LFragment;J)J

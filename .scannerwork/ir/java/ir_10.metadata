@@ -1,0 +1,3 @@
+com.simplecity.amp_library.utils.TypefaceManager#getInstance()Lcom/simplecity/amp_library/utils/TypefaceManager;
+com.simplecity.amp_library.utils.TypefaceManager#<init>()V
+com.simplecity.amp_library.utils.TypefaceManager#instance-init#

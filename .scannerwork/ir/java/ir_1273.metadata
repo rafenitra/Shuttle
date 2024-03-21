@@ -1,0 +1,3 @@
+com.simplecity.amp_library.ui.modelviews.PlaylistView#onPlaylistClicked(I)V
+==
+onPlaylistClick com.simplecity.amp_library.ui.modelviews.PlaylistView$OnClickListener#onPlaylistClick(ILcom/simplecity/amp_library/ui/modelviews/PlaylistView;)V

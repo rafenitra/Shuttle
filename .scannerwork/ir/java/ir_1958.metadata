@@ -1,0 +1,3 @@
+com.simplecity.amp_library.model.Genre#getQuery()LQuery;
+null
+com.simplecity.amp_library.model.Genre#getProjection()[Ljava/lang/String;

@@ -1,0 +1,6 @@
+com.simplecity.amp_library.ui.views.SnowfallView#generateSnow()V
+java.lang.Math#min(II)I
+==
+nextInt java.util.Random#nextInt(I)I
+addSnow com.simplecity.amp_library.ui.views.SnowfallView#addSnow(I)V
+size java.util.List#size()I

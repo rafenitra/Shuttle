@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.MusicService#onDestroy()V
+null
+==
+saveState com.simplecity.amp_library.playback.MusicService#saveState(Z)V

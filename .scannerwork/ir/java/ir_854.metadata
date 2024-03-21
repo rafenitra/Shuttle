@@ -1,0 +1,4 @@
+com.simplecity.amp_library.model.ArtworkModel#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;
+==
+equals java.io.File#equals(Ljava/lang/Object;)Z

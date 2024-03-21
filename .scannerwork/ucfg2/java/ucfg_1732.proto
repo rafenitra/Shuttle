@@ -1,0 +1,57 @@
+
+Lcom.simplecity.amp_library.ui.modelviews.AlbumArtistView#onItemLongClick(I)Zw
+m/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumArtistView.javaS S("3*é
+2U U(É
+Æ
+U U(L
+%2Fcom.simplecity.amp_library.ui.modelviews.AlbumArtistView$ClickListener"__id*f
+
+__unknown_file (J*H:
+8com.simplecity.amp_library.ui.modelviews.AlbumArtistView"
+
+listenerùö
+U U(A
+%3boolean"›com.simplecity.amp_library.ui.modelviews.AlbumArtistView$ClickListener#onAlbumArtistLongClick(ILcom/simplecity/amp_library/ui/modelviews/AlbumArtistView;)Z*j
+
+__unknown_file (N
+L
+%2Fcom.simplecity.amp_library.ui.modelviews.AlbumArtistView$ClickListener*"
+
+__unknown_file (
+""*X
+
+__unknown_file (<:
+8com.simplecity.amp_library.ui.modelviews.AlbumArtistView2SonAlbumArtistLongClick(ILcom/simplecity/amp_library/ui/modelviews/AlbumArtistView;)"
+U U(B
+""*¿
+3T T(É
+Æ
+T T(L
+%0Fcom.simplecity.amp_library.ui.modelviews.AlbumArtistView$ClickListener"__id*f
+
+__unknown_file (J*H:
+8com.simplecity.amp_library.ui.modelviews.AlbumArtistView"
+
+listenerÛ
+Ø
+T T(
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*j
+
+__unknown_file (N
+L
+%0Fcom.simplecity.amp_library.ui.modelviews.AlbumArtistView$ClickListener*"
+
+__unknown_file (
+""*
+2
+1*!
+1W W("
+W W(
+"": 
+
+__unknown_file (
+""B<:
+8com.simplecity.amp_library.ui.modelviews.AlbumArtistViewX

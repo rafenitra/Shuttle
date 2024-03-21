@@ -1,0 +1,209 @@
+
+Ecom.simplecity.amp_library.model.Playlist#equals(Ljava/lang/Object;)Zh
+^/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Playlist.javae e("startingBlock*õ
+2l; l(Cã
+à
+l; l(H
+%13java.lang.String"__id*]
+
+__unknown_file (A*?
+5
+playlist)com.simplecity.amp_library.model.Playlist"
+nameß
+§
+l; l(P
+%10boolean"	__compare*"
+
+__unknown_file (
+==*5
+
+__unknown_file (
+
+%13java.lang.String*"
+
+__unknown_file (
+""O
+M
+l; l(P
+%8boolean"__id*,
+
+__unknown_file (
+
+%10boolean*
+1* 
+3l l("Ä
+~
+l l("
+%11java.lang.String"__id*S
+
+__unknown_file (7*5+
+)com.simplecity.amp_library.model.Playlist"
+nameã
+à
+l* l(7
+%12java.lang.String"__id*]
+
+__unknown_file (A*?
+5
+playlist)com.simplecity.amp_library.model.Playlist"
+name‘—
+l l(8
+%9boolean",java.lang.String#equals(Ljava/lang/Object;)Z*5
+
+__unknown_file (
+
+%11java.lang.String*5
+
+__unknown_file (
+
+%12java.lang.String2equals(Ljava/lang/Object;)N
+L
+l l(8
+%8boolean"__id*+
+
+__unknown_file (
+
+%9boolean*
+1*É
+startingBlocke e(#â
+Ü
+d d(
+%14"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectV
+T
+e! e("
+ojava.lang.Object"__annotation*#
+
+__unknown_file (
+
+%14*
+11*æ
+4l l(
+}
+l l(
+%6java.lang.String"__id*S
+
+__unknown_file (7*5+
+)com.simplecity.amp_library.model.Playlist"
+name•
+¢
+l l(
+%7boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%6java.lang.String*"
+
+__unknown_file (
+""*
+2
+3*!
+5k& k(+"
+k k(,
+""*´
+6i' i((~
+|
+i i()5
+playlist)com.simplecity.amp_library.model.Playlist"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectì
+ê
+k k(
+%5boolean"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+4
+5*!
+7g< g(A"
+g5 g(B
+""*è
+8g g(!©¶
+g g(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*I
+
+__unknown_file (-+
+)com.simplecity.amp_library.model.Playlist2
+getClass()ìê
+g' g(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+≤
+g g(3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+6
+7*º
+9g g(§
+°
+g g(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+7
+8*"
+10f f(""
+f f(#
+""*Â
+11f f(À
+»
+f f(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*I
+
+__unknown_file (-+
+)com.simplecity.amp_library.model.Playlist*3
+
+__unknown_file (
+
+ojava.lang.Object*
+9
+10*!
+1l l(Q"
+l l(Q
+"":!
+e e("
+ojava.lang.ObjectB-+
+)com.simplecity.amp_library.model.PlaylistHX

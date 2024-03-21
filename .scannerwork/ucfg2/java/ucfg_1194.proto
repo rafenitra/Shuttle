@@ -1,0 +1,27 @@
+
+Hcom.simplecity.amp_library.model.FileObject#toString()Ljava/lang/String;j
+`/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/FileObject.java ("1*Ž
+1 (h
+f
+ (
+%0java.lang.String"__concat*
+ (
+FileObject{*
+ (
+extension='‡
+„
+  ()
+%1java.lang.String"__id*Z
+
+__unknown_file (>*<-
++com.simplecity.amp_library.model.FileObject"
+	extensionw
+u
+   ('
+%2java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*"
+
+__unknown_file (
+"""
+  ((
+""B/-
++com.simplecity.amp_library.model.FileObjectH

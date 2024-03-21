@@ -1,0 +1,4 @@
+com.simplecity.amp_library.playback.MusicService#closeExternalStorageFiles()V
+==
+stop com.simplecity.amp_library.playback.MusicService#stop()V
+notifyChange com.simplecity.amp_library.playback.MusicService#notifyChange(Ljava/lang/String;)V

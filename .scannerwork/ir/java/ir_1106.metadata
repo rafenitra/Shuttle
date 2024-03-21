@@ -1,0 +1,5 @@
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;
+null
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#updateMenuItems(LMenu;)V
+==
+changeBreadcrumbPath com.simplecity.amp_library.ui.screens.folders.FolderFragment#changeBreadcrumbPath()V

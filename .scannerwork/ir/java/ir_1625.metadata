@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#addMiniPlayerLock(Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager$MiniPlayerLock;)V
+==
+contains java.util.List#contains(Ljava/lang/Object;)Z
+add java.util.List#add(Ljava/lang/Object;)Z

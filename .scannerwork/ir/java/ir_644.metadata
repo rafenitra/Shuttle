@@ -1,0 +1,2 @@
+android.support.design.widget.CustomCollapsingTextHelper#setExpandedTextColor(LColorStateList;)V
+android.support.design.widget.CustomCollapsingTextHelper#recalculate()V

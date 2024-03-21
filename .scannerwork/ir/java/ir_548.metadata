@@ -1,0 +1,2 @@
+com.simplecity.amp_library.utils.CustomMediaScanner#onScanCompleted(Ljava/lang/String;LUri;)V
+com.simplecity.amp_library.utils.CustomMediaScanner#scanNextPath()V

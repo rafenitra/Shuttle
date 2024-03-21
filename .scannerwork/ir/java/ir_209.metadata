@@ -1,0 +1,4 @@
+android.support.design.widget.CustomCollapsingToolbarLayout#setStatusBarScrimColor(I)V
+null
+==
+setStatusBarScrim android.support.design.widget.CustomCollapsingToolbarLayout#setStatusBarScrim(LDrawable;)V

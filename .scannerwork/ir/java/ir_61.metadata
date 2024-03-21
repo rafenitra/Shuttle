@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.modelviews.AlbumView#areContentsEqual(Ljava/lang/Object;)Z
+java.util.Arrays#equals([C[C)Z

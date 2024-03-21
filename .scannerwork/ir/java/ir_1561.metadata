@@ -1,0 +1,6 @@
+com.simplecity.amp_library.utils.StringUtils#makeTimeString(Ljava/lang/String;J)Ljava/lang/String;
+java.util.Formatter#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/util/Formatter;
+java.lang.Math#abs(J)J
+java.util.Formatter#toString()Ljava/lang/String;
+==
+setLength java.lang.AbstractStringBuilder#setLength(I)V

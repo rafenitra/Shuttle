@@ -1,0 +1,4 @@
+com.afollestad.aesthetic.Aesthetic#attach(LAppCompatActivity;)V
+com.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;
+com.afollestad.aesthetic.Util#setInflaterFactory(LLayoutInflater;)V
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

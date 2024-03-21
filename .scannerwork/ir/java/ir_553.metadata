@@ -1,0 +1,3 @@
+com.simplecity.amp_library.utils.CustomMediaScanner#scanFile(LContext;Ljava/lang/String;LUnsafeConsumer;)V
+com.simplecity.amp_library.utils.CustomMediaScanner#scanFiles(LContext;Ljava/util/List;Lcom/simplecity/amp_library/utils/CustomMediaScanner$ScanCompletionListener;)V
+java.util.Collections#singletonList(Ljava/lang/Object;)Ljava/util/List;

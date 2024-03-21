@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.AestheticToolbar#invalidateColors(LBgIconColorState;)V
+==
+setNavigationIcon com.afollestad.aesthetic.AestheticToolbar#setNavigationIcon(LDrawable;)V

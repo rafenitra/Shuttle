@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.screens.main.LibraryController#onOptionsItemSelected(LMenuItem;)Z
+com.simplecity.amp_library.ui.screens.main.LibraryController#openSearch()V

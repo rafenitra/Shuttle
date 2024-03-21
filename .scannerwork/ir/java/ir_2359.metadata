@@ -1,0 +1,2 @@
+com.simplecity.amp_library.playback.QueueManager#saveQueue(Z)V
+com.simplecity.amp_library.playback.QueueManager#serializePlaylist(Ljava/util/List;)Ljava/lang/String;

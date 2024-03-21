@@ -1,0 +1,3 @@
+com.afollestad.aesthetic.Aesthetic#snackbarTextColor()LObservable;
+==
+isDark com.afollestad.aesthetic.Aesthetic#isDark()LObservable;

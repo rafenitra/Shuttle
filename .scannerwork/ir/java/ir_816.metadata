@@ -1,0 +1,3 @@
+com.simplecity.amp_library.playback.MediaManager#getAlbum()LAlbum;
+==
+getSong com.simplecity.amp_library.playback.MediaManager#getSong()LSong;

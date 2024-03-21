@@ -1,0 +1,5 @@
+com.simplecity.amp_library.utils.ContextualToolbarHelper#handleLongClick(LSelectableViewModel;Ljava/lang/Object;)Z
+com.simplecity.amp_library.utils.ContextualToolbarHelper#addOrRemoveItem(LSelectableViewModel;Ljava/lang/Object;)V
+==
+notifyItemChanged com.simplecity.amp_library.utils.ContextualToolbarHelper$Callback#notifyItemChanged(LSelectableViewModel;)V
+start com.simplecity.amp_library.utils.ContextualToolbarHelper#start()V

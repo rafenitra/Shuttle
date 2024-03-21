@@ -1,0 +1,2 @@
+com.simplecity.amp_library.saf.SafManager#requiresPermission(Ljava/io/File;)Z
+com.simplecity.amp_library.saf.SafManager#getExtSdCardFolder(Ljava/io/File;)Ljava/lang/String;

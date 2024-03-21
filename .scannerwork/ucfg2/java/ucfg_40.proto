@@ -1,0 +1,46 @@
+
+Kcom.simplecity.amp_library.model.AlbumArtist#getSortKey()Ljava/lang/String;k
+a/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/AlbumArtist.java. .("3*Æ
+20 0(±®
+0 0(
+
+%2void":com.simplecity.amp_library.model.AlbumArtist#setSortKey()V*L
+
+__unknown_file (0.
+,com.simplecity.amp_library.model.AlbumArtist2setSortKey()*
+1*Æ
+3/ /(†
+ƒ
+/ /(
+%0java.lang.String"__id*Y
+
+__unknown_file (=*;.
+,com.simplecity.amp_library.model.AlbumArtist"	
+sortKey¥
+¢
+/ /(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+2
+1*¼
+12 2(†
+ƒ
+2 2(
+%3java.lang.String"__id*Y
+
+__unknown_file (=*;.
+,com.simplecity.amp_library.model.AlbumArtist"	
+sortKey"$
+2 2(
+
+%3java.lang.StringB0.
+,com.simplecity.amp_library.model.AlbumArtistH

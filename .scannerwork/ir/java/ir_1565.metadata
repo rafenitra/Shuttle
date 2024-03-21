@@ -1,0 +1,8 @@
+com.simplecity.amp_library.utils.StringUtils#makeSongsLabel(LContext;I)Ljava/lang/String;
+java.lang.StringBuilder#instance-init#
+java.util.Formatter#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/util/Formatter;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(Ljava/lang/CharSequence;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#toString()Ljava/lang/String;
+==
+setLength java.lang.AbstractStringBuilder#setLength(I)V

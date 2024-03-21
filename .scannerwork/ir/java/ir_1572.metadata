@@ -1,0 +1,7 @@
+com.simplecity.amp_library.utils.StringUtils#matches(Ljava/lang/CharSequence;Ljava/lang/CharSequence;)[I
+java.lang.Math#max(II)I
+java.util.Arrays#fill([II)V
+java.lang.Math#min(II)I
+==
+charAt java.lang.CharSequence#charAt(I)C
+length java.lang.CharSequence#length()I

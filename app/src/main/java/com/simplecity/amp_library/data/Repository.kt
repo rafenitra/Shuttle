@@ -42,7 +42,8 @@ interface Repository {
          */
         fun getSongs(genre: Genre): Observable<List<Song>>
     }
-
+    
+    @FunctionalInterface
     interface AlbumsRepository {
 
         /**

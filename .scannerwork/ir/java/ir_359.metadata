@@ -1,0 +1,2 @@
+test.com.androidnavigation.fragment.FragmentInfo#instantiateFragment(LContext;)LFragment;
+java.lang.Class#getName()Ljava/lang/String;

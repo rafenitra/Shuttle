@@ -1,0 +1,2 @@
+com.simplecity.amp_library.ui.views.CircleView#onDraw(LCanvas;)V
+com.simplecity.amp_library.utils.ResourceUtils#toPixels(F)I

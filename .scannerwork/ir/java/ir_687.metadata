@@ -1,0 +1,3 @@
+com.simplecity.amp_library.utils.SettingsManager#incrementLaunchCount()V
+==
+getLaunchCount com.simplecity.amp_library.utils.SettingsManager#getLaunchCount()I

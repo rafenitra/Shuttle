@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.settings.SupportPresenter#bindView(LSupportView;)V
+com.simplecity.amp_library.ui.settings.SupportPresenter#setAppVersion()V
+==
+bindView com.simplecity.amp_library.ui.common.Presenter#bindView(Ljava/lang/Object;)V

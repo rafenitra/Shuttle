@@ -1,0 +1,4 @@
+com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#onPageSelected(I)V
+==
+updateWidgetUI com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#updateWidgetUI()V
+getLayoutIdString com.simplecity.amp_library.ui.widgets.BaseWidgetConfigureActivity#getLayoutIdString()Ljava/lang/String;
