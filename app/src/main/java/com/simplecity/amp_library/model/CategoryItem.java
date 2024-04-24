@@ -78,8 +78,9 @@ public class CategoryItem {
                 return R.string.folders_title;
             case Type.PLAYLISTS:
                 return R.string.playlists_title;
+            default:
+                return -1;
         }
-        return -1;
     }
 
     public String getKey() {
@@ -98,8 +99,9 @@ public class CategoryItem {
                 return "folders";
             case Type.PLAYLISTS:
                 return "playlists";
+            default:
+                return null;
         }
-        return null;
     }
 
     public boolean isEnabledByDefault() {
@@ -118,8 +120,9 @@ public class CategoryItem {
                 return false;
             case Type.PLAYLISTS:
                 return false;
+            default:
+                return true;
         }
-        return true;
     }
 
     public String getSortKey() {
@@ -146,8 +149,9 @@ public class CategoryItem {
                 return FolderFragment.newInstance(context.getString(getTitleResId()), true);
             case Type.PLAYLISTS:
                 return PlaylistListFragment.Companion.newInstance(context.getString(getTitleResId()));
+            default:
+                return null;
         }
-        return null;
     }
 
     @Override

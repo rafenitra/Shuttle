@@ -1,3 +1,1 @@
-com.jp.wasabeef.glide.transformations.MaskTransformation#<init>(LContext;I)V
-==
-<init> com.jp.wasabeef.glide.transformations.MaskTransformation#<init>(LContext;LBitmapPool;I)V
+com.simplecity.amp_library.model.CategoryItem#getKey()Ljava/lang/String;

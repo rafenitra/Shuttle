@@ -1,51 +1,21 @@
 
-\com.afollestad.aesthetic.Aesthetic#colorNavigationBar(I)Lcom/afollestad/aesthetic/Aesthetic;s
-g/D:/EPSI/Analyse Code/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaƒ ƒ(%"1*³
+ccom.afollestad.aesthetic.Aesthetic#colorIconTitleInactiveRes(I)Lcom/afollestad/aesthetic/Aesthetic;s
+g/D:/EPSI/Analyse Code/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÄ Ä(,"1*ž
 1
-„ „(^
-\
+Å Å(öó
 
-„ „(0
-%0java.lang.String"__id*0
+Å Å(G
+%0"^com.afollestad.aesthetic.Aesthetic#colorIconTitleActive(I)Lcom/afollestad/aesthetic/Aesthetic;*B
 
-__unknown_file (
-nav_bar_color_%sÂ
-¿
-
-„2 „(>
-%1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
-
-__unknown_file (&"$
+__unknown_file (&$
 "com.afollestad.aesthetic.Aesthetic*"
 
 __unknown_file (
-""ó
-ð
+""2colorIconTitleActive(I)"
 
-„ „(?
-%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*4
-
-__unknown_file (
-
-%0java.lang.String*"
-
-__unknown_file (
+Å Å(H
 
-%1Q
-O
-
-„ „(@
-keyjava.lang.String"__id*"
-
-__unknown_file (
-
-%2"4
-
-† †(&$
-"com.afollestad.aesthetic.Aesthetic: 
+%0: 
 
 __unknown_file (
 ""B&$

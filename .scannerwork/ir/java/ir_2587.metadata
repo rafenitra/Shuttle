@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticScrollView#onDetachedFromWindow()V
+com.simplecity.amp_library.ui.modelviews.FolderView#setClickListener(Lcom/simplecity/amp_library/ui/modelviews/FolderView$ClickListener;)V

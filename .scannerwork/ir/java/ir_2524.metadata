@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;LColorStateList;)LDrawable;
+com.simplecity.amp_library.ui.screens.drawer.DrawerParent#isInitiallyExpanded()Z

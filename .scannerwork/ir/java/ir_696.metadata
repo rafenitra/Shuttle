@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.SettingsManager#getUsePaletteNowPlayingOnly()Z
+com.simplecity.amp_library.utils.SettingsManager#getLaunchCount()I

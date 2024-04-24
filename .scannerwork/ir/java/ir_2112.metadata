@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.SearchHeaderView#instance-init#
+com.simplecity.amp_library.utils.color.ArgbEvaluator#getInstance()Lcom/simplecity/amp_library/utils/color/ArgbEvaluator;

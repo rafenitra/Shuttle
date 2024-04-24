@@ -1,1 +1,5 @@
-com.afollestad.aesthetic.AestheticTextView#init(LContext;LAttributeSet;)V
+com.simplecity.amp_library.playback.MusicService#onLoadChildren(Ljava/lang/String;LResult;)V
+null
+java.util.ArrayList#<factory>()Ljava/util/ArrayList;
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.util.ArrayList#instance-init#

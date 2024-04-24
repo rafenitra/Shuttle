@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#setItems(Ljava/util/List;LCompletionListUpdateCallback;)LDisposable;
+com.simplecity.amp_library.model.Song#getGenre(LContext;)LSingle;

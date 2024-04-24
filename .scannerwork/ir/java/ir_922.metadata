@@ -1,2 +1,3 @@
-com.afollestad.aesthetic.AestheticTextView#<init>(LContext;LAttributeSet;I)V
-com.afollestad.aesthetic.AestheticTextView#init(LContext;LAttributeSet;)V
+com.simplecity.amp_library.playback.MusicService#onGetRoot(Ljava/lang/String;ILBundle;)LBrowserRoot;
+null
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

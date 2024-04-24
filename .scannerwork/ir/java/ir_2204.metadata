@@ -1,2 +1,2 @@
-com.jp.wasabeef.glide.transformations.CropSquareTransformation#transform(LResource;II)LResource;
-java.lang.Math#min(II)I
+com.afollestad.aesthetic.AestheticTextInputEditText#<init>(LContext;LAttributeSet;I)V
+com.afollestad.aesthetic.AestheticTextInputEditText#init(LContext;LAttributeSet;)V

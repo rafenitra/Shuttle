@@ -99,9 +99,7 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                 File orig = new File(path);
                 AudioFile audioFile = AudioFileIO.read(orig);
                 Tag tag = audioFile.getTag();
-                if (tag == null) {
-                    break;
-                }
+                
 
                 TagUpdate tagUpdate = new TagUpdate(tag);
 
@@ -159,7 +157,9 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                         }
                     }
                 }
-
+                if (tag == null) {
+                    break;
+                }
                 publishProgress(i);
                 success = true;
             } catch (CannotWriteException | IOException | CannotReadException | InvalidAudioFrameException | TagException | ReadOnlyFileException e) {
@@ -169,8 +169,8 @@ public class TaggerTask extends AsyncTask<Object, Integer, Boolean> {
                 if (tempFiles != null && tempFiles.size() != 0) {
                     for (int j = tempFiles.size() - 1; j >= 0; j--) {
                         File file = tempFiles.get(j);
-                        file.delete();
-                        tempFiles.remove(j);
+                        if(file.delete())
+                            tempFiles.remove(j);
                     }
                 }
             }

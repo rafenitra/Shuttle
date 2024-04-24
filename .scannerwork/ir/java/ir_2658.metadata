@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#onPause()V
+com.simplecity.amp_library.playback.MediaSessionManager#instance-init#
+null

@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.screens.folders.FolderFragment#setUserVisibleHint(Z)V
-com.simplecity.amp_library.ui.screens.folders.FolderFragment#setupContextualToolbar()V
+com.simplecity.amp_library.utils.ArtworkDialog#<init>()V

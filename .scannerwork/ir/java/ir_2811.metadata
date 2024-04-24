@@ -1,3 +1,4 @@
-com.simplecity.amp_library.ui.modelviews.TabViewModel#onStartDrag(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;)V
+com.simplecity.amp_library.utils.FileHelper#canReadWrite(Ljava/io/File;)Z
 ==
-onStartDrag com.simplecity.amp_library.ui.modelviews.TabViewModel$Listener#onStartDrag(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;)V
+canRead java.io.File#canRead()Z
+canWrite java.io.File#canWrite()Z

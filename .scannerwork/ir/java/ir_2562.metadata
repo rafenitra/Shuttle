@@ -1,2 +1,1 @@
-com.simplecity.amp_library.glide.utils.CustomGlideModule#registerComponents(LContext;LGlide;)V
-null
+com.simplecity.amp_library.glide.fetcher.TypeFetcher#cancel()V

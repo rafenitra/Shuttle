@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.AlbumArtistView#setClickListener(Lcom/simplecity/amp_library/ui/modelviews/AlbumArtistView$ClickListener;)V
+com.simplecity.amp_library.ui.modelviews.AlbumArtistView#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;

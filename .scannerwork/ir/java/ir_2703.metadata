@@ -1,3 +1,1 @@
-com.github.florent37.glidepalette.BitmapPalette#intoBackground(LView;I)Lcom/github/florent37/glidepalette/BitmapPalette;
-null
-com.github.florent37.glidepalette.BitmapPalette#assertTargetsIsNotEmpty()V
+com.simplecity.amp_library.ui.adapters.SectionedAdapter#instance-init#

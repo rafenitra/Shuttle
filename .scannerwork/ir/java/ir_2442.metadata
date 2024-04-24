@@ -1,2 +1,2 @@
-com.afollestad.aesthetic.AestheticSeekBar#onAttachedToWindow()V
-java.lang.String#equals(Ljava/lang/Object;)Z
+com.simplecity.amp_library.glide.fetcher.RemoteFetcher#<init>(LArtworkProvider;)V
+null

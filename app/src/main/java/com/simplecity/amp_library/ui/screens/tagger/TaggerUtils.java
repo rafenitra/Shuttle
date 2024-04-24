@@ -21,6 +21,8 @@ import java.util.List;
 
 public class TaggerUtils {
 
+    private static final Logger logger = Logger.getLogger(TaggerUtils.class.getName());
+
     private static final String TAG = "TaggerUtils";
 
     //This class is never instantiated
@@ -173,7 +175,14 @@ public class TaggerUtils {
         }
 
         if (!destFile.exists()) {
-            destFile.createNewFile();
+            boolean newFileCreated = destFile.createNewFile();
+            if (newFileCreated) {
+                // File was successfully created
+                logger.info("File created successfully.");
+            } else {
+                // Failed to create the file
+                logger.info("operation failed.");
+            }
         }
 
         FileChannel source = null;

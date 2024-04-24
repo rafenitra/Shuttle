@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.Aesthetic#colorWindowBackgroundRes(I)Lcom/afollestad/aesthetic/Aesthetic;
-==
-colorWindowBackground com.afollestad.aesthetic.Aesthetic#colorWindowBackground(I)Lcom/afollestad/aesthetic/Aesthetic;
+com.afollestad.aesthetic.Aesthetic#tabLayoutIndicatorMode(I)Lcom/afollestad/aesthetic/Aesthetic;

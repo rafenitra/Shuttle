@@ -1,5 +1,1 @@
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#updateUI()V
-java.lang.String#valueOf(I)Ljava/lang/String;
-java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#equalizerUpdateDisplay()V
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#setupPresets()V
+com.simplecity.amp_library.playback.MediaSessionManager#updateMediaSessionArtwork(LMediaMetadataCompat/Builder;)V

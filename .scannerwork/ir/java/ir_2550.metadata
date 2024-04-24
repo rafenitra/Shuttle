@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.GenreView#getLayoutResId()I
+com.simplecity.amp_library.glide.utils.CustomGlideModule#registerComponents(LContext;LGlide;)V
+null

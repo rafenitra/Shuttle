@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#getViewType()I
+com.simplecity.amp_library.saf.SafManager#getDocumentTree()Ljava/lang/String;

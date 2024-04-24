@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticViewPager#<init>(LContext;LAttributeSet;)V
+com.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#bind(LViewModel;)V

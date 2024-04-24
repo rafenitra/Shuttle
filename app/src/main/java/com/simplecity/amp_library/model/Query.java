@@ -27,6 +27,7 @@ public class Query {
         String sort;
 
         public Builder() {
+            //this is a constructor without argument
         }
 
         public Builder uri(Uri val) {

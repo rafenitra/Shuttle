@@ -1,7 +1,62 @@
 
-=com.simplecity.amp_library.utils.LetterDrawable#getOpacity()In
-d/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/LetterDrawable.java: :("1*!
-1; ;("
-; ;(#
-""B31
-/com.simplecity.amp_library.utils.LetterDrawableHX
+3com.simplecity.amp_library.model.Header#hashCode()If
+\/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Header.java ("4*Z
+22 (3F
+D
+2 (3	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*Ó
+3 ($~
+|
+ ($
+%5java.lang.String"__id*R
+
+__unknown_file (6*4)
+'com.simplecity.amp_library.model.Header"
+titlewu
+ (/	
+%3int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%5java.lang.String2
+hashCode()F
+D
+ (/	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*½
+4 (~
+|
+ (
+%0java.lang.String"__id*R
+
+__unknown_file (6*4)
+'com.simplecity.amp_library.model.Header"
+title¥
+¢
+ (
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+2
+3*!
+1 (4"
+ (4
+""B+)
+'com.simplecity.amp_library.model.HeaderHX

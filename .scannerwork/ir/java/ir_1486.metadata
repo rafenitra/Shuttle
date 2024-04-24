@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.PlayPauseView#update()V
+com.simplecity.amp_library.ui.screens.tagger.TaggerTask#showAlbum(Z)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;

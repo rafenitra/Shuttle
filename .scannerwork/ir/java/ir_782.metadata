@@ -1,3 +1,1 @@
-com.simplecity.multisheetview.ui.view.MultiSheetView#<init>(LContext;LAttributeSet;I)V
-==
-getSheetPeekViewResId com.simplecity.multisheetview.ui.view.MultiSheetView#getSheetPeekViewResId(I)I
+com.afollestad.aesthetic.ColorIsDarkState#<init>(IZ)V

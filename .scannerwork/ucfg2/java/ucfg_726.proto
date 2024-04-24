@@ -1,76 +1,22 @@
 
-Xcom.simplecity.amp_library.utils.ListUtils#emptyIfNull(Ljava/util/List;)Ljava/util/List;i
-_/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ListUtils.java	 	()"4*r
-2
-, 
-(0^
-\
-
-, 
-(0
-%1java.util.List"__id*4
+Xcom.afollestad.aesthetic.Aesthetic#colorAccentRes(I)Lcom/afollestad/aesthetic/Aesthetic;s
+g/D:/EPSI/Analyse Code/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java (!"1*å
+1
+Ò Ò(‰·
+
+Ò Ò(>
+%0"Ucom.afollestad.aesthetic.Aesthetic#colorAccent(I)Lcom/afollestad/aesthetic/Aesthetic;*B
 
-__unknown_file (
-
-datajava.util.List*
-1*Œ
-3
- 
-('L
-J
-
- 
-('
-%3java.util.List"__id*"
+__unknown_file (&$
+"com.afollestad.aesthetic.Aesthetic*"
 
 __unknown_file (
-""ç
-ä
-
- 
-()
-%2java.util.List"1java.util.Collections#emptyList()Ljava/util/List;*5
+""2colorAccent(I)"
+
+Ò Ò(?
+
+%0: 
 
-__unknown_file ("
-java.util.Collections\
-Z
-
- 
-()
-%1java.util.List"__id*2
-
-__unknown_file (
-
-%2java.util.List*
-1*Ω
-4
- 
-(•
-¢
-
- 
-(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*4
-
-__unknown_file (
-
-datajava.util.List*"
-
-__unknown_file (
-""*
-2
-3*1
-1
- 
-(1""
-
- 
-(1
-
-%1java.util.List:"
-	* 	(6
-datajava.util.ListB.",
-*com.simplecity.amp_library.utils.ListUtilsH
+__unknown_file (
+""B&$
+"com.afollestad.aesthetic.AestheticH

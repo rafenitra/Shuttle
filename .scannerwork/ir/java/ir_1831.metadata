@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.PlaybackManager#playAutoShuffleList()V
+com.simplecity.amp_library.playback.PlaybackManager#saveState()V

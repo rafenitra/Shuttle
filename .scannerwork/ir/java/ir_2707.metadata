@@ -1,3 +1,1 @@
-com.github.florent37.glidepalette.BitmapPalette#assertTargetsIsNotEmpty()V
-java.lang.UnsupportedOperationException#instance-init#
-java.lang.UnsupportedOperationException#<init>(Ljava/lang/String;)V
+com.simplecity.amp_library.utils.AnalyticsManager#<init>(LContext;)V

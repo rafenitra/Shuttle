@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.PlaybackMonitor#getProgressObservable()LFlowable;
+com.simplecity.amp_library.ui.modelviews.ArtworkView#setSelected(Z)V

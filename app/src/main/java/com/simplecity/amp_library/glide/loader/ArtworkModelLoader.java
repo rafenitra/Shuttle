@@ -25,7 +25,6 @@ public class ArtworkModelLoader implements ModelLoader<ArtworkProvider, InputStr
         this.settingsManager = new SettingsManager(PreferenceManager.getDefaultSharedPreferences(context));
     }
 
-    private static final String TAG = "ArtworkModelLoader";
 
     @Override
     public DataFetcher<InputStream> getResourceFetcher(ArtworkProvider model, int width, int height) {

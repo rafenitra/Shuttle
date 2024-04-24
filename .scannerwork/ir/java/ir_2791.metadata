@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.common.TransitionListenerAdapter#<init>()V
+com.simplecity.amp_library.ui.modelviews.EmptyView#bindView(Lcom/simplecity/amp_library/ui/modelviews/EmptyView$ViewHolder;)V
+null

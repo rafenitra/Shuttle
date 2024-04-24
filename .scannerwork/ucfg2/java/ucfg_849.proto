@@ -1,19 +1,40 @@
 
-Vcom.simplecity.amp_library.utils.sorting.SortManager#getArtistDetailAlbumsSortOrder()Is
-i/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.java| |(-"1*´
-1} }(N
-L
-} }(5
-%0java.lang.String"__id*"
+Wcom.simplecity.amp_library.glide.fetcher.FolderFetcher#getStream()Ljava/io/InputStream;u
+k/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/glide/fetcher/FolderFetcher.java (#"3*!
+2 (""
+ (6
+""*Å
+3 (‰
+†
+ (
+%0java.io.File"__id*`
+
+__unknown_file (D*B8
+6com.simplecity.amp_library.glide.fetcher.FolderFetcher"
+file¡
+ž
+ (
+%1boolean"	__compare*"
 
 __unknown_file (
-""A
-?
-}7 }(H	
-%1int"__id*"
+==*0
+
+__unknown_file (
+
+%0java.io.File*"
 
 __unknown_file (
-"""
-} }(J
-""B86
-4com.simplecity.amp_library.utils.sorting.SortManagerHX
+""*
+2
+1*­
+1 (‰
+†
++ (/
+%2java.io.File"__id*`
+
+__unknown_file (D*B8
+6com.simplecity.amp_library.glide.fetcher.FolderFetcher"
+file"
+ (1
+""B:8
+6com.simplecity.amp_library.glide.fetcher.FolderFetcher

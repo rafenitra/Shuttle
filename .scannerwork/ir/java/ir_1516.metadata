@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.model.ContentsComparator#<init>()V
+com.simplecity.amp_library.ui.views.recyclerview.SpacesItemDecoration#getItemOffsets(LRect;LView;LRecyclerView;LRecyclerView/State;)V

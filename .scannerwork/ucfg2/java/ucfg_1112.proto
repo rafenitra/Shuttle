@@ -1,7 +1,154 @@
 
-Qcom.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#getLayoutResId()I~
-t/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView.java( (("1*!
-1) )("
-) )(
-""BCA
-?com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerViewHX
+<com.simplecity.amp_library.model.SuggestedHeader#hashCode()Io
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/SuggestedHeader.java ("10*W
+2!I !(JC
+A
+!I !(J
+%13"__id*(
+
+__unknown_file (
+
+
+%15int*
+1*R
+3!3 !(;>
+<
+!3 !(F
+%13"__id*#
+
+__unknown_file (
+
+%14*
+1*£
+4   (K‹
+ˆ
+!  !(0
+%12"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*[
+5 I  (JG
+E
+ I  (J	
+%8int"__id*(
+
+__unknown_file (
+
+
+%10int*
+4*ã
+6 3  (;Œ
+‰
+ 3  (;
+%11java.lang.String"__id*^
+
+__unknown_file (B*@2
+0com.simplecity.amp_library.model.SuggestedHeader"
+
+subtitlexv
+ 3  (F	
+%9int"java.lang.String#hashCode()I*5
+
+__unknown_file (
+
+%11java.lang.String2
+hashCode()F
+D
+ 3  (F	
+%8int"__id*'
+
+__unknown_file (
+	
+%9int*
+4*Ë
+7 (:‹
+ˆ
+    ((
+%6java.lang.String"__id*^
+
+__unknown_file (B*@2
+0com.simplecity.amp_library.model.SuggestedHeader"
+
+subtitle¥
+¢
+    (0
+%7boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%6java.lang.String*"
+
+__unknown_file (
+""*
+5
+6*Z
+88 (9F
+D
+8 (9	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+7*Þ
+9% (*ˆ
+…
+% (*
+%5java.lang.String"__id*[
+
+__unknown_file (?*=2
+0com.simplecity.amp_library.model.SuggestedHeader"
+titlewu
+% (5	
+%3int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%5java.lang.String2
+hashCode()F
+D
+% (5	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+7*É
+10 (ˆ
+…
+ (
+%0java.lang.String"__id*[
+
+__unknown_file (?*=2
+0com.simplecity.amp_library.model.SuggestedHeader"
+title¥
+¢
+ ("
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+8
+9*!
+1! !(K"
+" "(
+""B42
+0com.simplecity.amp_library.model.SuggestedHeaderHX

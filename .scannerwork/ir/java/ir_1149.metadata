@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.AestheticTextInputLayout#<init>(LContext;LAttributeSet;)V
-com.afollestad.aesthetic.AestheticTextInputLayout#init(LContext;LAttributeSet;)V
+com.simplecity.amp_library.utils.PermissionUtils#simplePermissionRequest(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;[Ljava/lang/String;)V

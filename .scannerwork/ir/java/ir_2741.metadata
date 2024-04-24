@@ -1,3 +1,4 @@
-com.simplecity.amp_library.ui.modelviews.SubheaderView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/SubheaderView$ViewHolder;
-com.simplecity.amp_library.ui.modelviews.SubheaderView$ViewHolder#<init>(LView;)V
-com.simplecity.amp_library.ui.modelviews.SubheaderView$ViewHolder#instance-init#
+com.simplecity.amp_library.utils.ContextualToolbarHelper#addOrRemoveItem(LSelectableViewModel;Ljava/lang/Object;)V
+com.simplecity.amp_library.utils.ContextualToolbarHelper#updateCount()V
+==
+finish com.simplecity.amp_library.utils.ContextualToolbarHelper#finish()V

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView#<init>(LSuggestedHeader;)V
+com.simplecity.amp_library.utils.SettingsManager#getDefaultPageType()I

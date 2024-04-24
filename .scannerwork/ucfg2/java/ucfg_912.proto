@@ -1,7 +1,64 @@
 
-Jcom.simplecity.amp_library.ui.modelviews.BreadcrumbsView#getLayoutResId()Iw
-m/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/BreadcrumbsView.java) )("1*!
-1* *("
-* *(.
-""B<:
-8com.simplecity.amp_library.ui.modelviews.BreadcrumbsViewHX
+Qcom.simplecity.amp_library.model.UserSelectedArtwork#toString()Ljava/lang/String;s
+i/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/UserSelectedArtwork.java ("1*×
+1 (%k
+i
+ (
+%0java.lang.String"__concat*$
+ (%
+UserSelectedArtwork{*
+ (	
+type=h
+f
+ (
+%1java.lang.String"__concat*$
+ (
+
+%0java.lang.String*
+ (
+""n
+l
+ (
+%2java.lang.String"__concat*$
+ (
+
+%1java.lang.String*
+ (
+
+, path='‹
+ˆ
+ (!
+%3java.lang.String"__id*^
+
+__unknown_file (B*@6
+4com.simplecity.amp_library.model.UserSelectedArtwork"
+pathz
+x
+ (!
+%4java.lang.String"__concat*$
+ (
+
+%2java.lang.String*$
+ (!
+
+%3java.lang.Stringh
+f
+ ((
+%5java.lang.String"__concat*$
+ (!
+
+%4java.lang.String*
+$ ((
+\'g
+e
+ (
+%6java.lang.String"__concat*$
+ ((
+
+%5java.lang.String*
+ (
+}"$
+ (
+
+%6java.lang.StringB86
+4com.simplecity.amp_library.model.UserSelectedArtworkH

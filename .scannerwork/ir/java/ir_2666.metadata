@@ -1,4 +1,1 @@
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#getBandLevelRange()[I
-java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
-java.lang.Integer#valueOf(Ljava/lang/String;)Ljava/lang/Integer;
-java.lang.String#isEmpty()Z
+com.simplecity.amp_library.ui.screens.drawer.DrawerLockController#instance-init#

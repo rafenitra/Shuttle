@@ -1,3 +1,1 @@
-com.simplecity.amp_library.model.Song#getFormatLabel()Ljava/lang/String;
-==
-getTagInfo com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;
+com.simplecity.amp_library.model.Song#getFolderArtwork()Ljava/io/InputStream;

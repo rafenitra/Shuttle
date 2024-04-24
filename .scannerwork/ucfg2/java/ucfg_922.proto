@@ -1,7 +1,21 @@
 
-=com.simplecity.amp_library.ui.views.PlayPauseView#getColor()Ip
-f/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/PlayPauseView.javaL L("1*!
-1M M("
-M M(
-""B53
-1com.simplecity.amp_library.ui.views.PlayPauseViewX
+com.simplecity.amp_library.ui.screens.tagger.TaggerTask#albumArtist(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;x
+l/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaï ï(!"1*…
+1
+ğ ğ(.¨
+¥
+
+ğ ğ(.N9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+albumArtistText"__id*A
+
+__unknown_file (%
+#
+albumArtistTextjava.lang.String"I
+
+ñ ñ(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:1
+
+ï" ï(8#
+albumArtistTextjava.lang.StringB;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

@@ -1,40 +1,7 @@
 
-­com.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragment#newInstance(I)Lcom/simplecity/amp_library/ui/settings/SettingsParentFragment$SettingsFragment;~
-r/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/settings/SettingsParentFragment.java '  (2"1*½
-1
-¡ ¡(&©
-¦
-
-¢ ¢(/
-%0java.lang.String"__id*z
-
-__unknown_file (^*\?
-=com.simplecity.amp_library.ui.settings.SettingsParentFragment"
-ARG_PREFERENCE_RESOURCEµ²
-
-£4 £(DT
-%1Ncom.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragment"Ncom.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragmentã
-à
-
-£0 £(F
-%2"Xcom.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragment#<init>()V*r
-
-__unknown_file (V
-T
-%1Ncom.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragmentí
-ê
-
-£ £(Gb
-settingsFragmentNcom.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragment"__id*r
-
-__unknown_file (V
-T
-%1Ncom.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragment"r
-
-¥ ¥($d
-b
-settingsFragmentNcom.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragment: 
-
-__unknown_file (
-""BR"P
-Ncom.simplecity.amp_library.ui.settings.SettingsParentFragment$SettingsFragmentH
+=com.simplecity.amp_library.utils.LetterDrawable#getOpacity()In
+d/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/LetterDrawable.java: :("1*!
+1; ;("
+; ;(#
+""B31
+/com.simplecity.amp_library.utils.LetterDrawableHX

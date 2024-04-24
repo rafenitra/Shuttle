@@ -1,21 +1,18 @@
 
-åcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#comment(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;x
-l/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaí í("1*˝
+ccom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#screenName()Ljava/lang/String;Ö
+y/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.java« «("1*÷
 1
-ì ì(&†
-ù
+» »(ú
+ô
 
-ì ì(&J9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-commentText"__id*=
+» »(
+%0java.lang.String"__id*m
 
-__unknown_file (!
-
-commentTextjava.lang.String"I
+__unknown_file (Q*OF
+Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"
+TAG"&
 
-î î(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:-
-
-í í(0
-commentTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+» »(
+
+%0java.lang.StringBHF
+Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment

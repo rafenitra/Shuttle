@@ -1,16 +1,16 @@
 
-Icom.simplecity.amp_library.utils.SettingsManager#showArtworkInSongList()Zq
-e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaØ Ø(("1*‹
+Gcom.simplecity.amp_library.utils.SettingsManager#getIsLegacyUpgraded()Zq
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÆ Æ(&"1*„
 1
-Ù Ù(d
-b
+Ç Ç(]
+[
 
-Ù Ù(,
-%0java.lang.String"__id*6
+Ç Ç(#
+%0java.lang.String"__id*/
 
-__unknown_file (
-pref_artwork_song_list"
+__unknown_file (
+pref_theme_gold"
 
-Ù Ù(4
+Ç Ç(,
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

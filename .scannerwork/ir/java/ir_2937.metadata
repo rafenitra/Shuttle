@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.settings.SettingsPresenter#chooseDefaultPageClicked(LContext;)V
+com.simplecity.amp_library.ui.settings.SettingsPresenter#deleteArtworkClicked(LContext;)V
 null
-java.lang.Math#min(II)I

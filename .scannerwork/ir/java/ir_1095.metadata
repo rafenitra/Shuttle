@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.ContextualToolbar#instance-init#
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#onResume()V
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#setupContextualToolbar()V

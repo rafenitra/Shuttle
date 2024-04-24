@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.main.LibraryController#openSearch()V
+com.simplecity.amp_library.ui.screens.main.MainController#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;
+com.simplecity.amp_library.ui.screens.main.MainController#toggleBottomSheetVisibility(ZZ)V

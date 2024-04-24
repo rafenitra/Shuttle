@@ -1,3 +1,1 @@
-com.simplecity.amp_library.utils.ShuttleUtils#openShuttleLink(LActivity;Ljava/lang/String;LPackageManager;)V
-com.simplecity.amp_library.utils.ShuttleUtils#getShuttleStoreIntent(Ljava/lang/String;)LIntent;
-com.simplecity.amp_library.utils.ShuttleUtils#getShuttleWebIntent(Ljava/lang/String;)LIntent;
+com.afollestad.aesthetic.AestheticFab#<init>(LContext;)V

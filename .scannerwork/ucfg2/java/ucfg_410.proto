@@ -1,17 +1,16 @@
 
-Ocom.simplecity.amp_library.utils.SettingsManager#getUsePaletteNowPlayingOnly()Zq
-e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaŸ Ÿ(."1*Î
+Ocom.simplecity.amp_library.utils.SettingsManager#getBluetoothPauseDisconnect()Zq
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java‘ ‘(."1*Ž
 1
-   (¦
-£
+’ ’(g
+e
 
-   (8
-%0java.lang.String"__id*w
+’ ’(5
+%0java.lang.String"__id*9
 
-__unknown_file ([*Y2
-0com.simplecity.amp_library.utils.SettingsManager"#
-!KEY_PREF_PALETTE_NOW_PLAYING_ONLY"
+__unknown_file (
+pref_bluetooth_disconnect"
 
-   (A
+’ ’(=
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

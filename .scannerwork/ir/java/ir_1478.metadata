@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.views.PlayPauseView#<init>(LContext;LAttributeSet;)V
-null
+com.simplecity.amp_library.model.UserSelectedArtwork#toString()Ljava/lang/String;

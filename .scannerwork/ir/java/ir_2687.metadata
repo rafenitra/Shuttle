@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.recyclerview.AdaptableSpanSizeLookup#getSpanSize(I)I
+com.simplecity.amp_library.model.CategoryItem#hashCode()I

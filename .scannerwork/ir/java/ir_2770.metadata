@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#<init>(LView;)V
+com.simplecity.amp_library.ui.views.BreadcrumbView#addBreadcrumbListener(LBreadcrumbListener;)V

@@ -1,2 +1,1 @@
-com.github.florent37.glidepalette.BitmapPalette#crossfade(Z)Lcom/github/florent37/glidepalette/BitmapPalette;
-com.github.florent37.glidepalette.BitmapPalette#assertTargetsIsNotEmpty()V
+com.simplecity.amp_library.ui.adapters.SectionedAdapter#getSectionName(I)Ljava/lang/String;

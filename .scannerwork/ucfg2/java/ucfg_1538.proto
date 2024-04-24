@@ -1,24 +1,7 @@
 
-ñcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#newInstance()Lcom/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment;Ç
-x/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.javaE% E(0"1*™
-1F& F(>ùö
-F* F(<I
-%0Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentÀ
-»
-F& F(>
-%1"Mcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#<init>()V*g
-
-__unknown_file (K
-I
-%0Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentÕ
- 
-F F(?O
-fragmentCcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"__id*g
-
-__unknown_file (K
-I
-%0Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment"]
-I I(Q
-O
-fragmentCcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentBG"E
-Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragmentH
+>com.afollestad.aesthetic.ActiveInactiveColors#inactiveColor()I|
+r/D:/EPSI/Analyse Code/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/ActiveInactiveColors.java ("1*!
+1 ("
+ (
+""B1/
+-com.afollestad.aesthetic.ActiveInactiveColorsHX

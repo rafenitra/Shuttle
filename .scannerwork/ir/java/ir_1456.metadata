@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.BreadcrumbsView#<init>(Ljava/lang/String;)V
+com.afollestad.aesthetic.AestheticToolbar#<init>(LContext;LAttributeSet;I)V
+com.afollestad.aesthetic.AestheticToolbar#init(LContext;LAttributeSet;)V

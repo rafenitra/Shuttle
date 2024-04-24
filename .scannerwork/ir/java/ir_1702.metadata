@@ -1,4 +1,1 @@
-com.simplecity.amp_library.model.Song#getAlbumArtist()LAlbumArtist;
-null
-==
-getAlbum com.simplecity.amp_library.model.Song#getAlbum()LAlbum;
+com.simplecity.amp_library.http.lastfm.LastFmResult#instance-init#

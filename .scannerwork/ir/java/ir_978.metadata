@@ -1,1 +1,4 @@
-com.simplecity.amp_library.playback.MusicService#removeSongs(Ljava/util/List;)V
+com.simplecity.amp_library.playback.MusicService#getTaskerIntent(LSong;)LIntent;
+null
+==
+isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z

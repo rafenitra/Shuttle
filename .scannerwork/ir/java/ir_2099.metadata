@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.StatusBarView#instance-init#
+com.simplecity.amp_library.glide.utils.CustomAppWidgetTarget#onLoadFailed(Ljava/lang/Exception;LDrawable;)V
+com.simplecity.amp_library.glide.utils.CustomAppWidgetTarget#update()V

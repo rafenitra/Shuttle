@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.common.BaseActivity#onCreate(LBundle;)V
+com.simplecity.amp_library.ui.common.BaseActivity#onKeyDown(ILKeyEvent;)Z
+java.lang.String#equalsIgnoreCase(Ljava/lang/String;)Z

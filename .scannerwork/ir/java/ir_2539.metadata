@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.screens.drawer.DrawerParent#setTimerActive(Z)V
+com.simplecity.amp_library.ui.modelviews.GenreView#bindView(Lcom/simplecity/amp_library/ui/modelviews/GenreView$ViewHolder;)V

@@ -1,2 +1,1 @@
-com.simplecity.amp_library.utils.sorting.SortManager#sortAlbumArtists(Ljava/util/List;)V
-java.util.Collections#sort(Ljava/util/List;Ljava/util/Comparator;)V
+com.afollestad.aesthetic.Util#stripAlpha(I)I

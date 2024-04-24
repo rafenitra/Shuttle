@@ -1,3 +1,1 @@
-com.simplecity.amp_library.billing.BillingManager#restorePurchases()V
-==
-queryPurchases com.simplecity.amp_library.billing.BillingManager#queryPurchases()V
+com.simplecity.amp_library.playback.constants.InternalIntents#<init>()V

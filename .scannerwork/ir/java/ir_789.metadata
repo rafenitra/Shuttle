@@ -1,4 +1,1 @@
-com.simplecity.multisheetview.ui.view.MultiSheetView#goToSheet(I)V
-==
-expandSheet com.simplecity.multisheetview.ui.view.MultiSheetView#expandSheet(I)V
-collapseSheet com.simplecity.multisheetview.ui.view.MultiSheetView#collapseSheet(I)V
+com.simplecity.amp_library.playback.MediaManager#<init>(LAnalyticsManager;Lcom/simplecity/amp_library/utils/SettingsManager;)V

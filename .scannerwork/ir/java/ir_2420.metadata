@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.menu.MenuUtils#instance-init#
+com.simplecity.amp_library.utils.menu.MenuUtils#goToAlbum(LAlbum;LNavigationEventRelay;)V
+null

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.SuggestedDividerDecoration#getItemOffsets(LRect;LView;LRecyclerView;LRecyclerView/State;)V
+com.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#onPause()V

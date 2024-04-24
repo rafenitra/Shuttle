@@ -1,3 +1,4 @@
-com.simplecity.amp_library.ui.modelviews.TabViewModel#onCheckboxClicked(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;Z)V
+com.simplecity.amp_library.utils.FileHelper#isRootDirectory(Ljava/io/File;)Z
+java.lang.String#compareTo(Ljava/lang/String;)I
 ==
-onFolderChecked com.simplecity.amp_library.ui.modelviews.TabViewModel$Listener#onFolderChecked(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel;Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$ViewHolder;)V
+getPath java.io.File#getPath()Ljava/lang/String;

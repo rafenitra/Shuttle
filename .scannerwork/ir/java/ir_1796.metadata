@@ -1,2 +1,1 @@
-com.simplecity.amp_library.utils.ResourceUtils#getScreenSize()LSize;
-null
+com.simplecity.amp_library.saf.SafManager#<init>(LContext;LSettingsManager;)V

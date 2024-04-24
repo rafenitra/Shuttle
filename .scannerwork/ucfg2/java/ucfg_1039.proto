@@ -1,22 +1,106 @@
 
-7com.simplecity.amp_library.model.Song#getElapsedTime()Jf
-Z/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÕ Õ("1"2*%
-2
-× ×("
-
-× ×(
-""*š
+Bcom.simplecity.amp_library.model.Song#toString()Ljava/lang/String;f
+Z/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java‡ ‡("1*…	
 1
-Ù Ù(s
-q
+ˆ ˆ(e
+c
 
-Ù! Ù(;
+ˆ ‰(
+%0java.lang.String"__concat*
 
-%0long"%java.lang.System#currentTimeMillis()J*0
+ˆ ˆ(	
+\nSong{*
+
+‰ ‰(
+
+\nid='n
+l
+
+ˆ ‰(
+%1java.lang.String"__concat*&
+
+ˆ ‰(
+
+%0java.lang.String*
+
+‰ ‰(
+""t
+r
+
+ˆ Š(
+%2java.lang.String"__concat*&
+
+ˆ ‰(
+
+%1java.lang.String*
+
+Š Š(
+
+\nname='}
+{
+
+Š Š(!
+%3java.lang.String"__id*O
 
-__unknown_file ("
-java.lang.System"
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+name€
+~
 
-Ù Ù(H
-""B)'
-%com.simplecity.amp_library.model.SongX
+ˆ Š(!
+%4java.lang.String"__concat*&
+
+ˆ Š(
+
+%2java.lang.String*&
+
+Š Š(!
+
+%3java.lang.String
+}
+
+ˆ ‹(%
+%5java.lang.String"__concat*&
+
+ˆ Š(!
+
+%4java.lang.String*%
+
+‹ ‹(%
+\nalbumArtistName='‰
+†
+
+‹( ‹(7
+%6java.lang.String"__id*Z
+
+__unknown_file (>*<'
+%com.simplecity.amp_library.model.Song"
+albumArtistName€
+~
+
+ˆ ‹(7
+%7java.lang.String"__concat*&
+
+ˆ ‹(%
+
+%5java.lang.String*&
+
+‹( ‹(7
+
+%6java.lang.Stringm
+k
+
+ˆ Œ(
+%8java.lang.String"__concat*&
+
+ˆ ‹(7
+
+%7java.lang.String*
+
+Œ Œ(
+}"&
+
+ˆ Œ(
+
+%8java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

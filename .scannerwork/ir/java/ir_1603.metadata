@@ -1,1 +1,2 @@
-com.simplecity.amp_library.services.DashClockService#onDestroy()V
+com.afollestad.aesthetic.AestheticDrawerLayout#setDrawerListener(LDrawerListener;)V
+com.afollestad.aesthetic.AestheticDrawerLayout#invalidateColor(LActiveInactiveColors;)V

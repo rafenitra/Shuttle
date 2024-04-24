@@ -1,2 +1,1 @@
-com.simplecity.amp_library.services.DashClockService#onCreate()V
-null
+com.afollestad.aesthetic.AestheticDrawerLayout#onDetachedFromWindow()V

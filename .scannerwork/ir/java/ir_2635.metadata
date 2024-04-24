@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.ActiveInactiveColors#<init>(II)V
+com.simplecity.amp_library.ui.screens.lyrics.QuickLyricUtils#getLyricsFor(LContext;LSong;)V
+null

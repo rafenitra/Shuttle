@@ -1,14 +1,162 @@
 
-bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#screenName()Ljava/lang/String;‚
-x/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityMedium.java ("1*ž
-1 (i
-g
- (
-%0java.lang.String"__id*=
+vcom.simplecity.amp_library.utils.color.ArgbEvaluator#evaluate(FLjava/lang/Object;Ljava/lang/Object;)Ljava/lang/Object;s
+i/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ArgbEvaluator.java$ $("1*ï
+1%% %(/¬
+©
+2 2(2
+%0double"java.lang.Math#pow(DD)D*.
 
-__unknown_file (!
-WidgetConfigureActivityMedium"$
- (
-
-%0java.lang.StringBGE
-Ccom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""¬
+©
+3 3(2
+%1double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""¬
+©
+4 4(2
+%2double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""¬
+©
+6 6(.
+%3double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""¬
+©
+7 7(.
+%4double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""¬
+©
+8 8(.
+%5double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""¬
+©
+B B(.
+%6double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""¬
+©
+C C(.
+%7double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""¬
+©
+D D(.
+%8double"java.lang.Math#pow(DD)D*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""†
+ƒ
+F F( 	
+%9int"java.lang.Math#round(F)I*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""‡
+„
+F) F(6
+
+%10int"java.lang.Math#round(F)I*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""‡
+„
+F? F(L
+
+%11int"java.lang.Math#round(F)I*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+""‡
+„
+FT F(a
+
+%12int"java.lang.Math#round(F)I*.
+
+__unknown_file ("
+java.lang.Math*"
+
+__unknown_file (
+"""
+F F(b
+"": 
+
+__unknown_file (
+"":*
+$/ $(A
+
+startValuejava.lang.Object:(
+$B $(Q
+endValuejava.lang.ObjectB86
+4com.simplecity.amp_library.utils.color.ArgbEvaluatorH

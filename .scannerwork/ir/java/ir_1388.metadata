@@ -1,1 +1,3 @@
-com.afollestad.aesthetic.Util#resolveResId(LContext;LAttributeSet;I)I
+com.simplecity.amp_library.sql.legacy.WhitelistFolder#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;
+java.lang.String#equals(Ljava/lang/Object;)Z

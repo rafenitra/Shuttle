@@ -8,11 +8,13 @@ import android.support.annotation.NonNull;
 import android.support.annotation.Nullable;
 import android.support.design.widget.BottomSheetBehavior;
 import android.support.design.widget.CoordinatorLayout;
+import android.support.design.widget.CustomCollapsingToolbarLayout.LayoutParams;
 import android.util.AttributeSet;
 import android.view.View;
 
 import com.simplecity.multisheetview.R;
 import com.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior;
+import com.simplecity.multisheetview.ui.view.MultiSheetView.Sheet;
 
 public class MultiSheetView extends CoordinatorLayout {
 
@@ -76,12 +78,7 @@ public class MultiSheetView extends CoordinatorLayout {
         bottomSheetBehavior2.setBottomSheetCallback(new BottomSheetBehavior.BottomSheetCallback() {
             @Override
             public void onStateChanged(@NonNull View bottomSheet, int newState) {
-                if (newState == BottomSheetBehavior.STATE_EXPANDED || newState == BottomSheetBehavior.STATE_DRAGGING) {
-                    bottomSheetBehavior1.setAllowDragging(false);
-                } else {
-                    bottomSheetBehavior1.setAllowDragging(true);
-                }
-
+                bottomSheetBehavior1.setAllowDragging(newState != BottomSheetBehavior.STATE_EX  PANDED && newState != BottomSheetBehavior.STATE_DRAGGING);
                 fadeView(Sheet.SECOND, newState);
 
                 if (sheetStateChangeListener != null) {
@@ -179,7 +176,7 @@ public class MultiSheetView extends CoordinatorLayout {
         if (isHidden()) {
             int peekHeight = getContext().getResources().getDimensionPixelSize(R.dimen.bottom_sheet_peek_1_height);
             int currentHeight = bottomSheetBehavior1.getPeekHeight();
-            float ratio = 1 - (currentHeight / peekHeight);
+            float ratio = 1 - ((float) currentHeight / peekHeight);
             if (animate) {
                 ValueAnimator valueAnimator = ValueAnimator.ofInt(bottomSheetBehavior1.getPeekHeight(), peekHeight);
                 valueAnimator.setDuration((long) (200 * ratio));

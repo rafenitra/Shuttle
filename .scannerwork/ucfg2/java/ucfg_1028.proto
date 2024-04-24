@@ -1,12 +1,106 @@
 
-icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldItem(I)Ljava/lang/Object;ï
-à/D:/EPSI/Analyse Code/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.java¯ ¯("1*%
-1
-˘ ˘("
+Jcom.simplecity.amp_library.model.Song#getFileSizeLabel()Ljava/lang/String;f
+Z/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaõ õ(""4*µ
+2
+û% û()}
+{
 
-˘ ˘(0
-"": 
+û% û()
+%3java.lang.String"__id*O
 
-__unknown_file (
-""BMK
-Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path0.
+
+û  û($
+%4java.io.File"java.io.Fileß
+§
+
+û û(*
+%5"(java.io.File#<init>(Ljava/lang/String;)V*0
+
+__unknown_file (
+
+%4java.io.File*4
+
+__unknown_file (
+
+%3java.lang.String\
+Z
+
+û û(+
+filejava.io.File"__id*0
+
+__unknown_file (
+
+%4java.io.Filepn
+
+ü@ ü(M
+
+%6long"java.io.File#length()J*2
+
+__unknown_file (
+
+filejava.io.File2length()t
+r
+
+ü ü(N:'
+%com.simplecity.amp_library.model.Song"
+fileSizeLabel"__id*"
+
+__unknown_file (
+""*
+1*ñ
+3
+ù ù(}
+{
+
+ù# ù('
+%2java.lang.String"__id*O
+
+__unknown_file (3*1'
+%com.simplecity.amp_library.model.Song"
+path*
+2
+1*À
+4
+ú ú(á
+Ñ
+
+ú ú(
+%0java.lang.String"__id*X
+
+__unknown_file (<*:'
+%com.simplecity.amp_library.model.Song"
+fileSizeLabelß
+§
+
+ú ú(!
+%1boolean"	__compare*"
+
+__unknown_file (
+==*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+3
+1*¡
+1
+¢ ¢(á
+Ñ
+
+¢ ¢(
+%7java.lang.String"__id*X
+
+__unknown_file (<*:'
+%com.simplecity.amp_library.model.Song"
+fileSizeLabel"&
+
+¢ ¢(
+
+%7java.lang.StringB)'
+%com.simplecity.amp_library.model.SongH

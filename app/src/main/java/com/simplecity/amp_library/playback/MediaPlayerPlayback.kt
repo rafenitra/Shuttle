@@ -30,12 +30,13 @@ internal class MediaPlayerPlayback(context: Context) : LocalPlayback(context), M
 
     override val isPlaying: Boolean
         get() = synchronized(this) {
-            if (!isInitialized || isFadingDown) {
-                return false
+            return if (!isInitialized || isFadingDown) {
+                false
             } else {
-                return currentMediaPlayer?.isPlaying ?: false || isFadingUp
+                currentMediaPlayer?.isPlaying ?: false || isFadingUp
             }
         }
+
 
     override val duration: Long
         get() = synchronized(this) {

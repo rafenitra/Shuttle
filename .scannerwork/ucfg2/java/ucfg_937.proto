@@ -1,21 +1,24 @@
 
-êcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#albumArtist(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;x
-l/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaÔ Ô(!"1*Ö
-1
- (.®
-•
-
- (.N9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-albumArtistText"__id*A
+òcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#newInstance()Lcom/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment;É
+y/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javaC% C(0"1*±
+1D D("üú
+E* E(<J
+%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentÕ
+ 
+E& E(>
+%1"Ncom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#<init>()V*h
 
-__unknown_file (%
-#
-albumArtistTextjava.lang.String"I
-
-Ò Ò(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:1
-
-Ô" Ô(8#
-albumArtistTextjava.lang.StringB;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH
+__unknown_file (L
+J
+%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentœ
+Ã
+E E(?P
+fragmentDcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"__id*h
+
+__unknown_file (L
+J
+%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"^
+G G(R
+P
+fragmentDcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentBH"F
+Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentH

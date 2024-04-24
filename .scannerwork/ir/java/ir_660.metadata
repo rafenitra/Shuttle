@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.SettingsManager#keepScreenOn()Z
+com.afollestad.aesthetic.AestheticSpinner#<init>(LContext;LAttributeSet;I)V
+com.afollestad.aesthetic.AestheticSpinner#init(LContext;LAttributeSet;)V

@@ -1,1 +1,2 @@
-com.simplecity.amp_library.playback.constants.ServiceCommand#<init>()V
+com.simplecity.amp_library.utils.ArtworkUtils#getMediaStoreArtwork(LContext;LSong;)Ljava/io/InputStream;
+com.simplecity.amp_library.utils.ArtworkUtils#getMediaStoreArtwork(LContext;LSong;)Ljava/io/InputStream;

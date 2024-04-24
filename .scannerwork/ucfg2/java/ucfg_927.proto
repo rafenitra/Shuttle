@@ -1,64 +1,21 @@
 
-Qcom.simplecity.amp_library.model.UserSelectedArtwork#toString()Ljava/lang/String;s
-i/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/UserSelectedArtwork.java ("1*◊
-1 (%k
-i
- (
-%0java.lang.String"__concat*$
- (%
-UserSelectedArtwork{*
- (	
-type=h
-f
- (
-%1java.lang.String"__concat*$
- (
-
-%0java.lang.String*
- (
-""n
-l
- (
-%2java.lang.String"__concat*$
- (
-
-%1java.lang.String*
- (
+écom.simplecity.amp_library.ui.screens.tagger.TaggerTask#discTotal(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;x
+l/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaà à("1*Å
+1
+â â(*§
+°
 
-, path='ã
-à
- (!
-%3java.lang.String"__id*^
+â â(*L9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+discTotalText"__id*?
 
-__unknown_file (B*@6
-4com.simplecity.amp_library.model.UserSelectedArtwork"
-pathz
-x
- (!
-%4java.lang.String"__concat*$
- (
-
-%2java.lang.String*$
- (!
-
-%3java.lang.Stringh
-f
- ((
-%5java.lang.String"__concat*$
- (!
-
-%4java.lang.String*
-$ ((
-\'g
-e
- (
-%6java.lang.String"__concat*$
- ((
-
-%5java.lang.String*
- (
-}"$
- (
-
-%6java.lang.StringB86
-4com.simplecity.amp_library.model.UserSelectedArtworkH
+__unknown_file (#
+!
+discTotalTextjava.lang.String"I
+
+ä ä(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:/
+
+à  à(4!
+discTotalTextjava.lang.StringB;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

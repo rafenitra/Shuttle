@@ -1,1 +1,2 @@
-com.simplecityapps.recycler_adapter.recyclerview.BaseViewHolder#onDetachedFromWindow()V
+com.simplecity.amp_library.ui.views.BreadcrumbView#createItemDivider()LImageView;
+null

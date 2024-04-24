@@ -449,6 +449,10 @@ public class PlaybackManager implements Playback.Callbacks {
         return playback.willResumePlayback();
     }
 
+    boolean willResumePlayback(boolean valTrue) {
+        return valTrue;
+    }
+
     public void stop(boolean goToIdle) {
 
         if (isPlaying()) {

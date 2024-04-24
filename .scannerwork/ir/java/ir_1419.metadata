@@ -1,2 +1,3 @@
-com.simplecity.amp_library.model.TagUpdate#softSetComment(Ljava/lang/String;)V
-java.lang.String#equals(Ljava/lang/Object;)Z
+com.simplecity.amp_library.glide.utils.BitmapAndSizeDecoder#getId()Ljava/lang/String;
+java.lang.Object#getClass()Ljava/lang/Class;
+java.lang.Class#getName()Ljava/lang/String;

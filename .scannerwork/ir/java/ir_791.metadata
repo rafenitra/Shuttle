@@ -1,4 +1,4 @@
-com.simplecity.multisheetview.ui.view.MultiSheetView#restoreSheet(I)V
-com.simplecity.multisheetview.ui.view.MultiSheetView#fadeView(II)V
+com.simplecity.amp_library.playback.MediaManager#playAll(Ljava/util/List;IZLFunction0;)V
 ==
-goToSheet com.simplecity.multisheetview.ui.view.MultiSheetView#goToSheet(I)V
+setShuffleMode com.simplecity.amp_library.playback.MediaManager#setShuffleMode(I)V
+getRememberShuffle com.simplecity.amp_library.utils.SettingsManager#getRememberShuffle()Z

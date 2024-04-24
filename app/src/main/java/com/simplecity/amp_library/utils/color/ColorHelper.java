@@ -37,6 +37,8 @@ public class ColorHelper {
 
     private static final Object sLock = new Object();
 
+
+
     private static ColorHelper sInstance;
 
     public static ColorHelper getInstance() {
@@ -266,6 +268,7 @@ public class ColorHelper {
         @FloatRange(from = 0.0, to = 1.0)
         public static double calculateLuminance(@ColorInt int color) {
             final double[] result = getTempDouble3Array();
+            TEMP_ARRAY.remove();
             colorToXYZ(color, result);
             // Luminance is the Y component
             return result[1] / 100;
@@ -495,6 +498,7 @@ public class ColorHelper {
                 @FloatRange(from = -128, to = 127) final double a,
                 @FloatRange(from = -128, to = 127) final double b) {
             final double[] result = getTempDouble3Array();
+            TEMP_ARRAY.remove();
             LABToXYZ(l, a, b, result);
             return XYZToColor(result[0], result[1], result[2]);
         }

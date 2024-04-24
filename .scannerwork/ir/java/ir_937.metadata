@@ -1,4 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#onUnbind(LIntent;)Z
-com.simplecity.amp_library.playback.MusicService#scheduleDelayedShutdown()V
-==
-saveState com.simplecity.amp_library.playback.MusicService#saveState(Z)V
+com.simplecity.amp_library.playback.MusicService#open(Ljava/util/List;ILjava/lang/Boolean;)V

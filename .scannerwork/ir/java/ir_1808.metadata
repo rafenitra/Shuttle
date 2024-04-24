@@ -1,3 +1,4 @@
-com.simplecity.amp_library.saf.SafManager#getInstance(LContext;LSettingsManager;)Lcom/simplecity/amp_library/saf/SafManager;
-com.simplecity.amp_library.saf.SafManager#<init>(LContext;LSettingsManager;)V
-com.simplecity.amp_library.saf.SafManager#instance-init#
+com.simplecity.amp_library.playback.PlaybackManager#<init>(LContext;LQueueManager;LPlaybackSettingsManager;LRepository/SongsRepository;LRepository/AlbumsRepository;LRepository/AlbumArtistsRepository;LRepository/GenresRepository;LRepository/PlaylistsRepository;LMusicService/Callbacks;LSettingsManager;)V
+null
+com.simplecity.amp_library.utils.SleepTimer#getInstance()Lcom/simplecity/amp_library/utils/SleepTimer;
+com.simplecity.amp_library.utils.SleepTimer#getCurrentTimeObservable()LFlowable;

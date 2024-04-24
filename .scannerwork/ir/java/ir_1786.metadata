@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.DummyNotificationHelper#instance-init#
+com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#setItems(Ljava/util/List;)LDisposable;

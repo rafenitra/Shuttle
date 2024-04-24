@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.screens.tagger.TaggerTask#onProgressUpdate([Ljava/lang/Integer;)V
-==
-onProgress com.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener#onProgress(I)V
+com.simplecity.amp_library.ui.screens.tagger.TaggerTask#discTotal(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;

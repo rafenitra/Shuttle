@@ -1,2 +1,1 @@
-com.simplecity.amp_library.model.Header#hashCode()I
-java.lang.String#hashCode()I
+com.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;

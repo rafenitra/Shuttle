@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.Util#<init>()V
+com.afollestad.aesthetic.Util#darkenColor(I)I
+com.afollestad.aesthetic.Util#shiftColor(IF)I

@@ -1,3 +1,1 @@
-com.simplecity.amp_library.utils.AnalyticsManager#setIsUpgraded(Z)V
-com.simplecity.amp_library.utils.AnalyticsManager#analyticsEnabled()Z
-java.lang.String#valueOf(Z)Ljava/lang/String;
+com.simplecity.amp_library.ui.views.SuggestedHeaderButton#onDetachedFromWindow()V

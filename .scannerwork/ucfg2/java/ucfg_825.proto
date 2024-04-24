@@ -1,14 +1,19 @@
 
-Mcom.simplecity.amp_library.ui.screens.main.MainController#consumeBackPress()Zz
-n/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/main/MainController.javaà à(#"1"2*%
-2
-ä ä("
-
-ä ä(
-""*%
-1
-ç ç("
-
-ç ç((
-""B=;
-9com.simplecity.amp_library.ui.screens.main.MainControllerHX
+Icom.simplecity.amp_library.utils.sorting.SortManager#getSongsSortOrder()Is
+i/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.javaF F( "1*¥
+1G G(N
+L
+G G(&
+%0java.lang.String"__id*"
+
+__unknown_file (
+""A
+?
+G( G(8	
+%1int"__id*"
+
+__unknown_file (
+"""
+G G(:
+""B86
+4com.simplecity.amp_library.utils.sorting.SortManagerHX

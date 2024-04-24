@@ -368,7 +368,7 @@ setSortKey4com.simplecity.amp_library.model.Album#setSortKey()VO
 onStatecom.afollestad.aesthetic.AestheticBottomNavigationView#onState(Lcom/afollestad/aesthetic/AestheticBottomNavigationView$State;)Vc
 setBackgroundColorMcom.afollestad.aesthetic.AestheticBottomNavigationView#setBackgroundColor(I)V Š
 /com.simplecity.amp_library.utils.ActionBarUtilsC
-<init>9com.simplecity.amp_library.utils.ActionBarUtils#<init>()Vjava.lang.Object õ!
+<init>9com.simplecity.amp_library.utils.ActionBarUtils#<init>()Vjava.lang.Object ý#
 8android.support.design.widget.CustomCollapsingTextHelperY
 blendColorsJandroid.support.design.widget.CustomCollapsingTextHelper#blendColors(IIF)Ih
 calculateBaseOffsetsPandroid.support.design.widget.CustomCollapsingTextHelper#calculateBaseOffsets()Vn
@@ -378,13 +378,16 @@ setSortKey4com.simplecity.amp_library.model.Album#setSortKey()VO
 calculateUsingSubSizeRandroid.support.design.widget.CustomCollapsingTextHelper#calculateUsingSubSize(F)Vm
 calculateUsingTextSizeSandroid.support.design.widget.CustomCollapsingTextHelper#calculateUsingTextSize(F)VX
 clearTextureHandroid.support.design.widget.CustomCollapsingTextHelper#clearTexture()Vj
-ensureExpandedTextureQandroid.support.design.widget.CustomCollapsingTextHelper#ensureExpandedTexture()Vn
+ensureExpandedTextureQandroid.support.design.widget.CustomCollapsingTextHelper#ensureExpandedTexture()VR
+	getAscentEandroid.support.design.widget.CustomCollapsingTextHelper#getAscent()Fn
 getCollapsedTextGravitySandroid.support.design.widget.CustomCollapsingTextHelper#getCollapsedTextGravity()Ih
 getCollapsedTextSizePandroid.support.design.widget.CustomCollapsingTextHelper#getCollapsedTextSize()Fv
 getCurrentCollapsedSubColorWandroid.support.design.widget.CustomCollapsingTextHelper#getCurrentCollapsedSubColor()Ix
 getCurrentCollapsedTextColorXandroid.support.design.widget.CustomCollapsingTextHelper#getCurrentCollapsedTextColor()It
 getCurrentExpandedSubColorVandroid.support.design.widget.CustomCollapsingTextHelper#getCurrentExpandedSubColor()Iv
-getCurrentExpandedTextColorWandroid.support.design.widget.CustomCollapsingTextHelper#getCurrentExpandedTextColor()Il
+getCurrentExpandedTextColorWandroid.support.design.widget.CustomCollapsingTextHelper#getCurrentExpandedTextColor()IT
+
+getDescentFandroid.support.design.widget.CustomCollapsingTextHelper#getDescent()Fl
 getExpandedTextGravityRandroid.support.design.widget.CustomCollapsingTextHelper#getExpandedTextGravity()If
 getExpandedTextSizeOandroid.support.design.widget.CustomCollapsingTextHelper#getExpandedTextSize()Fh
 getExpansionFractionPandroid.support.design.widget.CustomCollapsingTextHelper#getExpansionFraction()Fe
@@ -410,7 +413,8 @@ isStatefulFandroid.support.design.widget.CustomCollapsingTextHelper#isStateful(
 setInterpolatedTextSizeTandroid.support.design.widget.CustomCollapsingTextHelper#setInterpolatedTextSize(F)VR
 setStateFandroid.support.design.widget.CustomCollapsingTextHelper#setState([I)Zn
 setSubtitle_android.support.design.widget.CustomCollapsingTextHelper#setSubtitle(Ljava/lang/CharSequence;)Vf
-setText[android.support.design.widget.CustomCollapsingTextHelper#setText(Ljava/lang/CharSequence;)Vjava.lang.Object ß
+setText[android.support.design.widget.CustomCollapsingTextHelper#setText(Ljava/lang/CharSequence;)V\
+shouldDrawTextJandroid.support.design.widget.CustomCollapsingTextHelper#shouldDrawText()Zjava.lang.Object ß
 )com.afollestad.aesthetic.AestheticSpinnerU
 onAttachedToWindow?com.afollestad.aesthetic.AestheticSpinner#onAttachedToWindow()VY
 onDetachedFromWindowAcom.afollestad.aesthetic.AestheticSpinner#onDetachedFromWindow()V ‡5
@@ -516,22 +520,7 @@ isStatefulFandroid.support.design.widget.CustomCollapsingTextHelper#isStateful(
 <init>5com.afollestad.aesthetic.ColorIsDarkState#<init>(IZ)V;
 color2com.afollestad.aesthetic.ColorIsDarkState#color()Ii
 create_com.afollestad.aesthetic.ColorIsDarkState#create(IZ)Lcom/afollestad/aesthetic/ColorIsDarkState;=
-isDark3com.afollestad.aesthetic.ColorIsDarkState#isDark()Zjava.lang.Object ‚
-4com.simplecity.multisheetview.ui.view.MultiSheetViewW
-collapseSheetFcom.simplecity.multisheetview.ui.view.MultiSheetView#collapseSheet(I)V\
-consumeBackPressHcom.simplecity.multisheetview.ui.view.MultiSheetView#consumeBackPress()ZS
-expandSheetDcom.simplecity.multisheetview.ui.view.MultiSheetView#expandSheet(I)VN
-fadeViewBcom.simplecity.multisheetview.ui.view.MultiSheetView#fadeView(II)VZ
-getCurrentSheetGcom.simplecity.multisheetview.ui.view.MultiSheetView#getCurrentSheet()If
-getMainContainerResIdMcom.simplecity.multisheetview.ui.view.MultiSheetView#getMainContainerResId()Iq
-getSheetContainerViewResIdScom.simplecity.multisheetview.ui.view.MultiSheetView#getSheetContainerViewResId(I)Ig
-getSheetPeekViewResIdNcom.simplecity.multisheetview.ui.view.MultiSheetView#getSheetPeekViewResId(I)IO
-	goToSheetBcom.simplecity.multisheetview.ui.view.MultiSheetView#goToSheet(I)VF
-hide>com.simplecity.multisheetview.ui.view.MultiSheetView#hide(ZZ)VL
-isHidden@com.simplecity.multisheetview.ui.view.MultiSheetView#isHidden()ZU
-restoreSheetEcom.simplecity.multisheetview.ui.view.MultiSheetView#restoreSheet(I)VÂ
-setSheetStateChangeListener¢com.simplecity.multisheetview.ui.view.MultiSheetView#setSheetStateChangeListener(Lcom/simplecity/multisheetview/ui/view/MultiSheetView$SheetStateChangeListener;)VI
-unhide?com.simplecity.multisheetview.ui.view.MultiSheetView#unhide(Z)V ¤
+isDark3com.afollestad.aesthetic.ColorIsDarkState#isDark()Zjava.lang.Object ¤
 (com.simplecity.amp_library.model.TagInfoN
 <init>Dcom.simplecity.amp_library.model.TagInfo#<init>(Ljava/lang/String;)Vjava.io.Serializablejava.lang.Object õ
 0com.simplecity.amp_library.playback.MediaManagerL
@@ -687,10 +676,9 @@ clearQueue>com.simplecity.amp_library.playback.MusicService#clearQueue()Vf
 invalidateRecyclerViewFieldsEcom.afollestad.aesthetic.EdgeGlowUtil#invalidateRecyclerViewFields()Va
 invalidateScrollViewFieldsCcom.afollestad.aesthetic.EdgeGlowUtil#invalidateScrollViewFields()V_
 invalidateViewPagerFieldsBcom.afollestad.aesthetic.EdgeGlowUtil#invalidateViewPagerFields()V\
-setEffectColorJcom.afollestad.aesthetic.EdgeGlowUtil#setEffectColor(Ljava/lang/Object;I)Vjava.lang.Object Ò
+setEffectColorJcom.afollestad.aesthetic.EdgeGlowUtil#setEffectColor(Ljava/lang/Object;I)Vjava.lang.Object û
 -com.simplecity.amp_library.ShuttleApplicationA
-<init>7com.simplecity.amp_library.ShuttleApplication#<init>()VU
-enableStrictModeAcom.simplecity.amp_library.ShuttleApplication#enableStrictMode()Vr
+<init>7com.simplecity.amp_library.ShuttleApplication#<init>()Vr
 getDiskCacheDir_com.simplecity.amp_library.ShuttleApplication#getDiskCacheDir(Ljava/lang/String;)Ljava/io/File;O
 getIsUpgraded>com.simplecity.amp_library.ShuttleApplication#getIsUpgraded()ZZ
 
@@ -973,9 +961,8 @@ onInserted_com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCall
 )com.afollestad.aesthetic.AestheticToolbarU
 onAttachedToWindow?com.afollestad.aesthetic.AestheticToolbar#onAttachedToWindow()VY
 onDetachedFromWindowAcom.afollestad.aesthetic.AestheticToolbar#onDetachedFromWindow()Vb
-setTransparentBackgroundFcom.afollestad.aesthetic.AestheticToolbar#setTransparentBackground(Z)V Þ
-1com.simplecity.amp_library.ui.views.PlayPauseViewI
-getColor=com.simplecity.amp_library.ui.views.PlayPauseView#getColor()IE
+setTransparentBackgroundFcom.afollestad.aesthetic.AestheticToolbar#setTransparentBackground(Z)V “
+1com.simplecity.amp_library.ui.views.PlayPauseViewE
 isPlay;com.simplecity.amp_library.ui.views.PlayPauseView#isPlay()ZM
 	onMeasure@com.simplecity.amp_library.ui.views.PlayPauseView#onMeasure(II)VW
 onSizeChangedFcom.simplecity.amp_library.ui.views.PlayPauseView#onSizeChanged(IIII)VJ
@@ -1215,7 +1202,7 @@ Gcom.simplecity.amp_library.ui.screens.suggested.SuggestedFragmentModule[
 requiresPermissionOcom.simplecity.amp_library.saf.SafManager#requiresPermission(Ljava/util/List;)Zjava.lang.Object è
 0com.simplecity.amp_library.model.SuggestedHeaderV
 equalsLcom.simplecity.amp_library.model.SuggestedHeader#equals(Ljava/lang/Object;)ZH
-hashCode<com.simplecity.amp_library.model.SuggestedHeader#hashCode()Ijava.lang.Object ï
+hashCode<com.simplecity.amp_library.model.SuggestedHeader#hashCode()Ijava.lang.Object Ñ
 3com.simplecity.amp_library.playback.PlaybackManagerO
 
 clearQueueAcom.simplecity.amp_library.playback.PlaybackManager#clearQueue()Vi
@@ -1248,7 +1235,8 @@ clearQueueAcom.simplecity.amp_library.playback.PlaybackManager#clearQueue()Vi
 togglePlaybackEcom.simplecity.amp_library.playback.PlaybackManager#togglePlayback()VY
 updateEqualizerFcom.simplecity.amp_library.playback.PlaybackManager#updateEqualizer()Vc
 updateLastPlayedTimeKcom.simplecity.amp_library.playback.PlaybackManager#updateLastPlayedTime()V_
-willResumePlaybackIcom.simplecity.amp_library.playback.PlaybackManager#willResumePlayback()Zjava.lang.Object œ
+willResumePlaybackIcom.simplecity.amp_library.playback.PlaybackManager#willResumePlayback()Z`
+willResumePlaybackJcom.simplecity.amp_library.playback.PlaybackManager#willResumePlayback(Z)Zjava.lang.Object œ
 8com.simplecity.amp_library.utils.InputMethodManagerLeaksL
 <init>Bcom.simplecity.amp_library.utils.InputMethodManagerLeaks#<init>()Vjava.lang.Object ý
 2com.simplecity.amp_library.ui.views.BreadcrumbItema

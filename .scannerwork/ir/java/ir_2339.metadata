@@ -1,2 +1,3 @@
-com.simplecity.amp_library.playback.QueueManager#instance-init#
-java.util.ArrayList#<init>()V
+com.simplecity.amp_library.playback.QueueManager#getCurrentQueueItem()LQueueItem;
+==
+getCurrentPlaylist com.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;

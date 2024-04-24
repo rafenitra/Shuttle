@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.FileBrowser#clearHomeDir()V
+com.simplecity.amp_library.utils.FileBrowser#artistNameComparator()Ljava/util/Comparator;

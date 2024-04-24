@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.CustomCheckbox#invalidateColors(LColorIsDarkState;)V
+com.simplecity.amp_library.ui.modelviews.FolderView#setBlacklisted(LRepository/BlacklistRepository;Z)V
+null

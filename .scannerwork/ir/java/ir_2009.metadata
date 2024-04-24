@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.AestheticSwitch#<init>(LContext;LAttributeSet;)V
-com.afollestad.aesthetic.AestheticSwitch#init(LContext;LAttributeSet;)V
+com.simplecity.amp_library.sql.databases.BlacklistWhitelistDbOpenHelper#onUpgrade(LSQLiteDatabase;II)V

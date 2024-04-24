@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#setShuffleMode(I)V
+com.simplecity.amp_library.playback.MusicService#setQueuePosition(I)V

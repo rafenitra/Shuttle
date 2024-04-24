@@ -1,1 +1,3 @@
-com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#<init>(LViewModelAdapter;I)V
+com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhiteOrBlack([F)Z
+com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isBlack([F)Z
+com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhite([F)Z

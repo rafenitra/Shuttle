@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.sorting.SortManager#<init>(LShuttleApplication;)V
+com.simplecity.amp_library.utils.sorting.SortManager#getSongsSortOrder()I

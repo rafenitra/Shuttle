@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#getSong()LSong;
+com.simplecity.amp_library.playback.MusicService#removeQueueItem(LQueueItem;)V

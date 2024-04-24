@@ -1,3 +1,2 @@
-com.jp.wasabeef.glide.transformations.RoundedCornersTransformation#<init>(LContext;IILcom/jp/wasabeef/glide/transformations/RoundedCornersTransformation$CornerType;)V
-==
-<init> com.jp.wasabeef.glide.transformations.RoundedCornersTransformation#<init>(LContext;IILcom/jp/wasabeef/glide/transformations/RoundedCornersTransformation$CornerType;)V
+com.jp.wasabeef.glide.transformations.RoundedCornersTransformation#drawOtherTopLeftRoundRect(LCanvas;LPaint;FF)V
+null

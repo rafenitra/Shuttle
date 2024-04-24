@@ -1,2 +1,8 @@
-com.simplecity.amp_library.model.TagUpdate#softSetLyrics(Ljava/lang/String;)V
-java.lang.String#equals(Ljava/lang/Object;)Z
+com.simplecity.amp_library.glide.utils.BitmapAndSizeDecoder#decode(Ljava/io/InputStream;II)LResource;
+null
+java.io.BufferedInputStream#instance-init#
+java.io.BufferedInputStream#<init>(Ljava/io/InputStream;)V
+==
+mark java.io.InputStream#mark(I)V
+reset java.io.InputStream#reset()V
+markSupported java.io.InputStream#markSupported()Z

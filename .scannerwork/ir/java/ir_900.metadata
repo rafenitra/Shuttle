@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.common.Presenter#instance-init#
-null
+com.afollestad.aesthetic.AestheticNavigationView#onDetachedFromWindow()V

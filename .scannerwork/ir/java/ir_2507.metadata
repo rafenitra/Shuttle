@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.TintHelper#instance-init#
+com.afollestad.aesthetic.TintHelper#setTint(LImageView;I)V

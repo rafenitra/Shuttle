@@ -1,3 +1,2 @@
-com.simplecity.amp_library.playback.QueueManager#removeSongs(Ljava/util/List;LUnsafeAction;LUnsafeAction;)V
-==
-removeQueueItems com.simplecity.amp_library.playback.QueueManager#removeQueueItems(Ljava/util/List;LUnsafeAction;LUnsafeAction;)V
+com.simplecity.amp_library.ui.views.PlayCountView#setCount(I)V
+java.lang.String#valueOf(I)Ljava/lang/String;

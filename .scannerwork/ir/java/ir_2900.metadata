@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#invalidateColors(LColorSet;)V
-null
+com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#shareSong(LSong;)V

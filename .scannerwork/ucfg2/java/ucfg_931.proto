@@ -1,21 +1,21 @@
 
-ãcom.simplecity.amp_library.ui.screens.tagger.TaggerTask#setPaths(Ljava/util/List;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;x
-l/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaÃ Ã("1*Ô
+ com.simplecity.amp_library.ui.screens.tagger.TaggerTask#listener(Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask$TagCompletionListener;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;x
+l/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/tagger/TaggerTask.javaú ú("1*¡
 1
-Õ Õ(í
-è
+ù% ù(-‰
+·
 
-Õ Õ(D9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
-paths"__id*5
+ù ù(-T9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask"
+tagCompletionListener"__id*w
 
-__unknown_file (
-
-pathsjava.util.List"I
+__unknown_file ([
+Y
+listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListener"I
 
-Œ Œ(;9
-7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:%
+û û(;9
+7com.simplecity.amp_library.ui.screens.tagger.TaggerTask:g
 
-Ã Ã(1
-pathsjava.util.ListB;9
+ú ú(=Y
+listenerMcom.simplecity.amp_library.ui.screens.tagger.TaggerTask$TagCompletionListenerB;9
 7com.simplecity.amp_library.ui.screens.tagger.TaggerTaskH

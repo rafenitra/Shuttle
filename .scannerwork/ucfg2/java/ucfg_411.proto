@@ -1,17 +1,16 @@
 
-Acom.simplecity.amp_library.utils.SettingsManager#getTintNavBar()Zq
-e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java£ £( "1*½
+Mcom.simplecity.amp_library.utils.SettingsManager#getBluetoothResumeConnect()Zq
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java• •(,"1*‹
 1
-¤ ¤(•
-’
+– –(d
+b
 
-¤ ¤('
-%0java.lang.String"__id*f
+– –(3
+%0java.lang.String"__id*6
 
-__unknown_file (J*H2
-0com.simplecity.amp_library.utils.SettingsManager"
-KEY_PREF_NAV_BAR"
+__unknown_file (
+pref_bluetooth_connect"
 
-¤ ¤(0
+– –(<
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

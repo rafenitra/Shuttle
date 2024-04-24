@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.ArtworkView#setSelected(Z)V
+com.simplecity.amp_library.ui.screens.main.MainActivity#onNewIntent(LIntent;)V
+com.simplecity.amp_library.ui.screens.main.MainActivity#handleIntent(LIntent;)V

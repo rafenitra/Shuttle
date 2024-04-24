@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#setQuickCircleWindowParam()V
+com.simplecity.amp_library.sql.providers.CustomArtworkContentProvider#onCreate()Z
+null

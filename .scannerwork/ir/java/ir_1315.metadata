@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.screens.main.MainController#toggleBottomSheetVisibility(ZZ)V
+com.simplecity.amp_library.utils.sorting.SortManager#<init>(LShuttleApplication;)V

@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.Aesthetic#colorCardViewBackground()LObservable;
-==
-isDark com.afollestad.aesthetic.Aesthetic#isDark()LObservable;
+com.afollestad.aesthetic.Aesthetic#snackbarActionTextColor(I)Lcom/afollestad/aesthetic/Aesthetic;

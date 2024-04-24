@@ -1,2 +1,2 @@
-com.simplecity.amp_library.services.ArtworkDownloadService#getNotificationBuilder()LNotificationCompat/Builder;
+com.jp.wasabeef.glide.transformations.GrayscaleTransformation#transform(LResource;II)LResource;
 null

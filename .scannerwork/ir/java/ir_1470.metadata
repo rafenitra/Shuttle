@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.AestheticToolbar#invalidateColors(LBgIconColorState;)V
-==
-setNavigationIcon com.afollestad.aesthetic.AestheticToolbar#setNavigationIcon(LDrawable;)V
+com.simplecity.amp_library.ui.views.PlayPauseView#setDrawableColor(I)V

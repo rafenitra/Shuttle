@@ -1,61 +1,81 @@
 
-Hcom.simplecity.amp_library.model.Song#getFormatLabel()Ljava/lang/String;f
-Z/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.java˛ ˛( "3*≤
-2
-Ä Ä($ß§
+Ycom.simplecity.amp_library.model.Song#compareTo(Lcom/simplecity/amp_library/model/Song;)If
+Z/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaë ë("startingBlock*µ
+startingBlock
+ë ë(,ò
+ï
 
-Ä Ä(&
-%2";com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;*E
+è è(
+%2"
+__annotate*(
+
+__unknown_file (
+
+Nullable*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song¢
+ü
+
+ê ê(
+%3"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Songó
+î
+
+ë ë(!
+%4"
+__annotate*'
+
+__unknown_file (	
+NonNull*K
+
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song∏
+µ
+
+ë' ë(+-
+song%com.simplecity.amp_library.model.Song"__annotation*"
+
+__unknown_file (
+
+%2*"
+
+__unknown_file (
+
+%3*"
+
+__unknown_file (
+
+%4*
+1*µ
+1
+í í(¬ø
+
+í' í(3
+%0java.lang.String"Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;*E
 
 __unknown_file ()'
-%com.simplecity.amp_library.model.Song2getTagInfo()r
-p
+%com.simplecity.amp_library.model.Song2getSortKey()»≈
 
-Ä Ä(-8'
-%com.simplecity.amp_library.model.Song"
-formatLabel"__id*"
+í5 í(F
+%1java.lang.String"Dcom.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;*K
 
-__unknown_file (
-""*
-1*…
-3
-ˇ ˇ(Ö
-Ç
+__unknown_file (/
+-
+song%com.simplecity.amp_library.model.Song2getSortKey()"
 
-ˇ ˇ(
-%0java.lang.String"__id*V
-
-__unknown_file (:*8'
-%com.simplecity.amp_library.model.Song"
-formatLabelß
-§
+í í(H
+"":;
 
-ˇ ˇ(
-%1boolean"	__compare*"
-
-__unknown_file (
-==*4
-
-__unknown_file (
-
-%0java.lang.String*"
-
-__unknown_file (
-""*
-2
-1*ø
-1
-Ç Ç(Ö
-Ç
-
-Ç Ç(
-%3java.lang.String"__id*V
-
-__unknown_file (:*8'
-%com.simplecity.amp_library.model.Song"
-formatLabel"&
-
-Ç Ç(
-
-%3java.lang.StringB)'
-%com.simplecity.amp_library.model.SongH
+ë ë(+-
+song%com.simplecity.amp_library.model.SongB)'
+%com.simplecity.amp_library.model.SongHX

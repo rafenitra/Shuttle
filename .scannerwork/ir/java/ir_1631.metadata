@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.ArtworkView#setListener(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$ClickListener;)V
+com.simplecity.amp_library.ui.screens.main.MainActivity#onServiceConnected(LComponentName;LIBinder;)V
+com.simplecity.amp_library.ui.screens.main.MainActivity#handlePendingPlaybackRequest()V

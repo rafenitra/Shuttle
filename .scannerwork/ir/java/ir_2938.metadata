@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.settings.SettingsPresenter#baseThemeClicked(LContext;)V
-null
+com.simplecity.amp_library.ui.settings.SettingsPresenter#deleteArtwork()V

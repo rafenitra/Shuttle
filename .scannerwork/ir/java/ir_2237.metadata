@@ -1,4 +1,1 @@
-com.simplecityapps.recycler_adapter.model.BaseViewModel#bindView(LBaseViewHolder;ILjava/util/List;)V
-==
-isEmpty java.util.List#isEmpty()Z
-bindView com.simplecityapps.recycler_adapter.model.BaseViewModel#bindView(LBaseViewHolder;)V
+com.simplecity.amp_library.glide.fetcher.MultiFetcher#<init>(LContext;LArtworkProvider;LSettingsManager;Z)V

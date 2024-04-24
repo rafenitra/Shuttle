@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.screens.drawer.DrawerParent#instance-init#
-java.util.ArrayList#<init>()V
+com.simplecity.amp_library.ui.screens.drawer.DrawerParent#isSelected()Z

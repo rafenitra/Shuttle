@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.sorting.SortManager#instance-init#
+com.simplecity.amp_library.utils.sorting.SortManager#setSongsSortOrder(I)V
+com.simplecity.amp_library.utils.sorting.SortManager#setSortOrder(Ljava/lang/String;I)V

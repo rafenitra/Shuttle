@@ -1,10 +1,123 @@
 
-L__sonar_lambda_130$com.simplecity.amp_library.playback.MediaSessionManager$1v
-l/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/MediaSessionManager.javas  s(P"1*®
-1s5 s(?Š
+Icom.simplecity.amp_library.model.CategoryItem#equals(Ljava/lang/Object;)Zn
+b/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/CategoryItem.javaž ž("startingBlock*%
+2
+ <  (A"
+
+ 5  (B
+""*›
+3
+   (!¯¬
+
+   (#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.CategoryItem2
+getClass()•’
+
+ '  (3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()·
+´
+
+   (3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+2
+1*†
+startingBlock
+ž ž(#Š
 ‡
-s. s(P
-%1"	__compare*"
+
+ (
+%6"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+ž! ž("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%6*
+6*À
+4
+   (¦
+£
+
+   (
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+2
+3*%
+5
+Ÿ Ÿ(""
+
+Ÿ Ÿ(#
+""*ë
+6
+Ÿ Ÿ(Ñ
+Î
+
+Ÿ Ÿ(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*M
+
+__unknown_file (1/
+-com.simplecity.amp_library.model.CategoryItem*3
+
+__unknown_file (
+
+ojava.lang.Object*
+4
+5*À
+1
+¢+ ¢(,€
+~
+
+¢ ¢(-5
+that-com.simplecity.amp_library.model.CategoryItem"__id*3
+
+__unknown_file (
+
+ojava.lang.Object•
+’
+
+¤ ¤( 
+%5boolean"	__compare*"
 
 __unknown_file (
 ==*"
@@ -13,11 +126,11 @@ l/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/play
 ""*"
 
 __unknown_file (
-"""
-s. s(P
-
-%1: 
-
-__unknown_file (
-""B
-	!Unknown!
+"""
+
+¤ ¤(!
+"":#
+
+ž ž("
+ojava.lang.ObjectB1/
+-com.simplecity.amp_library.model.CategoryItemHX

@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.common.RequestManagerProvider#instance-init#
+com.simplecity.amp_library.ui.views.BreadcrumbView#<init>(LContext;LAttributeSet;)V
+com.simplecity.amp_library.ui.views.BreadcrumbView#init()V

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#getMovementFlags(LRecyclerView;LRecyclerView/ViewHolder;)I
+com.simplecity.amp_library.ui.modelviews.InclExclView#getLayoutResId()I

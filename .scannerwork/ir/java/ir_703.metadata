@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.SettingsManager#preferEmbeddedArtwork()Z
+com.simplecity.amp_library.utils.SettingsManager#getUsePalette()Z

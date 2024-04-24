@@ -1,2 +1,1 @@
-com.simplecity.amp_library.utils.MediaButtonIntentReceiver#startService(LContext;Ljava/lang/String;)V
-null
+com.afollestad.aesthetic.AestheticSwitch#invalidateColors(LColorIsDarkState;)V

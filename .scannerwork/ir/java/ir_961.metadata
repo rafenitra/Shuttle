@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#getAudioSessionId()I
+com.simplecity.amp_library.playback.MusicService#getQueue()Ljava/util/List;

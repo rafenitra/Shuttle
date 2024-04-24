@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.main.MainControllerModule#<init>()V
+com.simplecity.amp_library.ui.views.BreadcrumbView#<init>(LContext;)V
+com.simplecity.amp_library.ui.views.BreadcrumbView#init()V

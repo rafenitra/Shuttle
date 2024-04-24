@@ -1,1 +1,2 @@
-com.simplecity.amp_library.glide.fetcher.FolderFetcher#getTag()Ljava/lang/String;
+com.afollestad.aesthetic.Util#adjustAlpha(IF)I
+java.lang.Math#round(F)I

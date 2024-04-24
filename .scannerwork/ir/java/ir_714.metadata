@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.SettingsManager#setSearchFuzzy(Z)V
+com.simplecity.amp_library.utils.SettingsManager#queueSwipeLocked()Z

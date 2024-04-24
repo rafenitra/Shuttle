@@ -1,2 +1,1 @@
-com.simplecity.amp_library.playback.PlaybackManager#setNextTrack()V
-com.simplecity.amp_library.playback.PlaybackManager#getNextPosition(Z)I
+com.simplecity.amp_library.playback.PlaybackManager#willResumePlayback(Z)Z

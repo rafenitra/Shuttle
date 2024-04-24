@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.DummyNotificationHelper#setForegroundedByApp(Z)V
+com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#getViewType()I

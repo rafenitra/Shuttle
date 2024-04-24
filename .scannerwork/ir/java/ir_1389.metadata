@@ -1,2 +1,2 @@
-com.afollestad.aesthetic.Util#adjustAlpha(IF)I
-java.lang.Math#round(F)I
+com.simplecity.amp_library.sql.legacy.WhitelistFolder#hashCode()I
+java.lang.String#hashCode()I

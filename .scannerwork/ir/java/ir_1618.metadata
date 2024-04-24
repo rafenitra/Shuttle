@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.PlaybackMonitor#<init>(LMediaManager;)V
+com.simplecity.amp_library.ui.modelviews.ArtworkView#setListener(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$ClickListener;)V

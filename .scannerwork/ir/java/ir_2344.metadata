@@ -1,3 +1,3 @@
-com.simplecity.amp_library.playback.QueueManager#setRepeatMode(I)V
+com.simplecity.amp_library.playback.QueueManager#removeSongs(Ljava/util/List;LUnsafeAction;LUnsafeAction;)V
 ==
-saveQueue com.simplecity.amp_library.playback.QueueManager#saveQueue(Z)V
+removeQueueItems com.simplecity.amp_library.playback.QueueManager#removeQueueItems(Ljava/util/List;LUnsafeAction;LUnsafeAction;)V

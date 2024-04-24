@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.AestheticFab#invalidateColors(LColorIsDarkState;)V
-==
-setImageDrawable com.afollestad.aesthetic.AestheticFab#setImageDrawable(LDrawable;)V
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#<init>()V

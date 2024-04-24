@@ -1,73 +1,10 @@
 
-^com.simplecity.amp_library.ui.modelviews.AlbumArtistView#areContentsEqual(Ljava/lang/Object;)Zy
-m/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/AlbumArtistView.javaË Ë(#"startingBlock*'
-2Í Í(ˆ"
-Í Í(ˆ
-""*Ö
-3
-ÍP Í(V‰
-†
-
-Í^ Í(d
-%0char[]"__id*d
+l__sonar_lambda_150$com.simplecity.amp_library.ui.views.CustomMediaRouteActionProvider$CustomMediaRouteButton
+w/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CustomMediaRouteActionProvider.javaR$ R(P"1*!
+1R. R(>"
+R. R(P
+"": 
 
-__unknown_file (H*F:
-8com.simplecity.amp_library.ui.modelviews.AlbumArtistView"
-prefixh
-f
-Íf Í(†
-%1char[]"__id*C
-
-__unknown_file ('*%
-
-otherjava.lang.Object"
-prefixÉ
-Æ
-ÍP Í(‡
-%2boolean"java.util.Arrays#equals([C[C)Z*0
-
-__unknown_file ("
-java.util.Arrays**
-
-__unknown_file (
-
-%0char[]**
-
-__unknown_file (
-
-%1char[]*
-2*”
-startingBlock
-Ë# Ë(1Ž
-‹
-
-Ê Ê(
-%3"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*7
-
-__unknown_file (
-
-otherjava.lang.Object[
-Y
-
-Ë+ Ë(0
-otherjava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%3*	
-2
-3
-1*%
-1
-Ï Ï("
-
-Ï Ï(
-"":'
-
-Ë$ Ë(0
-otherjava.lang.ObjectB<:
-8com.simplecity.amp_library.ui.modelviews.AlbumArtistViewHX
+__unknown_file (
+""B
+	!Unknown!

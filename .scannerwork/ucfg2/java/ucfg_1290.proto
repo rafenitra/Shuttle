@@ -1,31 +1,31 @@
 
-Ecom.simplecity.amp_library.ui.modelviews.SearchHeaderView#hashCode()Ix
-n/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SearchHeaderView.javaG G("4*U
-2H4 H(5A
-?
-H4 H(5
-%1"__id*'
+Acom.simplecity.amp_library.utils.ComparisonUtils#compareLong(JJ)Io
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ComparisonUtils.java (!"6*Z
+2. (/F
+D
+. (/	
+%1int"__id*'
 
 __unknown_file (
 	
-%3int*
-1*P
-3H  H(&<
-:
-H  H(1
-%1"__id*"
+%6int*
+1*Z
+3* (+F
+D
+* (+	
+%1int"__id*'
 
-__unknown_file (
-
-%2*
-1*¢
-4H H(Š
-‡
-H H(
-%0"	__compare*"
+__unknown_file (
+	
+%5int*
+1*«
+4  (!“
+
+  (&
+%4boolean"	__compare*"
 
 __unknown_file (
-!=*"
+==*"
 
 __unknown_file (
 ""*"
@@ -33,8 +33,38 @@ n/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/m
 __unknown_file (
 ""*
 2
-3*!
-1H H(6"
-H H(6
-""B=;
-9com.simplecity.amp_library.ui.modelviews.SearchHeaderViewHX
+3*Z
+5 (F
+D
+ (	
+%1int"__id*'
+
+__unknown_file (
+	
+%2int*
+1*ª
+6 (’
+
+ (
+%0boolean"	__compare*!
+
+__unknown_file (
+<*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+4
+5*!
+1 (1"
+ (1
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""B4"2
+0com.simplecity.amp_library.utils.ComparisonUtilsHX

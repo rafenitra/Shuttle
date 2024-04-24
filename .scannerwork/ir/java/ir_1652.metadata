@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.main.MainActivity#onBackPressed()V
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#instance-init#
+java.util.ArrayList#<init>()V

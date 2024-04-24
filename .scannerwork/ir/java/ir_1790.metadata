@@ -1,2 +1,1 @@
-com.simplecity.amp_library.playback.DummyNotificationHelper#teardown(LService;)V
-com.simplecity.amp_library.playback.DummyNotificationHelper#removeDummyNotification(LService;)V
+com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#bindView(Lcom/simplecity/amp_library/ui/modelviews/HorizontalRecyclerView$ViewHolder;)V

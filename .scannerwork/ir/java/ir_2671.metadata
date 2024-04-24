@@ -1,3 +1,2 @@
-com.simplecity.amp_library.playback.MediaSessionManager#<init>(LContext;LQueueManager;LPlaybackManager;LPlaybackSettingsManager;LSettingsManager;LRepository/SongsRepository;LRepository/AlbumsRepository;LRepository/AlbumArtistsRepository;LRepository/GenresRepository;LRepository/PlaylistsRepository;)V
+com.jp.wasabeef.glide.transformations.MaskTransformation#transform(LResource;II)LResource;
 null
-java.lang.Class#getName()Ljava/lang/String;

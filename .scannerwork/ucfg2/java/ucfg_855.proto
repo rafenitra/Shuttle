@@ -1,16 +1,25 @@
 
-Tcom.simplecity.amp_library.utils.sorting.SortManager#getAlbumDetailSongsAscending()Zu
-i/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.javaž ž(/"1*w
+-com.afollestad.aesthetic.Util#darkenColor(I)In
+b/D:/EPSI/Analyse Code/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Util.javaÕ Õ("1*ø
 1
-Ÿ Ÿ(P
-N
+Ö Ö(Ð
+Í
 
-Ÿ! Ÿ(;
-%0java.lang.String"__id*"
+Ö Ö("	
+%0int"-com.afollestad.aesthetic.Util#shiftColor(IF)I*=
+
+__unknown_file (!"
+com.afollestad.aesthetic.Util*"
+
+__unknown_file (
+""*"
 
 __unknown_file (
 """
 
-Ÿ Ÿ(C
-""B86
-4com.simplecity.amp_library.utils.sorting.SortManagerHX
+Ö Ö(#
+"": 
+
+__unknown_file (
+""B!"
+com.afollestad.aesthetic.UtilHX

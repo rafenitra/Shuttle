@@ -1,16 +1,16 @@
 
-Bcom.simplecity.amp_library.utils.SettingsManager#getSearchFuzzy()Zq
-e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaþ þ(!"1*
+Dcom.simplecity.amp_library.utils.SettingsManager#ignoreDuplicates()Zq
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaî î(#"1*‹
 1
-ÿ ÿ(Z
-X
+ï ï(d
+b
 
-ÿ ÿ('
-%0java.lang.String"__id*,
+ï ï(5
+%0java.lang.String"__id*6
 
-__unknown_file (
-search_fuzzy"
+__unknown_file (
+pref_ignore_duplicates"
 
-ÿ ÿ(/
+ï ï(>
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

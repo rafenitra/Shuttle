@@ -1,3 +1,2 @@
-com.simplecity.amp_library.sql.providers.PlayCountContentProvider#delete(LUri;Ljava/lang/String;[Ljava/lang/String;)I
-java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
-java.lang.IllegalArgumentException#instance-init#
+com.simplecity.amp_library.ui.modelviews.PlaylistView#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;

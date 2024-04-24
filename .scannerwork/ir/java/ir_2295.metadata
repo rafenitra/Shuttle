@@ -1,4 +1,1 @@
-com.simplecity.amp_library.utils.LetterDrawable#<init>(Ljava/lang/String;LTypedArray;LPaint;)V
-java.lang.Character#toUpperCase(C)C
-java.lang.String#length()I
-java.lang.String#charAt(I)C
+com.simplecity.amp_library.ui.screens.widgets.WidgetFragment#onActivityCreated(LBundle;)V

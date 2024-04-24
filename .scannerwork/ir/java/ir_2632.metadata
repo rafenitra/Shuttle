@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#onDestroy()V
+com.simplecity.amp_library.ui.modelviews.MultiItemView#bindView(Lcom/simplecity/amp_library/ui/modelviews/MultiItemView$ViewHolder;ILjava/util/List;)V

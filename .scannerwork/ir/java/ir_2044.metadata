@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.common.BaseActivity#onPremiumPurchaseCompleted()V
-null
+com.afollestad.aesthetic.Rx#distinctToMainThread()LObservableTransformer;

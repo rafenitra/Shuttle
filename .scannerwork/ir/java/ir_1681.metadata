@@ -1,1 +1,2 @@
-com.simplecity.amp_library.model.Song#instance-init#
+com.simplecity.amp_library.model.Song#getTagInfo()LTagInfo;
+null

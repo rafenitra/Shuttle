@@ -1,4 +1,3 @@
-com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#onResume()V
-com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#getAestheticColorSetDisposable()LObservable;
-==
-update com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#update()V
+com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#trackInfoChanged(LSong;)V
+null
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

@@ -1,4 +1,1 @@
-com.simplecity.amp_library.utils.StringUtils#getAdjustedJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)D
-java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
-com.simplecity.amp_library.utils.StringUtils#getJaroWinklerSimilarity(Ljava/lang/String;Ljava/lang/String;)D
-java.lang.Math#max(DD)D
+com.simplecity.amp_library.constants.OpenSLESConstants#instance-init#

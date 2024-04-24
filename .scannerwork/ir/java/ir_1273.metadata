@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.PlaylistView#onPlaylistClicked(I)V
-==
-onPlaylistClick com.simplecity.amp_library.ui.modelviews.PlaylistView$OnClickListener#onPlaylistClick(ILcom/simplecity/amp_library/ui/modelviews/PlaylistView;)V
+com.simplecity.amp_library.glide.fetcher.TagFetcher#<init>(LArtworkProvider;)V

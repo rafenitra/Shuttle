@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.ComparisonUtils#<init>()V
+com.simplecity.amp_library.utils.TimeLogger#startLog()V
+java.lang.System#currentTimeMillis()J

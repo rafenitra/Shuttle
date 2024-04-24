@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticListView#invalidateColors(I)V
+com.simplecity.amp_library.services.DashClockService#publishUpdate(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)V

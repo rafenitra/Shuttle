@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MediaManager#getShuffleMode()I
+com.simplecity.amp_library.playback.MediaManager#moveQueueItem(II)V

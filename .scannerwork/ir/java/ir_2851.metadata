@@ -1,4 +1,2 @@
-com.simplecity.amp_library.http.HttpServer#stop()V
-==
-cleanupAudioStream com.simplecity.amp_library.http.HttpServer#cleanupAudioStream()V
-cleanupImageStream com.simplecity.amp_library.http.HttpServer#cleanupImageStream()V
+com.simplecity.amp_library.ui.views.AestheticDrawableTextView#<init>(LContext;LAttributeSet;)V
+com.simplecity.amp_library.ui.views.AestheticDrawableTextView#init(LContext;LAttributeSet;)V

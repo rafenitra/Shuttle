@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.Util#resolveColor(LContext;I)I
-com.afollestad.aesthetic.Util#resolveColor(LContext;II)I
+com.simplecity.amp_library.sql.legacy.WhitelistFolder#<init>(LCursor;)V

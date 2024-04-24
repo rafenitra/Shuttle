@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.menu.MenuUtils#whitelist(LRepository/WhitelistRepository;Ljava/util/List;)V
+com.afollestad.aesthetic.AestheticSeekBar#<init>(LContext;)V

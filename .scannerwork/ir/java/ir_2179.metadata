@@ -1,2 +1,3 @@
-com.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener#onScrolled(LRecyclerView;II)V
-java.lang.Math#abs(I)I
+test.com.androidnavigation.fragment.BaseNavigationController#addRootFragment()V
+==
+getRootViewControllerInfo test.com.androidnavigation.fragment.BaseNavigationController#getRootViewControllerInfo()LFragmentInfo;

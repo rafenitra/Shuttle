@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.views.DragHandle#onAttachedToWindow()V
-==
-getColorObservable com.simplecity.amp_library.ui.views.DragHandle#getColorObservable()LObservable;
+com.simplecity.amp_library.glide.utils.BitmapAndSizeResource#instance-init#

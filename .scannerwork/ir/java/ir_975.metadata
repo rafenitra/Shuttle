@@ -1,1 +1,2 @@
-com.simplecity.amp_library.playback.MusicService#getQueueReloading()Z
+com.simplecity.amp_library.playback.MusicService#retrievePlaybackAction(LContext;Ljava/lang/String;)LPendingIntent;
+null

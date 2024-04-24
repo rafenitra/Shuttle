@@ -1,4 +1,2 @@
-com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#selectForegroundColorForSwatches(LPalette/Swatch;LPalette/Swatch;LPalette/Swatch;LPalette/Swatch;LPalette/Swatch;I)I
-com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#hasEnoughPopulation(LPalette/Swatch;)Z
-com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#selectMutedCandidate(LPalette/Swatch;LPalette/Swatch;)LPalette/Swatch;
-com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#selectVibrantCandidate(LPalette/Swatch;LPalette/Swatch;)LPalette/Swatch;
+com.afollestad.aesthetic.AestheticButton#<init>(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticButton#init(LContext;LAttributeSet;)V

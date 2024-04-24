@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.ShuffleView#onItemClick()V
-==
-onShuffleItemClick com.simplecity.amp_library.ui.modelviews.ShuffleView$ShuffleClickListener#onShuffleItemClick()V
+com.afollestad.aesthetic.AestheticRadioButton#invalidateColors(LColorIsDarkState;)V
+com.afollestad.aesthetic.TintHelper#setTint(LRadioButton;IZ)V

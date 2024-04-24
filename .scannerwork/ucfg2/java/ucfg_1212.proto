@@ -1,227 +1,39 @@
 
-Bcom.simplecity.amp_library.model.Genre#equals(Ljava/lang/Object;)Ze
-[/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Genre.java) )("startingBlock*ã
-13* *(È
-Å
-* *(
-%0boolean"	__compare*"
+O__sonar_lambda_87$com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity~
+r/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/qcircle/QCircleActivity.javaˆ# ˆ(E"startingBlock*‚
+startingBlock
+ˆ# ˆ(Eé
+æ
 
-__unknown_file (
-==*F
+__unknown_file (P
+QCircleActivity=com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity"__id*r
 
-__unknown_file (*(
-&com.simplecity.amp_library.model.Genre*3
+__unknown_file (V*T?
+=com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity"
+QCircleActivityó
+ð
 
-__unknown_file (
-
-ojava.lang.Object*
-11
-12*!
-11 1(K"
-1 1(K
-""*•
-218 1(=…
-‚
-18 1(B
-%14java.lang.String"__id*W
+__unknown_file (U
+QCircleActivity.this=com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity"__id*w
 
-__unknown_file (;*9
-/
-genre&com.simplecity.amp_library.model.Genre"
-name§
-¤
-18 1(J
-%11boolean"	__compare*"
+__unknown_file ([*Y?
+=com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity"
+QCircleActivity.this*
+1*ë
+1
+ˆ( ˆ(7Ã
+À
+
+ˆ( ˆ(<C
+%1=com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity"__id*g
 
-__unknown_file (
-==*5
+__unknown_file (K*I?
+=com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity"
+this"
+
+ˆ( ˆ(E
+"": 
 
-__unknown_file (
-
-%14java.lang.String*"
-
-__unknown_file (
-""O
-M
-18 1(J
-%9boolean"__id*,
-
-__unknown_file (
-
-%11boolean*
-1*Â
-31 1("}
-{
-1 1("
-%12java.lang.String"__id*P
-
-__unknown_file (4*2(
-&com.simplecity.amp_library.model.Genre"
-name…
-‚
-1* 1(4
-%13java.lang.String"__id*W
-
-__unknown_file (;*9
-/
-genre&com.simplecity.amp_library.model.Genre"
-nameÕÒ
-1 1(5
-%10boolean",java.lang.String#equals(Ljava/lang/Object;)Z*5
-
-__unknown_file (
-
-%12java.lang.String*5
-
-__unknown_file (
-
-%13java.lang.String2equals(Ljava/lang/Object;)O
-M
-1 1(5
-%9boolean"__id*,
-
-__unknown_file (
-
-%10boolean*
-1*ƒ
-startingBlock) )(#‰
-†
-( ((
-%15"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*3
-
-__unknown_file (
-
-ojava.lang.ObjectV
-T
-)! )("
-ojava.lang.Object"__annotation*#
-
-__unknown_file (
-
-%15*
-13*»
-41 1(|
-z
-1 1(
-%7java.lang.String"__id*P
-
-__unknown_file (4*2(
-&com.simplecity.amp_library.model.Genre"
-name¥
-¢
-1 1(
-%8boolean"	__compare*"
-
-__unknown_file (
-!=*4
-
-__unknown_file (
-
-%7java.lang.String*"
-
-__unknown_file (
-""*
-2
-3*!
-50/ 0(4"
-0( 0(5
-""*«
-60 0(“
-
-0 0(&
-%6boolean"	__compare*"
-
-__unknown_file (
-!=*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-4
-5*!
-7/# /(("
-/ /()
-""*¥
-8- -(x
-v
-- -( /
-genre&com.simplecity.amp_library.model.Genre"__id*3
-
-__unknown_file (
-
-ojava.lang.Object“
-
-/ /(
-%5boolean"	__compare*"
-
-__unknown_file (
-!=*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-6
-7*!
-9+< +(A"
-+5 +(B
-""*
-10+ +(!¦£
-+ +(#
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*F
-
-__unknown_file (*(
-&com.simplecity.amp_library.model.Genre2
-getClass()“
-+' +(3
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
-
-__unknown_file (
-
-ojava.lang.Object2
-getClass()µ
-²
-+ +(3
-%4boolean"	__compare*"
-
-__unknown_file (
-!=*3
-
-__unknown_file (
-
-%2java.lang.Class*3
-
-__unknown_file (
-
-%3java.lang.Class*
-8
-9*¾
-11+ +(¤
-¡
-+ +(
-%1boolean"	__compare*"
-
-__unknown_file (
-==*3
-
-__unknown_file (
-
-ojava.lang.Object*"
-
-__unknown_file (
-""*
-9
-10*"
-12* *(""
-* *(#
-"":!
-) )("
-ojava.lang.ObjectB*(
-&com.simplecity.amp_library.model.GenreHX
+__unknown_file (
+""B
+	!Unknown!

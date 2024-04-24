@@ -1,3 +1,1 @@
-com.simplecity.amp_library.glide.utils.BitmapAndSizeResource#<init>(LBitmap;LSize;LBitmapPool;)V
-java.lang.NullPointerException#<init>(Ljava/lang/String;)V
-java.lang.NullPointerException#instance-init#
+com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#<init>()V

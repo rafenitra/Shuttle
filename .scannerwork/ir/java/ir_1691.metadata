@@ -1,2 +1,1 @@
-com.simplecity.amp_library.model.Song#setResumed()V
-java.lang.System#currentTimeMillis()J
+com.simplecity.amp_library.model.Song#hashCode()I

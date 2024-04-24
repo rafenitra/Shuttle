@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.screens.tagger.TaggerUtils#showChooseDocumentDialog(LContext;LMaterialDialog/SingleButtonCallback;Z)V
-null
+com.afollestad.aesthetic.AestheticSnackBarTextView#instance-init#

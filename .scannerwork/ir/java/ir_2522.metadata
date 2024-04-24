@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.TintHelper#setTint(LSwitchCompat;IZ)V
-com.afollestad.aesthetic.TintHelper#modifySwitchDrawable(LContext;LDrawable;IZZZ)LDrawable;
+com.simplecity.amp_library.ui.screens.drawer.DrawerParent#<init>(IIILNavigationEventRelay/NavigationEvent;ZLSettingsManager;)V

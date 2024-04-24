@@ -488,7 +488,7 @@ public class FolderFragment extends BaseFragment implements
 
     @Override
     public void onFileObjectCheckboxClick(CheckBox checkBox, FolderView folderView) {
-
+        //it will be implemented
     }
 
     public void changeBreadcrumbPath() {
@@ -653,8 +653,9 @@ public class FolderFragment extends BaseFragment implements
                 adapter.notifyItemRangeChanged(0, adapter.getItemCount(), 0);
                 updateMenuItems();
                 return true;
+            default:
+                return false;
         }
-        return false;
     }
 
     FolderMenuUtils.Callbacks callbacks = new FolderMenuUtils.Callbacks() {
@@ -704,7 +705,7 @@ public class FolderFragment extends BaseFragment implements
 
         @Override
         public void onPlaylistItemsInserted() {
-
+            //it will be implemented
         }
 
         @Override

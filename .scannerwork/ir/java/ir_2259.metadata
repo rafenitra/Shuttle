@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.settings.SettingsParentFragment#instance-init#
+com.jp.wasabeef.glide.transformations.RoundedCornersTransformation#<init>(LContext;IILcom/jp/wasabeef/glide/transformations/RoundedCornersTransformation$CornerType;)V
+==
+<init> com.jp.wasabeef.glide.transformations.RoundedCornersTransformation#<init>(LContext;IILcom/jp/wasabeef/glide/transformations/RoundedCornersTransformation$CornerType;)V

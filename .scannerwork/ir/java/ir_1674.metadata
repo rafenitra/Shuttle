@@ -1,1 +1,2 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#logDiffResult(LDiffUtil/DiffResult;)V
+com.simplecity.amp_library.model.Song#getPlayCount(LContext;)I
+null

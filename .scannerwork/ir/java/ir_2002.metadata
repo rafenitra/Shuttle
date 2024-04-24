@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.MediaButtonIntentReceiver#releaseWakeLockIfHandlerIdle()V
+com.afollestad.aesthetic.AestheticSwitch#onDetachedFromWindow()V

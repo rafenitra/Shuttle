@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#isPlaying()Z
+com.simplecity.amp_library.playback.MusicService#getSong()LSong;

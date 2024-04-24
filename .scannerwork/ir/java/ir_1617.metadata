@@ -1,1 +1,2 @@
-com.simplecity.amp_library.playback.PlaybackMonitor#instance-init#
+com.simplecity.amp_library.ui.modelviews.ArtworkView#getItem()LArtworkModel;
+null

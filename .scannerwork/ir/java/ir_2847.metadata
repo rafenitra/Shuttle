@@ -1,3 +1,4 @@
-com.simplecity.amp_library.http.HttpServer#<init>()V
-com.simplecity.amp_library.http.HttpServer$NanoServer#<init>(Lcom/simplecity/amp_library/http/HttpServer;)V
-com.simplecity.amp_library.http.HttpServer$NanoServer#instance-init#
+com.simplecity.amp_library.ui.widgets.WidgetProviderSmall#initialiseWidget(LContext;LSharedPreferences;I)V
+null
+==
+getRootViewId com.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getRootViewId()I

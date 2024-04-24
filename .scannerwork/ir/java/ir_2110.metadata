@@ -1,2 +1,1 @@
-com.simplecity.amp_library.glide.utils.CustomAppWidgetTarget#onResourceReady(LBitmap;LGlideAnimation;)V
-com.simplecity.amp_library.glide.utils.CustomAppWidgetTarget#update()V
+com.simplecity.amp_library.utils.color.ArgbEvaluator#instance-init#

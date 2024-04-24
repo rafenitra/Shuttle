@@ -1,4 +1,3 @@
-com.simplecity.amp_library.utils.FileBrowser#hasHomeDir()Z
+com.simplecity.amp_library.utils.FileBrowser#nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)I
 ==
-getHomeDir com.simplecity.amp_library.utils.FileBrowser#getHomeDir()Ljava/io/File;
-getPath java.io.File#getPath()Ljava/lang/String;
+compareTo java.lang.Comparable#compareTo(Ljava/lang/Object;)I

@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;
-com.afollestad.aesthetic.Aesthetic#<init>(LContext;)V
-com.afollestad.aesthetic.Aesthetic#instance-init#
+com.afollestad.aesthetic.Aesthetic#colorPrimaryDark(I)Lcom/afollestad/aesthetic/Aesthetic;

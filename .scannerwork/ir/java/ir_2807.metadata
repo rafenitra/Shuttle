@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.modelviews.TabViewModel#setListener(Lcom/simplecity/amp_library/ui/modelviews/TabViewModel$Listener;)V
+com.simplecity.amp_library.utils.FileHelper#resolveSymlink(Ljava/io/File;)Ljava/io/File;
+==
+getCanonicalFile java.io.File#getCanonicalFile()Ljava/io/File;

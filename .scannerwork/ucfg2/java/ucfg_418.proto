@@ -1,16 +1,17 @@
 
-Hcom.simplecity.amp_library.utils.SettingsManager#useGmailPlaceholders()Zq
-e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÌ Ì('"1*†
+Bcom.simplecity.amp_library.utils.SettingsManager#getAccentColor()Iq
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java³ ³("1*Â
 1
-Í Í(_
-]
+´ ´(š
+—
 
-Í Í(1
-%0java.lang.String"__id*1
+´ ´(+
+%0java.lang.String"__id*k
 
-__unknown_file (
-pref_placeholders"
+__unknown_file (O*M2
+0com.simplecity.amp_library.utils.SettingsManager"
+KEY_PREF_ACCENT_COLOR"
 
-Í Í(:
+´ ´(1
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

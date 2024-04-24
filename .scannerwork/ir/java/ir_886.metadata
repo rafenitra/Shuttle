@@ -1,3 +1,4 @@
-com.jp.wasabeef.glide.transformations.BlurTransformation#<init>(LContext;)V
+com.simplecity.amp_library.ui.settings.SupportPresenter#helpClicked()V
+null
 ==
-<init> com.jp.wasabeef.glide.transformations.BlurTransformation#<init>(LContext;LBitmapPool;II)V
+getView com.simplecity.amp_library.ui.common.Presenter#getView()Ljava/lang/Object;

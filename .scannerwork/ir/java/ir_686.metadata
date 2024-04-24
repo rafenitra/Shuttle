@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.SettingsManager#getFolderBrowserShowFileNames()Z
+com.simplecity.amp_library.utils.SettingsManager#getFolderBrowserFilesSortOrder()Ljava/lang/String;

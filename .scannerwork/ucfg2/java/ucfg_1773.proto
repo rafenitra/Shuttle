@@ -1,15 +1,138 @@
 
-?__sonar_lambda_157$com.simplecity.amp_library.utils.FileBrowserm
-a/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java†, †(`"1*%
-1
-†: †(="
+gcom.simplecity.amp_library.utils.FileBrowser#nullCompare(Ljava/lang/Comparable;Ljava/lang/Comparable;)Im
+a/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/FileBrowser.java´" ´(-"8*›
+2
+µb µ(cº·
 
-†: †(`
-"": 
+µb µ(p	
+%9int"3java.lang.Comparable#compareTo(Ljava/lang/Object;)I*$
 
-__unknown_file (
-"": 
+__unknown_file (
+
+aT*$
 
-__unknown_file (
-""B
-java.util.Comparator
+__unknown_file (
+
+bT2compareTo(Ljava/lang/Object;)H
+F
+
+µb µ(p	
+%1int"__id*'
+
+__unknown_file (
+	
+%9int*
+1*£
+3
+µN µ(UC
+A
+
+µN µ(_	
+%8int"__id*"
+
+__unknown_file (
+""H
+F
+
+µN µ(_	
+%1int"__id*'
+
+__unknown_file (
+	
+%8int*
+1*±
+4
+µB µ(C—
+”
+
+µB µ(K
+%7boolean"	__compare*"
+
+__unknown_file (
+==*$
+
+__unknown_file (
+
+bT*"
+
+__unknown_file (
+""*
+2
+3*£
+5
+µ, µ(3C
+A
+
+µ, µ(=	
+%6int"__id*"
+
+__unknown_file (
+""H
+F
+
+µ, µ(=	
+%1int"__id*'
+
+__unknown_file (
+	
+%6int*
+1*^
+6
+µ( µ()H
+F
+
+µ( µ()	
+%1int"__id*'
+
+__unknown_file (
+	
+%5int*
+1*±
+7
+µ µ(—
+”
+
+µ µ(%
+%4boolean"	__compare*"
+
+__unknown_file (
+==*$
+
+__unknown_file (
+
+bT*"
+
+__unknown_file (
+""*
+5
+6*±
+8
+µ µ(—
+”
+
+µ µ(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*$
+
+__unknown_file (
+
+aT*"
+
+__unknown_file (
+""*
+4
+7*%
+1
+µ µ(r"
+
+µ µ(r
+"":
+
+´. ´(2
+aT:
+
+´3 ´(6
+bTB0.
+,com.simplecity.amp_library.utils.FileBrowserX

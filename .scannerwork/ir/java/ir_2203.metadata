@@ -1,1 +1,2 @@
-com.jp.wasabeef.glide.transformations.CropSquareTransformation#<init>(LBitmapPool;)V
+com.afollestad.aesthetic.AestheticTextInputEditText#<init>(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticTextInputEditText#init(LContext;LAttributeSet;)V

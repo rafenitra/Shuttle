@@ -32,7 +32,7 @@ public class NavigationEventRelay {
 
     @Inject
     public NavigationEventRelay() {
-
+        //there  is no implementatino with this methode
     }
 
     public void sendEvent(@NonNull NavigationEvent event) {

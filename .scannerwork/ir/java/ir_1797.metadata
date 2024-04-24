@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.modelviews.HorizontalRecyclerView#instance-init#
+com.simplecity.amp_library.saf.SafManager#requiresPermission(Ljava/util/List;)Z
+==
+requiresPermission com.simplecity.amp_library.saf.SafManager#requiresPermission(Ljava/io/File;)Z

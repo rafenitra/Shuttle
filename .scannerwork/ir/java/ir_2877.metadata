@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.recyclerview.ChildAttachStateChangeListener#onChildViewAttachedToWindow(LView;)V
+com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#screenName()Ljava/lang/String;

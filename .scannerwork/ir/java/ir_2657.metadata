@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#onResume()V
-==
-updateUI com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#updateUI()V
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#screenName()Ljava/lang/String;

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.ShuffleView#bindView(Lcom/simplecity/amp_library/ui/modelviews/ShuffleView$ViewHolder;)V
+com.afollestad.aesthetic.AestheticRadioButton#init(LContext;LAttributeSet;)V

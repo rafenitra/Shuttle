@@ -1,2 +1,1 @@
-com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#findBackgroundColorAndFilter(LPalette;)I
-com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhiteOrBlack([F)Z
+com.afollestad.aesthetic.AestheticButton#onAttachedToWindow()V

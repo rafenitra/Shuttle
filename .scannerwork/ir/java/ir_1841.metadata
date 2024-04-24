@@ -1,3 +1,1 @@
-com.simplecity.amp_library.playback.PlaybackManager#restoreBookmark()V
-==
-seekTo com.simplecity.amp_library.playback.PlaybackManager#seekTo(J)V
+com.simplecity.amp_library.playback.PlaybackManager#willResumePlayback()Z

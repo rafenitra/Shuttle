@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.views.SnowfallView#removeSnow()V
-==
-size java.util.List#size()I
+com.afollestad.aesthetic.AestheticCardView#<init>(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.AestheticCardView#init(LContext;LAttributeSet;)V

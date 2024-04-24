@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.PlayPauseView#isPlay()Z
+com.simplecity.amp_library.ui.screens.tagger.TaggerTask#title(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;

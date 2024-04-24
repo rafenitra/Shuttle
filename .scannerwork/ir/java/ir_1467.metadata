@@ -1,2 +1,2 @@
-com.afollestad.aesthetic.AestheticToolbar#<init>(LContext;LAttributeSet;)V
-com.afollestad.aesthetic.AestheticToolbar#init(LContext;LAttributeSet;)V
+com.simplecity.amp_library.ui.views.PlayPauseView#onMeasure(II)V
+java.lang.Math#min(II)I

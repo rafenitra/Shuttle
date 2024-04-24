@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#getRepeatMode()I
+com.simplecity.amp_library.playback.MusicService#removeQueueItems(Ljava/util/List;)V

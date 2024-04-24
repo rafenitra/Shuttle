@@ -1,20 +1,35 @@
 
 ^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateLuminance(I)Ds
-g/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaã ã(/"1*∫
+g/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaç ç(/"1*î
 1
-å$ å(7È
+é$ é(7È
 Ê
 
-å$ å(9
+é$ é(9
 %0double[]"_com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#getTempDouble3Array()[D*g
 
 __unknown_file (K"I
-Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat¶
+Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompatU
+S
+
+è è(
+%1java.lang.ThreadLocal"__id*"
+
+__unknown_file (
+""Ä~
+
+è è(
+
+%2void"java.lang.ThreadLocal#remove()V*9
+
+__unknown_file (
+
+%1java.lang.ThreadLocal2remove()¶
 £
 
-ç ç(%
+ê ê(%
 
-%1void"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#colorToXYZ(I[D)V*g
+%3void"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#colorToXYZ(I[D)V*g
 
 __unknown_file (K"I
 Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
@@ -25,7 +40,7 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 __unknown_file (
 """
 
-è è(#
+í í(#
 "": 
 
 __unknown_file (

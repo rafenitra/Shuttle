@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.views.CustomCheckbox#instance-init#
+com.simplecity.amp_library.ui.modelviews.FolderView#onClick(I)V
+==
+onFileObjectClick com.simplecity.amp_library.ui.modelviews.FolderView$ClickListener#onFileObjectClick(ILcom/simplecity/amp_library/ui/modelviews/FolderView;)V

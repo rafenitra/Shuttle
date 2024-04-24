@@ -1,3 +1,3 @@
-com.afollestad.aesthetic.Aesthetic#snackbarActionTextColorRes(I)Lcom/afollestad/aesthetic/Aesthetic;
+com.simplecity.amp_library.ui.views.AestheticTintedImageView#invalidateColors(I)V
 ==
-colorCardViewBackground com.afollestad.aesthetic.Aesthetic#colorCardViewBackground(I)Lcom/afollestad/aesthetic/Aesthetic;
+setImageDrawable com.simplecity.amp_library.ui.views.AestheticTintedImageView#setImageDrawable(LDrawable;)V

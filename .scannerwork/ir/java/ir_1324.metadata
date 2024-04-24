@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.NonClickableToolbar#<init>(LContext;LAttributeSet;I)V
+com.simplecity.amp_library.utils.sorting.SortManager#setAlbumsAscending(Z)V
+com.simplecity.amp_library.utils.sorting.SortManager#setAscending(Ljava/lang/String;Z)V

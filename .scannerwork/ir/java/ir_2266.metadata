@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.settings.SettingsParentFragment#onPause()V
-==
-onPause test.com.androidnavigation.fragment.BaseNavigationController#onPause()V
+com.jp.wasabeef.glide.transformations.RoundedCornersTransformation#drawBottomRightRoundRect(LCanvas;LPaint;FF)V
+null

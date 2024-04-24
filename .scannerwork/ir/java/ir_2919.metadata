@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.AlbumArtistView#onItemClick(ILcom/simplecity/amp_library/ui/modelviews/AlbumArtistView$ViewHolder;)V
-==
-onAlbumArtistClick com.simplecity.amp_library.ui.modelviews.AlbumArtistView$ClickListener#onAlbumArtistClick(ILcom/simplecity/amp_library/ui/modelviews/AlbumArtistView;Lcom/simplecity/amp_library/ui/modelviews/AlbumArtistView$ViewHolder;)V
+com.simplecity.amp_library.ui.modelviews.AlbumArtistView#areContentsEqual(Ljava/lang/Object;)Z
+java.util.Arrays#equals([C[C)Z

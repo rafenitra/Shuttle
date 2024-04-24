@@ -1,4 +1,3 @@
-com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#removeMiniPlayerLock(Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager$MiniPlayerLock;)V
-==
-contains java.util.List#contains(Ljava/lang/Object;)Z
-remove java.util.List#remove(Ljava/lang/Object;)Z
+com.simplecity.amp_library.ui.modelviews.ArtworkView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.ArtworkView$ViewHolder#<init>(LView;)V
+com.simplecity.amp_library.ui.modelviews.ArtworkView$ViewHolder#instance-init#

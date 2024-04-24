@@ -1,4 +1,2 @@
-com.simplecity.amp_library.utils.MediaButtonIntentReceiver#handleIntent(LContext;LIntent;LPlaybackSettingsManager;)V
-com.simplecity.amp_library.utils.MediaButtonIntentReceiver#releaseWakeLockIfHandlerIdle()V
-com.simplecity.amp_library.utils.MediaButtonIntentReceiver#startService(LContext;Ljava/lang/String;)V
-com.simplecity.amp_library.utils.MediaButtonIntentReceiver#acquireWakeLockAndSendMessage(LContext;LMessage;J)V
+com.afollestad.aesthetic.AestheticSwitch#<init>(LContext;LAttributeSet;I)V
+com.afollestad.aesthetic.AestheticSwitch#init(LContext;LAttributeSet;)V

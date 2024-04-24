@@ -1,3 +1,2 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#removeItem(LViewModel;)LViewModel;
-==
-removeItem com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#removeItem(LViewModel;)LViewModel;
+com.simplecity.amp_library.model.Song#getElapsedTime()J
+java.lang.System#currentTimeMillis()J

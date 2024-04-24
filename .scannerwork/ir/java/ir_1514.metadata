@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.screens.tagger.TaggerTask#build()Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;
-com.simplecity.amp_library.ui.screens.tagger.TaggerTask#<init>(LContext;ZZLjava/util/List;Ljava/util/List;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask$TagCompletionListener;)V
-com.simplecity.amp_library.ui.screens.tagger.TaggerTask#instance-init#
+com.simplecity.amp_library.ui.views.recyclerview.SpacesItemDecoration#instance-init#

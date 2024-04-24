@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MediaManager#seekTo(J)V
+com.simplecity.amp_library.playback.MediaManager#getQueueReloading()Z

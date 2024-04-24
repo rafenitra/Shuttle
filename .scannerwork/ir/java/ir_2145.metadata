@@ -1,3 +1,1 @@
-com.simplecity.amp_library.glide.utils.BitmapAndSizeResource#obtain(LBitmap;LSize;LBitmapPool;)Lcom/simplecity/amp_library/glide/utils/BitmapAndSizeResource;
-com.simplecity.amp_library.glide.utils.BitmapAndSizeResource#<init>(LBitmap;LSize;LBitmapPool;)V
-com.simplecity.amp_library.glide.utils.BitmapAndSizeResource#instance-init#
+com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#instance-init#

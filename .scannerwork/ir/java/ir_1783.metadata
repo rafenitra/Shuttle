@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.drawer.DrawerLockManager#setDrawerLockController(LDrawerLockController;)V
+com.simplecity.amp_library.utils.ResourceUtils#getScreenSize()LSize;
+null

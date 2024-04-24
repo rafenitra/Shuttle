@@ -1,2 +1,1 @@
-com.simplecity.amp_library.services.ArtworkDownloadService#updateProgress()V
-com.simplecity.amp_library.services.ArtworkDownloadService#getNotificationBuilder()LNotificationCompat/Builder;
+com.jp.wasabeef.glide.transformations.internal.RSBlur#<init>(LContext;)V

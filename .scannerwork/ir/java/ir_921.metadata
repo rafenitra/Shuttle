@@ -1,2 +1,3 @@
-com.afollestad.aesthetic.AestheticTextView#<init>(LContext;LAttributeSet;)V
-com.afollestad.aesthetic.AestheticTextView#init(LContext;LAttributeSet;)V
+com.simplecity.amp_library.playback.MusicService#onBind(LIntent;)LIBinder;
+java.lang.String#equals(Ljava/lang/Object;)Z
+com.simplecity.amp_library.playback.MusicService#cancelShutdown()V

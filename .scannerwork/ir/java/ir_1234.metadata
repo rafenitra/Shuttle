@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.Aesthetic#snackbarTextColorRes(I)Lcom/afollestad/aesthetic/Aesthetic;
-==
-colorCardViewBackground com.afollestad.aesthetic.Aesthetic#colorCardViewBackground(I)Lcom/afollestad/aesthetic/Aesthetic;
+com.simplecity.amp_library.ui.views.AestheticTintedImageView#<init>(LContext;LAttributeSet;I)V

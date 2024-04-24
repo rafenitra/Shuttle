@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.Util#isColorLight(I)Z
+com.simplecity.amp_library.cast.CastOptionsProvider#getCastOptions(LContext;)LCastOptions;
+null

@@ -1,2 +1,1 @@
-com.simplecity.amp_library.model.TagUpdate#softSetTrack(Ljava/lang/String;)V
-java.lang.String#equals(Ljava/lang/Object;)Z
+com.simplecity.amp_library.ui.views.multisheet.CustomMultiSheetView#onDetachedFromWindow()V

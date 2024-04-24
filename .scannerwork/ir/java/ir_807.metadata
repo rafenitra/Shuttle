@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MediaManager#getFilePath()Ljava/lang/String;
+com.simplecity.amp_library.playback.MediaManager#getDuration()J

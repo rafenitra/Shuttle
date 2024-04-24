@@ -1,4 +1,1 @@
-com.afollestad.aesthetic.AestheticActionMenuItemView#invalidateColors(Lcom/afollestad/aesthetic/ActiveInactiveColors;LDrawable;)V
-com.afollestad.aesthetic.AestheticActionMenuItemView#setIcon(LDrawable;LColorStateList;)V
-com.afollestad.aesthetic.ActiveInactiveColors#activeColor()I
-com.afollestad.aesthetic.ActiveInactiveColors#toEnabledSl()LColorStateList;
+com.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#onDestroyView()V

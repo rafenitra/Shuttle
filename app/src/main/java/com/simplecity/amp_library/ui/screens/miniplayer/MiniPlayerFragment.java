@@ -63,7 +63,7 @@ public class MiniPlayerFragment extends BaseFragment {
     private Unbinder unbinder;
 
     public MiniPlayerFragment() {
-
+        //it will be implemented
     }
 
     public static MiniPlayerFragment newInstance() {

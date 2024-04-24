@@ -1,9 +1,66 @@
 
-Lcom.simplecity.amp_library.ShuttleApplication#getVersion()Ljava/lang/String;n
-b/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ShuttleApplication.javaŸ Ÿ("3*%
-3
-€ €(V"
+Ecom.simplecity.amp_library.ui.modelviews.SongView#onItemLongClick(I)Zp
+f/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SongView.java ("3*≤
+2
+Å Å(Ω
+∫
 
-€ €(W
-""B1/
--com.simplecity.amp_library.ShuttleApplicationH
+Å Å(E
+%2?com.simplecity.amp_library.ui.modelviews.SongView$ClickListener"__id*_
+
+__unknown_file (C*A3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+
+listener «
+
+Å Å(;
+%3boolean"Ücom.simplecity.amp_library.ui.modelviews.SongView$ClickListener#onSongLongClick(ILcom/simplecity/amp_library/ui/modelviews/SongView;)Z*c
+
+__unknown_file (G
+E
+%2?com.simplecity.amp_library.ui.modelviews.SongView$ClickListener*"
+
+__unknown_file (
+""*Q
+
+__unknown_file (53
+1com.simplecity.amp_library.ui.modelviews.SongView2EonSongLongClick(ILcom/simplecity/amp_library/ui/modelviews/SongView;)"
+
+Å Å(<
+""*∞
+3
+Ä Ä(Ω
+∫
+
+Ä Ä(E
+%0?com.simplecity.amp_library.ui.modelviews.SongView$ClickListener"__id*_
+
+__unknown_file (C*A3
+1com.simplecity.amp_library.ui.modelviews.SongView"
+
+listener÷
+”
+
+Ä Ä(
+%1boolean"	__compare*"
+
+__unknown_file (
+!=*c
+
+__unknown_file (G
+E
+%0?com.simplecity.amp_library.ui.modelviews.SongView$ClickListener*"
+
+__unknown_file (
+""*
+2
+1*%
+1
+É É("
+
+É É(
+"": 
+
+__unknown_file (
+""B53
+1com.simplecity.amp_library.ui.modelviews.SongViewX

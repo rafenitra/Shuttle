@@ -1,3 +1,1 @@
-com.simplecity.amp_library.utils.ShuttleUtils#getShuttleWebIntent(Ljava/lang/String;)LIntent;
-null
-com.simplecity.amp_library.utils.ShuttleUtils#isAmazonBuild()Z
+com.afollestad.aesthetic.AestheticFab#instance-init#

@@ -1,2 +1,3 @@
-com.afollestad.aesthetic.AestheticButton#<init>(LContext;LAttributeSet;)V
-com.afollestad.aesthetic.AestheticButton#init(LContext;LAttributeSet;)V
+com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
+==
+saveQueue com.simplecity.amp_library.playback.QueueManager#saveQueue(Z)V

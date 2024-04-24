@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.Util#isColorLight(II)Z
-com.afollestad.aesthetic.Util#isColorLight(I)Z
+com.simplecity.amp_library.cast.CastOptionsProvider#getAdditionalSessionProviders(LContext;)Ljava/util/List;

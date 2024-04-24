@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.recyclerview.SpacesItemDecoration#<init>(I)V
+com.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#getRequestManager()LRequestManager;

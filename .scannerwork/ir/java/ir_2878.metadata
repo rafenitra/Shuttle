@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.recyclerview.ChildAttachStateChangeListener#onChildViewDetachedFromWindow(LView;)V
+com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#setSeekProgress(I)V

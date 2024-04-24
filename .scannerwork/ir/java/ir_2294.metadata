@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.LetterDrawable#instance-init#
+com.simplecity.amp_library.ui.screens.widgets.WidgetFragment#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;
+null

@@ -1,3 +1,1 @@
-android.support.design.widget.CustomCollapsingTextHelper#calculateUsingSubSize(F)V
-java.lang.Math#min(FF)F
-android.support.design.widget.CustomCollapsingTextHelper#isClose(FF)Z
+android.support.design.widget.CustomCollapsingTextHelper#drawTextureBitmap(LCanvas;FF)V

@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.TintHelper#modifySwitchDrawable(LContext;LDrawable;IZZZ)LDrawable;
-null
-com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;LColorStateList;)LDrawable;
+com.simplecity.amp_library.ui.screens.drawer.DrawerParent#getFolderParent(LContext;LSettingsManager;)Lcom/simplecity/amp_library/ui/screens/drawer/DrawerParent;

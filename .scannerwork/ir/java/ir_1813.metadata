@@ -1,3 +1,1 @@
-com.simplecity.amp_library.saf.SafManager#getWriteableDocumentFile(Ljava/io/File;)LDocumentFile;
-==
-getDocumentFile com.simplecity.amp_library.saf.SafManager#getDocumentFile(Ljava/io/File;)LDocumentFile;
+com.simplecity.amp_library.playback.PlaybackManager#removeQueueItems(Ljava/util/List;)V

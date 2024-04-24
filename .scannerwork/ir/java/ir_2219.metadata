@@ -1,3 +1,2 @@
-com.afollestad.aesthetic.AestheticTextInputEditText#onAttachedToWindow()V
-null
-com.afollestad.aesthetic.ViewHintTextColorAction#create(LTextView;)Lcom/afollestad/aesthetic/ViewHintTextColorAction;
+com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#searchAndPlaySongs()V
+java.util.Collections#emptyList()Ljava/util/List;

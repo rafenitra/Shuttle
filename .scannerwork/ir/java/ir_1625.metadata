@@ -1,4 +1,3 @@
-com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#addMiniPlayerLock(Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager$MiniPlayerLock;)V
+com.simplecity.amp_library.ui.modelviews.ArtworkView#bindView(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView$ViewHolder;ILjava/util/List;)V
 ==
-contains java.util.List#contains(Ljava/lang/Object;)Z
-add java.util.List#add(Ljava/lang/Object;)Z
+isSelected com.simplecity.amp_library.ui.modelviews.ArtworkView#isSelected()Z

@@ -1,5 +1,4 @@
-com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#onCreateDialog(LBundle;)LDialog;
-null
-com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#setupViews(LView;)V
+com.simplecity.amp_library.http.HttpServer#stop()V
 ==
-populateViews com.simplecity.amp_library.ui.screens.tagger.TaggerDialog#populateViews()V
+cleanupAudioStream com.simplecity.amp_library.http.HttpServer#cleanupAudioStream()V
+cleanupImageStream com.simplecity.amp_library.http.HttpServer#cleanupImageStream()V

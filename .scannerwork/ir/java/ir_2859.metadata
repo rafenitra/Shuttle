@@ -1,4 +1,1 @@
-com.simplecity.amp_library.ui.widgets.WidgetProviderSmall#initialiseWidget(LContext;LSharedPreferences;I)V
-null
-==
-getRootViewId com.simplecity.amp_library.ui.widgets.WidgetProviderSmall#getRootViewId()I
+com.afollestad.aesthetic.ViewBackgroundAction#accept(Ljava/lang/Integer;)V

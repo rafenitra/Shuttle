@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.screens.folders.FolderFragment#updateMenuItems()V
-com.simplecity.amp_library.ui.screens.folders.FolderFragment#updateMenuItems(LMenu;)V
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#showWhitelist(Z)V

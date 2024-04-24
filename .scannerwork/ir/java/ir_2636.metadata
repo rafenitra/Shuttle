@@ -1,3 +1,2 @@
-com.afollestad.aesthetic.ActiveInactiveColors#create(II)Lcom/afollestad/aesthetic/ActiveInactiveColors;
-com.afollestad.aesthetic.ActiveInactiveColors#<init>(II)V
-com.afollestad.aesthetic.ActiveInactiveColors#instance-init#
+com.simplecity.amp_library.ui.screens.lyrics.QuickLyricUtils#getQuickLyricIntent()LIntent;
+null

@@ -1,1 +1,4 @@
-com.simplecity.amp_library.ui.widgets.WidgetFragmentModule#instance-init#
+com.simplecity.amp_library.ui.screens.widgets.WidgetFragment#newInstance(I)Lcom/simplecity/amp_library/ui/screens/widgets/WidgetFragment;
+null
+com.simplecity.amp_library.ui.screens.widgets.WidgetFragment#instance-init#
+com.simplecity.amp_library.ui.screens.widgets.WidgetFragment#<init>()V

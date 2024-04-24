@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.common.Presenter#addDisposable(LDisposable;)V
+com.simplecity.amp_library.ui.views.ThemedStatusBarView#<init>(LContext;)V

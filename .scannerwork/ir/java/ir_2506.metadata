@@ -1,1 +1,3 @@
-com.simplecity.amp_library.cast.CastManager#destroy()V
+com.afollestad.aesthetic.TintHelper#setTint(LCheckBox;IZ)V
+null
+com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;LColorStateList;)LDrawable;

@@ -1,5 +1,2 @@
-com.simplecity.amp_library.utils.FileHelper#isSymlink(Ljava/io/File;)Z
-java.lang.String#compareTo(Ljava/lang/String;)I
-==
-getAbsolutePath java.io.File#getAbsolutePath()Ljava/lang/String;
-getCanonicalPath java.io.File#getCanonicalPath()Ljava/lang/String;
+com.simplecity.amp_library.utils.FileHelper#deleteFile(Ljava/io/File;)Z
+com.simplecity.amp_library.utils.FileHelper#DeleteRecursive(Ljava/io/File;)Z

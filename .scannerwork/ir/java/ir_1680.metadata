@@ -1,1 +1,1 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#moveItem(II)V
+com.simplecity.amp_library.model.Song#getDurationLabel(LContext;)Ljava/lang/String;

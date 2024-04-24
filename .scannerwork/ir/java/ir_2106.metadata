@@ -1,3 +1,2 @@
-com.simplecity.amp_library.model.Artist#equals(Ljava/lang/Object;)Z
+com.simplecity.amp_library.ui.modelviews.SearchHeaderView#equals(Ljava/lang/Object;)Z
 java.lang.Object#getClass()Ljava/lang/Class;
-java.lang.String#equals(Ljava/lang/Object;)Z

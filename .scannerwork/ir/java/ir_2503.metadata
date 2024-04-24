@@ -1,1 +1,2 @@
-com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallback#<init>()V
+com.afollestad.aesthetic.TintHelper#setTint(LProgressBar;I)V
+com.afollestad.aesthetic.TintHelper#setTint(LRadioButton;IZ)V

@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#loadArtwork(LMusicService;[ILRemoteViews;I)V
-==
-loadArtwork com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#loadArtwork(LMusicService;LRemoteViews;ILcom/simplecity/amp_library/glide/utils/CustomAppWidgetTarget$CustomErrorListener;[I)V
+com.simplecity.amp_library.glide.preloader.RecyclerToListViewScrollListener#onScrolled(LRecyclerView;II)V
+java.lang.Math#abs(I)I

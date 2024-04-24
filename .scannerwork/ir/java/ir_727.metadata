@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.SettingsManager#setDefaultPageType(I)V
+com.simplecity.amp_library.utils.SettingsManager#getSearchAlbums()Z

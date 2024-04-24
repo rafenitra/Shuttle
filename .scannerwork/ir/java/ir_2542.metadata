@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.screens.drawer.DrawerParent#onClick()V
-==
-onClick com.simplecity.amp_library.ui.screens.drawer.DrawerParent$ClickListener#onClick(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerParent;)V
+com.simplecity.amp_library.ui.modelviews.GenreView#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;

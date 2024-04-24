@@ -1,2 +1,3 @@
-com.afollestad.aesthetic.AestheticCoordinatorLayout#invalidateColors()V
-com.afollestad.aesthetic.AestheticCoordinatorLayout#tintMenu(LAestheticToolbar;LMenu;LActiveInactiveColors;)V
+com.simplecity.amp_library.services.Equalizer#<init>(LContext;LSettingsManager;)V
+null
+com.simplecity.amp_library.services.Equalizer#saveDefaults()V

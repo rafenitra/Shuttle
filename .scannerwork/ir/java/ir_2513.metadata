@@ -1,3 +1,2 @@
-com.afollestad.aesthetic.TintHelper#setTint(LRadioButton;IZ)V
-null
-com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;LColorStateList;)LDrawable;
+com.simplecity.amp_library.ui.screens.drawer.DrawerParent#instance-init#
+java.util.ArrayList#<init>()V

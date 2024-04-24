@@ -1,1 +1,2 @@
-com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#instance-init#
+com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#findBackgroundColorAndFilter(LPalette;)I
+com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#isWhiteOrBlack([F)Z

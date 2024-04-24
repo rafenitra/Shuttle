@@ -1,1 +1,2 @@
-com.simplecity.amp_library.constants.Config#instance-init#
+com.afollestad.aesthetic.AestheticCardView#<init>(LContext;LAttributeSet;I)V
+com.afollestad.aesthetic.AestheticCardView#init(LContext;LAttributeSet;)V

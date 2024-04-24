@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.ColorIsDarkState#isDark()Z
+com.simplecity.amp_library.sql.legacy.BlacklistedSong#toString()Ljava/lang/String;
+java.lang.String#valueOf(J)Ljava/lang/String;

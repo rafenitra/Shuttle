@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;I)LDrawable;
+com.simplecity.amp_library.ui.screens.drawer.DrawerParent#getChildList()Ljava/util/List;

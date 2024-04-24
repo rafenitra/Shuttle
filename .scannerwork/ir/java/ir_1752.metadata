@@ -1,3 +1,2 @@
-com.simplecity.amp_library.services.Equalizer#releaseEffects()V
-==
-values java.util.Map#values()Ljava/util/Collection;
+com.simplecity.amp_library.ui.screens.search.JaroWinklerObject#<init>(Ljava/lang/Object;Ljava/lang/String;[Ljava/lang/String;)V
+java.lang.Math#max(DD)D

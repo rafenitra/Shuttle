@@ -1,3 +1,2 @@
-com.simplecity.amp_library.format.PrefixHighlighter#apply(Ljava/lang/CharSequence;[C)Ljava/lang/CharSequence;
+com.simplecity.amp_library.services.ArtworkDownloadService#instance-init#
 null
-com.simplecity.amp_library.format.PrefixHighlighter#indexOfWordPrefix(Ljava/lang/CharSequence;[C)I

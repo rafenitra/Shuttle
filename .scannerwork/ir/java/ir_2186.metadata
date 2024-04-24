@@ -1,2 +1,1 @@
-test.com.androidnavigation.fragment.BaseNavigationController#instance-init#
-java.util.ArrayList#<init>()V
+test.com.androidnavigation.fragment.BaseNavigationController#popToRootViewController()V

@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.AlbumArtistView#onItemLongClick(I)Z
-==
-onAlbumArtistLongClick com.simplecity.amp_library.ui.modelviews.AlbumArtistView$ClickListener#onAlbumArtistLongClick(ILcom/simplecity/amp_library/ui/modelviews/AlbumArtistView;)Z
+com.simplecity.amp_library.ui.settings.SettingsPresenter#<init>(LShuttleApplication;LBillingManager;LAnalyticsManager;LSettingsManager;)V

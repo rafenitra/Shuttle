@@ -1,2 +1,1 @@
-com.simplecity.amp_library.format.PrefixHighlighter#setText(LTextView;Ljava/lang/String;[C)V
-com.simplecity.amp_library.format.PrefixHighlighter#apply(Ljava/lang/CharSequence;[C)Ljava/lang/CharSequence;
+com.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior#onInterceptTouchEvent(LCoordinatorLayout;LView;LMotionEvent;)Z

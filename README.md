@@ -1,3 +1,7 @@
+
+sonar-scanner.bat -D"sonar.organization=epsi-rafanomezantsoa-ary" -D"sonar.projectKey=epsi-rafanomezantsoa-ary_tp-epsi-rafanomezanrsoa-ary"  -D"sonar.sources=." -D"sonar.host.url=https://sonarcloud.io/"  -D"sonar.java.binaries=."
+
+
 ### Shuttle Music Player
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE.md)

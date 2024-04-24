@@ -1,1 +1,2 @@
-com.simplecity.multisheetview.ui.view.MultiSheetView#instance-init#
+com.simplecity.amp_library.sql.legacy.BlacklistedSong#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;

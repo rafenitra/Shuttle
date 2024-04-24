@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.SubheaderView#areContentsEqual(Ljava/lang/Object;)Z
-java.lang.String#equals(Ljava/lang/Object;)Z
+com.afollestad.aesthetic.AestheticViewPager#<init>(LContext;)V

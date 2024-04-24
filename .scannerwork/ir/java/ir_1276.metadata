@@ -1,2 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.PlaylistView#equals(Ljava/lang/Object;)Z
-java.lang.Object#getClass()Ljava/lang/Class;
+com.simplecity.amp_library.ui.screens.main.LibraryController#instance-init#
+null

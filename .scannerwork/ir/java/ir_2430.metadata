@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.menu.MenuUtils#blacklist(LRepository/BlacklistRepository;LSingle;)V
+com.afollestad.aesthetic.AestheticSeekBar#onAttachedToWindow()V
+java.lang.String#equals(Ljava/lang/Object;)Z

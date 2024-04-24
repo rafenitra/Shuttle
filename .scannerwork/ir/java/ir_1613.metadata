@@ -1,1 +1,4 @@
-com.afollestad.aesthetic.AestheticDrawerLayout#onAttachedToWindow()V
+com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#removeMiniPlayerLock(Lcom/simplecity/amp_library/ui/screens/drawer/MiniPlayerLockManager$MiniPlayerLock;)V
+==
+contains java.util.List#contains(Ljava/lang/Object;)Z
+remove java.util.List#remove(Ljava/lang/Object;)Z

@@ -1,2 +1,2 @@
-com.simplecity.amp_library.utils.sorting.SortManager#setGenreDetailSongsAscending(Z)V
-com.simplecity.amp_library.utils.sorting.SortManager#setAscending(Ljava/lang/String;Z)V
+com.simplecity.amp_library.utils.sorting.SortManager#sortAlbumArtists(Ljava/util/List;)V
+java.util.Collections#sort(Ljava/util/List;Ljava/util/Comparator;)V

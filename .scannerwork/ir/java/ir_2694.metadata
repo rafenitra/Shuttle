@@ -1,1 +1,4 @@
-com.simplecity.amp_library.model.CategoryItem#isEnabledByDefault()Z
+com.github.florent37.glidepalette.BitmapPalette#crossfade(ZI)Lcom/github/florent37/glidepalette/BitmapPalette;
+com.github.florent37.glidepalette.BitmapPalette#assertTargetsIsNotEmpty()V
+==
+crossfade com.github.florent37.glidepalette.BitmapPalette#crossfade(Z)Lcom/github/florent37/glidepalette/BitmapPalette;

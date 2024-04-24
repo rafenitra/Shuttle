@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.widgets.WidgetProviderMedium#getLayoutIdString()Ljava/lang/String;
+com.simplecity.amp_library.model.InclExclItem#hashCode()I
+java.lang.String#hashCode()I

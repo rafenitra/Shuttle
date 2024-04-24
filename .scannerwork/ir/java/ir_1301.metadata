@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.screens.main.LibraryController#onAlbumArtistClicked(LAlbumArtist;LView;)V
-==
-pushDetailFragment com.simplecity.amp_library.ui.screens.main.LibraryController#pushDetailFragment(LFragment;LView;)V
+com.simplecity.amp_library.ui.screens.main.MainController#onResume()V
+null

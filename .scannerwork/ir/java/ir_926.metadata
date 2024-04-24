@@ -1,1 +1,3 @@
-com.simplecity.amp_library.glide.palette.ColorSetTranscoder#instance-init#
+com.simplecity.amp_library.playback.MusicService#onTaskRemoved(LIntent;)V
+==
+isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z

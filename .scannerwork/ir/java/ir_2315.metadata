@@ -1,4 +1,1 @@
-com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#processBitmap(LBitmap;)LPair;
-null
-com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#findBackgroundColorAndFilter(LPalette;)I
-com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#selectForegroundColor(ILPalette;)I
+com.afollestad.aesthetic.AestheticButton#instance-init#

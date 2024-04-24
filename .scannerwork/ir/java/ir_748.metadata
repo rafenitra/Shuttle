@@ -1,1 +1,3 @@
-com.afollestad.aesthetic.TabLayoutIndicatorMode#<init>()V
+com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView#createViewHolder(LViewGroup;)Lcom/simplecity/amp_library/ui/modelviews/SuggestedHeaderView$ViewHolder;
+com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView$ViewHolder#instance-init#
+com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView$ViewHolder#<init>(LView;)V

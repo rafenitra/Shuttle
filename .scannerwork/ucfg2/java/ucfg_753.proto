@@ -1,112 +1,20 @@
 
-[com.afollestad.aesthetic.Aesthetic#colorStatusBarAuto()Lcom/afollestad/aesthetic/Aesthetic;s
-g/D:/EPSI/Analyse Code/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaê ê(%"1*»
+`com.afollestad.aesthetic.Aesthetic#colorIconTitleInactive(I)Lcom/afollestad/aesthetic/Aesthetic;s
+g/D:/EPSI/Analyse Code/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java¾ ¾()"1*®
 1
-ë ë( a
-_
+¿ ¿(
+g
+e
 
-ë( ë(<
-%0java.lang.String"__id*3
+¿ ¿(/
+%0java.lang.String"__id*9
 
-__unknown_file (
-status_bar_color_%sÂ
-¿
+__unknown_file (
+icon_title_inactive_color"4
 
-ë> ë(J
-%1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
+À À(&$
+"com.afollestad.aesthetic.Aesthetic: 
 
-__unknown_file (&"$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""ó
-ð
-
-ë ë(K
-%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*4
-
-__unknown_file (
-
-%0java.lang.String*"
-
-__unknown_file (
-
-%1Z
-X
-
-ë ë(L 
-statusBarKeyjava.lang.String"__id*"
-
-__unknown_file (
-
-%2^
-\
-
-ì+ ì(<
-%3java.lang.String"__id*0
-
-__unknown_file (
-primary_color_%sÂ
-¿
-
-ì> ì(J
-%4"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
-
-__unknown_file (&"$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""ó
-ð
-
-ì ì(K
-%5"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*4
-
-__unknown_file (
-
-%3java.lang.String*"
-
-__unknown_file (
-
-%4]
-[
-
-ì ì(L#
-primaryColorKeyjava.lang.String"__id*"
-
-__unknown_file (
-
-%5Õ
-Ò
-
-ð* ð(T
-%6"7com.afollestad.aesthetic.Util#resolveColor(LContext;I)I*=
-
-__unknown_file (!"
-com.afollestad.aesthetic.Util*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""§
-¤
-
-ï ð(V
-%7"-com.afollestad.aesthetic.Util#darkenColor(I)I*=
-
-__unknown_file (!"
-com.afollestad.aesthetic.Util*"
-
-__unknown_file (
-"""4
-
-ñ ñ(&$
-"com.afollestad.aesthetic.AestheticB&$
+__unknown_file (
+""B&$
 "com.afollestad.aesthetic.AestheticH

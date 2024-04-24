@@ -1,2 +1,1 @@
-com.simplecity.amp_library.saf.SafManager#openDocumentTreePicker(LActivity;)V
-null
+com.simplecity.amp_library.playback.PlaybackManager#removeQueueItem(LQueueItem;)V

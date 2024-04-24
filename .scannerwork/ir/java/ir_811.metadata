@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MediaManager#getRepeatMode()I
+com.simplecity.amp_library.playback.MediaManager#cycleRepeat()V

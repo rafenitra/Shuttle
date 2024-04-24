@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.sorting.SortManager#getGenreDetailAlbumsAscending()Z
+com.afollestad.aesthetic.Util#setInflaterFactory(LLayoutInflater;)V
+null

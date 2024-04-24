@@ -173,7 +173,7 @@ public class SnowfallView extends View {
             final float startX = lerp(0f, (float) getWidth(), snowRng.nextFloat());
             float startY = lerp(0f, (float) getHeight(), snowRng.nextFloat());
             startY -= (float) getHeight() - size;
-            final int alpha = (int) lerp((float) MIN_ALPHA, (float) MAX_ALPHA, snowRng.nextFloat());
+            final int alpha = (int) lerp((float) MIN_ALPHA, (float) MAX_ALPHA, snowRng.nextInt());
             snowflakes.add(new Snowflake(startX, startY, velX, velY, size, alpha));
         }
         invalidate();
@@ -213,11 +213,13 @@ public class SnowfallView extends View {
         }
 
         float snowX() {
-            return snowX += velX;
+            snowX += velX;
+            return snowX;
         }
 
         float snowY() {
-            return snowY += velY;
+            snowY += velY;
+            return snowY;
         }
 
         void reset() {

@@ -1,3 +1,1 @@
-com.simplecity.amp_library.utils.AnalyticsManager#logRateClicked()V
-null
-com.simplecity.amp_library.utils.AnalyticsManager#analyticsEnabled()Z
+com.simplecity.amp_library.ui.modelviews.SubheaderView#getViewType()I

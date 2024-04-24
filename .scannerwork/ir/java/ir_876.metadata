@@ -1,1 +1,3 @@
-com.jp.wasabeef.glide.transformations.GrayscaleTransformation#getId()Ljava/lang/String;
+com.jp.wasabeef.glide.transformations.BlurTransformation#<init>(LContext;LBitmapPool;I)V
+==
+<init> com.jp.wasabeef.glide.transformations.BlurTransformation#<init>(LContext;LBitmapPool;II)V

@@ -1,2 +1,3 @@
-com.simplecity.amp_library.utils.PermissionUtils#RequestStoragePermissions(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;)V
-com.simplecity.amp_library.utils.PermissionUtils#simplePermissionRequest(Lcom/simplecity/amp_library/utils/PermissionUtils$PermissionCallback;[Ljava/lang/String;)V
+com.afollestad.aesthetic.Aesthetic#isFirstTime(LAppCompatActivity;)Z
+com.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

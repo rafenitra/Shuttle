@@ -1,2 +1,2 @@
-com.simplecity.amp_library.ui.screens.folders.FolderFragment#onCreate(LBundle;)V
-null
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#changeDir(Ljava/io/File;)V
+java.util.Collections#emptyList()Ljava/util/List;

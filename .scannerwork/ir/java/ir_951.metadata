@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MusicService#play()V
+com.simplecity.amp_library.playback.MusicService#getShuffleMode()I

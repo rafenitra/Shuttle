@@ -1,1 +1,2 @@
-com.simplecity.amp_library.glide.fetcher.FolderFetcher#instance-init#
+com.afollestad.aesthetic.Util#resolveColor(LContext;I)I
+com.afollestad.aesthetic.Util#resolveColor(LContext;II)I

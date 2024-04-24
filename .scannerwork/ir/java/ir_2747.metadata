@@ -1,2 +1,1 @@
-com.simplecity.amp_library.utils.ContextualToolbarHelper#instance-init#
-java.util.LinkedHashMap#<init>(I)V
+com.afollestad.aesthetic.AestheticViewPager#<init>(LContext;LAttributeSet;)V

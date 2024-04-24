@@ -1,2 +1,2 @@
-com.afollestad.aesthetic.TintHelper#getDisabledColorStateList(II)LColorStateList;
-null
+com.afollestad.aesthetic.TintHelper#setTint(LSwitchCompat;IZ)V
+com.afollestad.aesthetic.TintHelper#modifySwitchDrawable(LContext;LDrawable;IZZZ)LDrawable;

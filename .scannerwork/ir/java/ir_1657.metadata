@@ -1,1 +1,4 @@
-com.simplecity.amp_library.ui.screens.main.MainActivity#getDrawerLayout()LDrawerLayout;
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#onBindViewHolder(LRecyclerView/ViewHolder;ILjava/util/List;)V
+==
+onBindViewHolder com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#onBindViewHolder(LRecyclerView/ViewHolder;I)V
+isEmpty java.util.List#isEmpty()Z

@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.Util#setNavBarColorCompat(LAppCompatActivity;I)V
+com.afollestad.aesthetic.Util#getRootView(LActivity;)LViewGroup;

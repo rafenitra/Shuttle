@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.screens.artist.detail.ArtistsDetailFragmentModule#instance-init#
+com.simplecity.amp_library.model.ArtworkModel#hashCode()I
+==
+hashCode java.io.File#hashCode()I

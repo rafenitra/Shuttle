@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#<init>()V
+com.afollestad.aesthetic.AestheticTextInputEditText#onAttachedToWindow()V
+null
+com.afollestad.aesthetic.ViewHintTextColorAction#create(LTextView;)Lcom/afollestad/aesthetic/ViewHintTextColorAction;

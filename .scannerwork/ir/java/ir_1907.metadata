@@ -1,1 +1,1 @@
-com.simplecity.amp_library.glide.utils.WrappingViewAdapter#getCurrentDrawable()LDrawable;
+com.simplecity.amp_library.ui.views.recyclerview.ItemTouchHelperCallback#setEnabled(Z)V

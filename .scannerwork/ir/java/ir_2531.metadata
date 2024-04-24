@@ -1,3 +1,4 @@
-com.simplecity.amp_library.ui.screens.drawer.DrawerParent#getSupportParent(LSettingsManager;)Lcom/simplecity/amp_library/ui/screens/drawer/DrawerParent;
-com.simplecity.amp_library.ui.screens.drawer.DrawerParent#<init>(IIILNavigationEventRelay/NavigationEvent;ZLSettingsManager;)V
-com.simplecity.amp_library.ui.screens.drawer.DrawerParent#instance-init#
+com.simplecity.amp_library.ui.screens.drawer.DrawerParent#bindView(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerParent$ParentHolder;)V
+==
+bind com.simplecity.amp_library.ui.screens.drawer.DrawerParent$ParentHolder#bind(Lcom/simplecity/amp_library/ui/screens/drawer/DrawerParent;)V
+getChildList com.simplecity.amp_library.ui.screens.drawer.DrawerParent#getChildList()Ljava/util/List;

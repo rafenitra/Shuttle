@@ -1,4 +1,1 @@
-com.simplecity.amp_library.ShuttleApplication#onCreate()V
-null
-==
-setLevel java.util.logging.Logger#setLevel(Ljava/util/logging/Level;)V
+com.simplecity.amp_library.ui.screens.main.MainActivityModule#provideBillingUpdatesListener(LMainActivity;)LBillingManager/BillingUpdatesListener;

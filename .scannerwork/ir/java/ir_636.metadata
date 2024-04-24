@@ -1,6 +1,3 @@
-android.support.design.widget.CustomCollapsingTextHelper#ensureExpandedTexture()V
-null
-java.lang.Math#round(F)I
-android.support.design.widget.CustomCollapsingTextHelper#calculateOffsets(F)V
+android.support.design.widget.CustomCollapsingTextHelper#drawText(LCanvas;FF)V
 ==
 length java.lang.CharSequence#length()I

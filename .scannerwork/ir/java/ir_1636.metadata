@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.ArtworkView#onClick()V
-==
-onClick com.simplecity.amp_library.ui.modelviews.ArtworkView$ClickListener#onClick(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView;)V
+com.simplecity.amp_library.ui.screens.main.MainActivity#handlePendingPlaybackRequest()V
+com.simplecity.amp_library.ui.screens.main.MainActivity#handlePlaybackRequest(LIntent;)V

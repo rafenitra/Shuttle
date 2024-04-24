@@ -1,19 +1,12 @@
 
-àcom.simplecity.amp_library.saf.SafManager$SafDialog#getListener()Lcom/simplecity/amp_library/saf/SafManager$SafDialog$SafResultListener;j
-^/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/saf/SafManager.javaé" é(-"1"2"4*%
-2
-í+ í(6"
-
-í í(9
-""*%
-4
-ê+ ê(<"
-
-ê ê(?
-""*%
+Gcom.simplecity.amp_library.playback.PlaybackManager#getNextPosition(Z)It
+h/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/playback/PlaybackManager.java⁄ ⁄("1*%
 1
-î î("
+€ €("
 
-î î(
+€ €(3
+"": 
+
+__unknown_file (
 ""B75
-3com.simplecity.amp_library.saf.SafManager$SafDialog
+3com.simplecity.amp_library.playback.PlaybackManagerX

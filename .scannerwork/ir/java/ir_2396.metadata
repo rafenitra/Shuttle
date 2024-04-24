@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.AestheticRadioButton#invalidateColors(LColorIsDarkState;)V
-com.afollestad.aesthetic.TintHelper#setTint(LRadioButton;IZ)V
+com.jp.wasabeef.glide.transformations.CropTransformation#getTop(F)F

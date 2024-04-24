@@ -1,4 +1,1 @@
-com.simplecity.amp_library.ui.settings.SupportPresenter#faqClicked()V
-null
-==
-getView com.simplecity.amp_library.ui.common.Presenter#getView()Ljava/lang/Object;
+com.afollestad.aesthetic.AestheticNavigationView#<init>(LContext;LAttributeSet;I)V

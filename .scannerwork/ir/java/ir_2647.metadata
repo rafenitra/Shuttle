@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.screens.lyrics.QuickLyricUtils#getLyricsFor(LContext;LSong;)V
-null
+com.simplecity.amp_library.ui.screens.equalizer.EqualizerFragment#onDestroyView()V

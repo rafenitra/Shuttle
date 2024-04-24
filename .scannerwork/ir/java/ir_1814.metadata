@@ -1,1 +1,1 @@
-com.simplecity.amp_library.saf.SafManager#getDocumentTree()Ljava/lang/String;
+com.simplecity.amp_library.playback.PlaybackManager#removeSongs(Ljava/util/List;)V

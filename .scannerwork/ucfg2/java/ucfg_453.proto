@@ -1,149 +1,7 @@
 
-Xcom.simplecity.amp_library.ui.modelviews.SuggestedHeaderView#equals(Ljava/lang/Object;)Z{
-q/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SuggestedHeaderView.java` `("startingBlock*Ý
-2fX f(\Š
-‡
-fX f(t
-%8"	__compare*"
-
-__unknown_file (
-==*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""<
-:
-fX f(t
-%6"__id*"
-
-__unknown_file (
-
-%8*
-1*P
-3f) f(8<
-:
-f) f(U
-%6"__id*"
-
-__unknown_file (
-
-%7*
-1*€
-startingBlock` `(#ˆ
-…
-_ _(
-%9"
-__annotate*2
-
-__unknown_file (
-java.lang.Override*3
-
-__unknown_file (
-
-ojava.lang.ObjectU
-S
-`! `("
-ojava.lang.Object"__annotation*"
-
-__unknown_file (
-
-%9*
-9*³
-4d9 d(:Ž
-‹
-d d(;D
-that<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView"__id*3
-
-__unknown_file (
-
-ojava.lang.ObjectŠ
-‡
-f f(&
-%5"	__compare*"
-
-__unknown_file (
-!=*"
-
-__unknown_file (
-""*"
-
-__unknown_file (
-""*
-2
-3*!
-5b< b(A"
-b5 b(B
-""*¢
-6b b(!¼¹
-b b(#
-%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*\
-
-__unknown_file (@>
-<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView2
-getClass()“
-b' b(3
-%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
-
-__unknown_file (
-
-ojava.lang.Object2
-getClass()µ
-²
-b b(3
-%4boolean"	__compare*"
-
-__unknown_file (
-!=*3
-
-__unknown_file (
-
-%2java.lang.Class*3
-
-__unknown_file (
-
-%3java.lang.Class*
-4
-5*¼
-7b b(¤
-¡
-b b(
-%1boolean"	__compare*"
-
-__unknown_file (
-==*3
-
-__unknown_file (
-
-ojava.lang.Object*"
-
-__unknown_file (
-""*
-5
-6*!
-8a a(""
-a a(#
-""*ö
-9a a(Þ
-Û
-a a(
-%0boolean"	__compare*"
-
-__unknown_file (
-==*\
-
-__unknown_file (@>
-<com.simplecity.amp_library.ui.modelviews.SuggestedHeaderView*3
-
-__unknown_file (
-
-ojava.lang.Object*
-7
-8*!
-1f f(u"
-f f(u
-"":!
-` `("
-ojava.lang.ObjectB@>
+Ncom.simplecity.amp_library.ui.modelviews.SuggestedHeaderView#getLayoutResId()I{
+q/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SuggestedHeaderView.java. .("1*!
+1/ /("
+/ /()
+""B@>
 <com.simplecity.amp_library.ui.modelviews.SuggestedHeaderViewHX

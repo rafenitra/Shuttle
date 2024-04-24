@@ -1,7 +1,70 @@
 
-mcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge#getUpdateCommandString()Ljava/lang/String;Å
-w/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityLarge.java (!"1*!
-1 (""
- (6
-""BFD
-Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityLarge
+acom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#areContentsTheSame(II)Zï
+à/D:/EPSI/Analyse Code/Shuttle/libraries/recycler-adapter/src/main/java/com/simplecityapps/recycler_adapter/adapter/ViewModelAdapter.javaä ä()"3*%
+2
+ê- ê(4"
+
+ê ê(P
+""*œ
+3
+å å('∞≠
+
+å å(8
+%0java.lang.Object"icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getOldItem(I)Ljava/lang/Object;*i
+
+__unknown_file (MK
+Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
+
+__unknown_file (
+""2getOldItem(I)g
+e
+
+å å(9
+oldItemjava.lang.Object"__id*4
+
+__unknown_file (
+
+%0java.lang.Object∞≠
+
+ç ç(8
+%1java.lang.Object"icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#getNewItem(I)Ljava/lang/Object;*i
+
+__unknown_file (MK
+Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
+
+__unknown_file (
+""2getNewItem(I)g
+e
+
+ç ç(9
+newItemjava.lang.Object"__id*4
+
+__unknown_file (
+
+%1java.lang.Object*
+2
+1*Ó
+1
+í í(&∆√
+
+í í(H
+%2boolean"^com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback#areItemsTheSame(II)Z*i
+
+__unknown_file (MK
+Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallback*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""2areItemsTheSame(II)"
+
+í í(I
+"": 
+
+__unknown_file (
+"": 
+
+__unknown_file (
+""BMK
+Icom.simplecityapps.recycler_adapter.adapter.ViewModelAdapter$DiffCallbackHX

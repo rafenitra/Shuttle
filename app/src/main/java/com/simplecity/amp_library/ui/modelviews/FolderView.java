@@ -341,9 +341,6 @@ public class FolderView extends BaseSelectableViewModel<FolderView.ViewHolder> {
         if (this == other) return true;
         if (other == null || getClass() != other.getClass()) return false;
         if (!super.areContentsEqual(other)) return false;
-
-        if (!baseFileObject.equals(((FolderView) other).baseFileObject)) return false;
-        //        if (isSelected() != ((FolderView) other).isSelected()) return false;
-        return true;
+        return baseFileObject.equals(((FolderView) other).baseFileObject);
     }
 }

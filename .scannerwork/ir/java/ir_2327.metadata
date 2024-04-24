@@ -1,1 +1,2 @@
-com.afollestad.aesthetic.AestheticButton#instance-init#
+com.simplecity.amp_library.playback.QueueManager#instance-init#
+java.util.ArrayList#<init>()V

@@ -1,1 +1,2 @@
-com.simplecity.amp_library.playback.MusicService#removeQueueItem(LQueueItem;)V
+com.simplecity.amp_library.playback.MusicService#getPebbleIntent(LSong;)LIntent;
+null

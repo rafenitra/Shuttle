@@ -224,6 +224,7 @@ public class EqualizerFragment extends BaseFragment implements
 
             @Override
             public void onNothingSelected(AdapterView<?> parent) {
+                throw new UnsupportedOperationException("notImplemented() cannot be performed because ...");
             }
         });
 
@@ -239,7 +240,7 @@ public class EqualizerFragment extends BaseFragment implements
 
         for (int band = 0; band < numberEqualizerBands; band++) {
             //Unit conversion from mHz to Hz and use k prefix if necessary to display
-            float centerFreqHz = centerFreqs[band] / 1000;
+            float centerFreqHz = (float) centerFreqs[band] / 1000;
             String unitPrefix = "";
             if (centerFreqHz >= 1000) {
                 centerFreqHz = centerFreqHz / 1000;
@@ -280,7 +281,7 @@ public class EqualizerFragment extends BaseFragment implements
 
                 @Override
                 public void onStartTrackingTouch(SeekBar seekBar) {
-
+                    //it will be implemented
                 }
 
                 @Override

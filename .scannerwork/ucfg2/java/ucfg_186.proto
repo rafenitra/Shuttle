@@ -1,21 +1,21 @@
 
 Kcom.simplecity.amp_library.utils.color.ColorHelper#findContrastColor(IIZD)Iq
-g/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java= =(("20"21*\
-13E1 E(3F
+g/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.java? ?(("20"21*\
+13G1 G(3F
 D
-E1 E(3	
+G1 G(3	
 %8int"__id*'
 
 __unknown_file (
 	
 %9int*
 11*"
-15A A("
-A A(
+15C C("
+C C(
 ""*é
-16? ?((¬
+16A A((¬
 ©
-@ @(:
+B B(:
 %6double"^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateContrast(II)D*g
 
 __unknown_file (K"I
@@ -27,7 +27,7 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 __unknown_file (
 ""›
 ˜
-@ @(F
+B B(F
 %7boolean"	__compare*"
 
 __unknown_file (
@@ -42,27 +42,27 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 13
 15
 12*\
-17?" ?('F
+17A" A('F
 D
-?" ?('	
+A" A('	
 %3int"__id*'
 
 __unknown_file (
 	
 %5int*
 16*\
-18? ?(F
+18A A(F
 D
-? ?(	
+A A(	
 %3int"__id*'
 
 __unknown_file (
 	
 %4int*
 16*ì
-1V V(#È
+1X X(#È
 Å
-V V(9
+X X(9
 
 %18int"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#LABToColor(DDD)I*g
 
@@ -77,11 +77,11 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 
 __unknown_file (
 """
-V V(:
+X X(:
 ""*â
-5P P($­
+5R R($­
 ª
-P P(>
+R R(>
 %16double"^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateContrast(II)D*g
 
 __unknown_file (K"I
@@ -93,7 +93,7 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 __unknown_file (
 ""œ
 ™
-P P(I
+R R(I
 %17boolean"	__compare*!
 
 __unknown_file (
@@ -106,9 +106,9 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 __unknown_file (
 ""*
 10*Ý
-6N N()È
+6P P()È
 Å
-N N(=
+P P(=
 
 %15int"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#LABToColor(DDD)I*g
 
@@ -124,9 +124,9 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 __unknown_file (
 ""*
 5*Ý
-7L L()È
+7N N()È
 Å
-L L(=
+N N(=
 
 %14int"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#LABToColor(DDD)I*g
 
@@ -142,9 +142,9 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 __unknown_file (
 ""*
 5*®
-9I" I(&“
+9K" K(&“
 
-I" I(6
+K" K(6
 %13boolean"	__compare*!
 
 __unknown_file (
@@ -158,9 +158,9 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 6
 7
 1*`
-20>" >('F
+20@" @('F
 D
->" >('	
+@" @('	
 %0int"__id*'
 
 __unknown_file (
@@ -168,9 +168,9 @@ D
 %2int*
 17
 18*`
-21> >(F
+21@ @(F
 D
-> >(	
+@ @(	
 %0int"__id*'
 
 __unknown_file (
@@ -178,9 +178,9 @@ D
 %1int*
 17
 18*ª
-10I I(‘
+10K K(‘
 Ž
-I I(
+K K(
 %12boolean"	__compare*!
 
 __unknown_file (
@@ -192,9 +192,9 @@ D
 __unknown_file (2*
 9
 1*Á
-11E: E(=ª
+11G: G(=ª
 §
-E E(>
+G G(>
 %11void"Xcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#colorToLAB(I[D)V*g
 
 __unknown_file (K"I
@@ -207,9 +207,9 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*'
 __unknown_file (
 ""*
 10*]
-12E6 E(8G
+12G6 G(8G
 E
-E6 E(8	
+G6 G(8	
 %8int"__id*(
 
 __unknown_file (

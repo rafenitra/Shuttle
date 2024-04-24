@@ -1,16 +1,62 @@
 
-Vcom.simplecity.amp_library.utils.sorting.SortManager#getArtistDetailAlbumsAscending()Zu
-i/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/sorting/SortManager.java¸ ¸(1"1*w
-1
-¹ ¹(P
-N
-
-¹! ¹(=
-%0java.lang.String"__id*"
+Acom.simplecity.amp_library.sql.legacy.WhitelistFolder#hashCode()It
+j/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/sql/legacy/WhitelistFolder.java ("4*Z
+2E (FF
+D
+E (F	
+%2int"__id*'
+
+__unknown_file (
+	
+%4int*
+1*ä
+31 (7Ž
+‹
+1 (7
+%5java.lang.String"__id*a
+
+__unknown_file (E*C7
+5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
+folderwu
+1 (B	
+%3int"java.lang.String#hashCode()I*4
+
+__unknown_file (
+
+%5java.lang.String2
+hashCode()F
+D
+1 (B	
+%2int"__id*'
+
+__unknown_file (
+	
+%3int*
+1*Î
+4 (Ž
+‹
+  (&
+%0java.lang.String"__id*a
+
+__unknown_file (E*C7
+5com.simplecity.amp_library.sql.legacy.WhitelistFolder"
+folder¥
+¢
+  (.
+%1boolean"	__compare*"
 
 __unknown_file (
-"""
-
-¹ ¹(E
-""B86
-4com.simplecity.amp_library.utils.sorting.SortManagerHX
+!=*4
+
+__unknown_file (
+
+%0java.lang.String*"
+
+__unknown_file (
+""*
+2
+3*!
+1 (G"
+ (
+""B97
+5com.simplecity.amp_library.sql.legacy.WhitelistFolderHX

@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.FolderView#setBlacklisted(LRepository/BlacklistRepository;Z)V
-null
+com.afollestad.aesthetic.AestheticActionMenuItemView#<init>(LContext;LAttributeSet;I)V

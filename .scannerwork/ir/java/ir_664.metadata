@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.SettingsManager#setArtistDisplayType(I)V
+com.afollestad.aesthetic.AestheticSpinner#onDetachedFromWindow()V

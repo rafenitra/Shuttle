@@ -1,2 +1,5 @@
-com.simplecity.amp_library.model.Song#setArtworkKey()V
-java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+com.simplecity.amp_library.ui.views.SnowfallView#letItSnow(LAnalyticsManager;)V
+com.simplecity.amp_library.ui.views.SnowfallView#fetchSnowConfig(LAnalyticsManager;)V
+==
+isEmpty java.util.List#isEmpty()Z
+nextFloat java.util.Random#nextFloat()F

@@ -1,16 +1,16 @@
 
-?com.simplecity.amp_library.utils.SettingsManager#cropArtwork()Zq
-e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÜ Ü("1*†
+Fcom.simplecity.amp_library.utils.SettingsManager#showArtworkInQueue()Zq
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaÐ Ð(%"1*‡
 1
-Ý Ý(_
-]
+Ñ Ñ(`
+^
 
-Ý Ý('
-%0java.lang.String"__id*1
+Ñ Ñ((
+%0java.lang.String"__id*2
 
-__unknown_file (
-pref_crop_artwork"
+__unknown_file (
+pref_artwork_queue"
 
-Ý Ý(0
+Ñ Ñ(0
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

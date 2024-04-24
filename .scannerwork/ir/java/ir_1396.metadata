@@ -1,4 +1,2 @@
-com.afollestad.aesthetic.Util#setTaskDescriptionColor(LActivity;I)V
-null
-com.afollestad.aesthetic.Util#stripAlpha(I)I
-com.afollestad.aesthetic.Util#getAppIcon(LPackageManager;Ljava/lang/String;)LBitmap;
+com.simplecity.amp_library.model.TagUpdate#softSetTitle(Ljava/lang/String;)V
+java.lang.String#equals(Ljava/lang/Object;)Z

@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.EdgeGlowUtil#invalidateRecyclerViewFields()V
-java.lang.reflect.Field#setAccessible(Z)V
-java.lang.reflect.Field#getName()Ljava/lang/String;
+com.simplecity.amp_library.ShuttleApplication#cleanGenres()LCompletable;

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.ContextualToolbar#show()V
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#onCreateOptionsMenu(LMenu;LMenuInflater;)V

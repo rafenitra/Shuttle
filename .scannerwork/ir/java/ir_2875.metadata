@@ -1,1 +1,4 @@
-com.simplecityapps.recycler_adapter.recyclerview.ChildAttachStateChangeListener#instance-init#
+com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#onResume()V
+com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#getAestheticColorSetDisposable()LObservable;
+==
+update com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#update()V

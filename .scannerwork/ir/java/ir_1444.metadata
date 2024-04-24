@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.FavoriteActionBarView#invalidateColors(LBgIconColorState;)V
+com.simplecity.amp_library.ui.modelviews.BreadcrumbsView#<init>(Ljava/lang/String;)V

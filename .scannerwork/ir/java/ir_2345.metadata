@@ -1,7 +1,4 @@
-com.simplecity.amp_library.playback.QueueManager#setShuffleMode(I)V
-com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
-com.simplecity.amp_library.playback.QueueManager#notifyShuffleChanged()V
+com.simplecity.amp_library.playback.QueueManager#onCurrentSongRemoved(LUnsafeAction;LUnsafeAction;)V
+com.simplecity.amp_library.playback.QueueManager#notifyMetaChanged()V
 ==
 getCurrentPlaylist com.simplecity.amp_library.playback.QueueManager#getCurrentPlaylist()Ljava/util/List;
-saveQueue com.simplecity.amp_library.playback.QueueManager#saveQueue(Z)V
-makeShuffleList com.simplecity.amp_library.playback.QueueManager#makeShuffleList()V

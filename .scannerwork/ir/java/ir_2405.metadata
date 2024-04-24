@@ -1,1 +1,2 @@
-com.jp.wasabeef.glide.transformations.CropTransformation#<init>(LBitmapPool;IILcom/jp/wasabeef/glide/transformations/CropTransformation$CropType;)V
+com.simplecity.amp_library.ui.modelviews.DiscNumberView#equals(Ljava/lang/Object;)Z
+java.lang.Object#getClass()Ljava/lang/Class;

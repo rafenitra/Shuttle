@@ -1,1 +1,3 @@
-com.afollestad.aesthetic.AestheticCardView#instance-init#
+com.simplecity.amp_library.services.Equalizer#release()V
+==
+releaseEffects com.simplecity.amp_library.services.Equalizer#releaseEffects()V

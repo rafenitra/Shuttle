@@ -1,1 +1,3 @@
-com.simplecity.amp_library.glide.fetcher.MultiFetcher#getCustomArtworkSuffix(LContext;)Ljava/lang/String;
+com.simplecity.amp_library.ui.settings.SettingsParentFragment#onResume()V
+==
+onResume test.com.androidnavigation.fragment.BaseNavigationController#onResume()V

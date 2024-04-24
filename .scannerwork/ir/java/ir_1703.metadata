@@ -1,2 +1,1 @@
-com.simplecity.amp_library.model.Song#equals(Ljava/lang/Object;)Z
-java.lang.Object#getClass()Ljava/lang/Class;
+com.simplecity.amp_library.http.lastfm.LastFmResult#<init>()V

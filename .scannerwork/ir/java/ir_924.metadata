@@ -1,2 +1,2 @@
-com.afollestad.aesthetic.AestheticTextView#onAttachedToWindow()V
-com.afollestad.aesthetic.ViewUtil#getObservableForResId(LContext;ILObservable;)LObservable;
+com.simplecity.amp_library.playback.MusicService#onRebind(LIntent;)V
+com.simplecity.amp_library.playback.MusicService#cancelShutdown()V

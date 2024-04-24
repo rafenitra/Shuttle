@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.common.BaseActivity#onDestroy()V
-==
-unbindService com.simplecity.amp_library.ui.common.BaseActivity#unbindService()V
+com.afollestad.aesthetic.Rx#instance-init#

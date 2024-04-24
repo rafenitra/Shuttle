@@ -1,1 +1,12 @@
-com.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#screenName()Ljava/lang/String;
+com.simplecity.amp_library.androidauto.PackageValidator#isCallerAllowed(LContext;Ljava/lang/String;I)Z
+java.lang.StringBuilder#instance-init#
+com.simplecity.amp_library.androidauto.PackageValidator#isPlatformSigned(LContext;Ljava/lang/String;)Z
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.String#equals(Ljava/lang/Object;)Z
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+com.simplecity.amp_library.androidauto.PackageValidator#getPackageInfo(LContext;Ljava/lang/String;)LPackageInfo;
+==
+isEmpty java.util.Map#isEmpty()Z
+get java.util.Map#get(Ljava/lang/Object;)Ljava/lang/Object;

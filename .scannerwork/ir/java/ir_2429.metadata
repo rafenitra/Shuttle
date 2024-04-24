@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.menu.MenuUtils#whitelist(LRepository/WhitelistRepository;LSingle;)V
+com.afollestad.aesthetic.AestheticSeekBar#invalidateColors(LColorIsDarkState;)V
+com.afollestad.aesthetic.TintHelper#setTint(LRadioButton;IZ)V

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MediaManager#isPlaying()Z
+com.simplecity.amp_library.playback.MediaManager#seekTo(J)V

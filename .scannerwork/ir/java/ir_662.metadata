@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.SettingsManager#setAlbumDisplayType(I)V
+com.afollestad.aesthetic.AestheticSpinner#invalidateColors(LColorIsDarkState;)V

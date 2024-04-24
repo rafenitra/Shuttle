@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ShuttleApplication#enableStrictMode()V
-null
+com.simplecity.amp_library.ui.modelviews.SongView#showAlbumName(Z)V

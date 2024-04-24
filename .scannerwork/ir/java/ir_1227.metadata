@@ -1,2 +1,1 @@
-com.afollestad.aesthetic.Aesthetic#colorIconTitle(LObservable;)LObservable;
-com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;
+com.simplecity.amp_library.http.lastfm.LastFmUtils#instance-init#

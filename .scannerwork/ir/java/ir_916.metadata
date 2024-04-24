@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.ThemedStatusBarView#<init>(LContext;LAttributeSet;I)V
+com.simplecity.amp_library.glide.palette.ColorSetTranscoder#transcode(LResource;)LResource;
+null

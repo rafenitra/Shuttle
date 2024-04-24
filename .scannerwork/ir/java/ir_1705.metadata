@@ -1,3 +1,2 @@
-com.simplecity.amp_library.model.Song#getSortKey()Ljava/lang/String;
-==
-setSortKey com.simplecity.amp_library.model.Song#setSortKey()V
+com.simplecity.amp_library.ui.views.SnowfallView#<init>(LContext;LAttributeSet;)V
+null

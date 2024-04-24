@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.PlaylistView#setListener(Lcom/simplecity/amp_library/ui/modelviews/PlaylistView$OnClickListener;)V
+com.simplecity.amp_library.glide.palette.ColorSetResource#get()LColorSet;

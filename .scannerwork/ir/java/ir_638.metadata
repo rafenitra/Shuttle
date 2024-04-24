@@ -1,1 +1,1 @@
-android.support.design.widget.CustomCollapsingTextHelper#getText()Ljava/lang/CharSequence;
+android.support.design.widget.CustomCollapsingTextHelper#getDescent()F

@@ -1,4 +1,4 @@
-com.simplecity.amp_library.ui.settings.SupportPresenter#helpClicked()V
+com.afollestad.aesthetic.AestheticNavigationView#invalidateColors(Lcom/afollestad/aesthetic/ColorIsDarkState;)V
 null
-==
-getView com.simplecity.amp_library.ui.common.Presenter#getView()Ljava/lang/Object;
+com.afollestad.aesthetic.ColorIsDarkState#isDark()Z
+com.afollestad.aesthetic.ColorIsDarkState#color()I

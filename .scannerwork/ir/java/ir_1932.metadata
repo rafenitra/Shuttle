@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.InclExclView#<init>(LInclExclItem;)V
+com.afollestad.aesthetic.AestheticRecyclerView#<init>(LContext;LAttributeSet;)V

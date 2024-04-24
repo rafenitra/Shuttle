@@ -70,6 +70,7 @@ public class TagInfo implements Serializable {
                 }
             }
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         return "Unknown";
     }
@@ -81,6 +82,7 @@ public class TagInfo implements Serializable {
                 return audioHeader.getBitRate();
             }
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         return "Unknown";
     }
@@ -92,6 +94,7 @@ public class TagInfo implements Serializable {
                 return audioHeader.getFormat();
             }
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         return "Unknown";
     }
@@ -103,6 +106,7 @@ public class TagInfo implements Serializable {
                 return audioHeader.getSampleRateAsNumber();
             }
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         return -1;
     }

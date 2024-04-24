@@ -1,1 +1,3 @@
-com.simplecityapps.recycler_adapter.adapter.CompletionListUpdateCallbackAdapter#onChanged(IILjava/lang/Object;)V
+com.simplecity.amp_library.ui.modelviews.BreadcrumbsView#bindView(Lcom/simplecity/amp_library/ui/modelviews/BreadcrumbsView$ViewHolder;ILjava/util/List;)V
+==
+bindView com.simplecity.amp_library.ui.modelviews.BreadcrumbsView#bindView(Lcom/simplecity/amp_library/ui/modelviews/BreadcrumbsView$ViewHolder;)V

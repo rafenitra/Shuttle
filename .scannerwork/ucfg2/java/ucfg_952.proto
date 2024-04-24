@@ -1,24 +1,65 @@
 
-˜com.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#newInstance()Lcom/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment;ƒ
-y/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/queue/pager/QueuePagerFragment.javaC% C(0"1*±
-1D D("Ÿœ
-E* E(<J
-%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentÍ
-Ê
-E& E(>
-%1"Ncom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment#<init>()V*h
+Ccom.simplecity.amp_library.model.Query#toString()Ljava/lang/String;e
+[/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Query.java@ @("1*³
+1A A(^
+\
+A B(
+%0java.lang.String"__concat*
+A A(
+
+Query{*
+B B(
+
+\nuri=…
+‚
+C2 C(<
+%1java.lang.String[]"__id*V
 
-__unknown_file (L
-J
-%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentÏ
-Ì
-E E(?P
-fragmentDcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"__id*h
+__unknown_file (:*8(
+&com.simplecity.amp_library.model.Query"
+
+projectionÑ
+Î
+C" C(=
+%2java.lang.String"@java.util.Arrays#toString([Ljava/lang/Object;)Ljava/lang/String;*0
 
-__unknown_file (L
-J
-%0Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragment"^
-G G(R
-P
-fragmentDcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentBH"F
-Dcom.simplecity.amp_library.ui.screens.queue.pager.QueuePagerFragmentH
+__unknown_file ("
+java.util.Arrays*6
+
+__unknown_file (
+
+%1java.lang.String[]
+
+D" D(+
+%3java.lang.String"__id*U
+
+__unknown_file (9*7(
+&com.simplecity.amp_library.model.Query"
+	selection~
+|
+E, E(0
+%4java.lang.String[]"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Query"
+argsÑ
+Î
+E E(1
+%5java.lang.String"@java.util.Arrays#toString([Ljava/lang/Object;)Ljava/lang/String;*0
+
+__unknown_file ("
+java.util.Arrays*6
+
+__unknown_file (
+
+%4java.lang.String[]|
+z
+F F(!
+%6java.lang.String"__id*P
+
+__unknown_file (4*2(
+&com.simplecity.amp_library.model.Query"
+sort"
+A G(
+""B*(
+&com.simplecity.amp_library.model.QueryH

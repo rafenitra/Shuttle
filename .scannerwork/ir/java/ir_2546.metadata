@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.GenreView#setClickListener(Lcom/simplecity/amp_library/ui/modelviews/GenreView$ClickListener;)V
+com.simplecity.amp_library.http.lastfm.LastFmAlbum#getImageUrl()Ljava/lang/String;

@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.views.SnowfallView#onDetachedFromWindow()V
-==
-clear com.simplecity.amp_library.ui.views.SnowfallView#clear()V
+com.afollestad.aesthetic.AestheticCoordinatorLayout#<init>(LContext;LAttributeSet;I)V

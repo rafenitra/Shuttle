@@ -180,6 +180,7 @@ public class PlayerFragment extends BaseFragment implements
     private ValueAnimator colorAnimator;
 
     public PlayerFragment() {
+        //It will be implemented
     }
 
     public static PlayerFragment newInstance() {
@@ -403,7 +404,7 @@ public class PlayerFragment extends BaseFragment implements
 
     @Override
     public void queueChanged(int queuePosition, int queueLength) {
-
+        //it will be implemented
     }
 
     @Override
@@ -711,7 +712,7 @@ public class PlayerFragment extends BaseFragment implements
 
     @Override
     public void presentCreatePlaylistDialog(@NotNull List<? extends Song> songs) {
-
+        //It will be implemented
     }
 
     @Override
@@ -721,12 +722,12 @@ public class PlayerFragment extends BaseFragment implements
 
     @Override
     public void onSongsAddedToPlaylist(@NotNull Playlist playlist, int numSongs) {
-
+        //it will be implemented
     }
 
     @Override
     public void onSongsAddedToQueue(int numSongs) {
-
+        //it will be implemented
     }
 
     @Override
@@ -736,7 +737,7 @@ public class PlayerFragment extends BaseFragment implements
 
     @Override
     public void presentDeleteDialog(@NotNull List<? extends Song> songs) {
-
+        //it will be implemented
     }
 
     @Override

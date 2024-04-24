@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.Aesthetic#colorStatusBarRes(I)Lcom/afollestad/aesthetic/Aesthetic;
-==
-colorStatusBar com.afollestad.aesthetic.Aesthetic#colorStatusBar(I)Lcom/afollestad/aesthetic/Aesthetic;
+com.afollestad.aesthetic.Aesthetic#tabLayoutBackgroundMode()LObservable;

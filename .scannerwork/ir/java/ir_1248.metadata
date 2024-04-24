@@ -1,2 +1,2 @@
-com.simplecity.amp_library.ui.views.AestheticTintedImageView#getColorObservable()LObservable;
-com.afollestad.aesthetic.Aesthetic#get(LContext;)Lcom/afollestad/aesthetic/Aesthetic;
+com.simplecity.amp_library.sql.providers.PlayCountContentProvider#onCreate()Z
+null

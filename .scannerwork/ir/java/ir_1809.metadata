@@ -1,1 +1,1 @@
-com.simplecity.amp_library.saf.SafManager#<init>(LContext;LSettingsManager;)V
+com.simplecity.amp_library.playback.PlaybackManager#getPlayback()LPlayback;

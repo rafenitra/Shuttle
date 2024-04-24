@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#presentDeleteDialog(Ljava/util/List;)V
+com.simplecity.amp_library.ui.modelviews.AlbumArtistView#setViewType(I)V

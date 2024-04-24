@@ -1,1 +1,3 @@
-com.afollestad.aesthetic.AestheticNestedScrollView#onDetachedFromWindow()V
+com.afollestad.aesthetic.TintHelper#setTint(LRadioButton;IZ)V
+null
+com.afollestad.aesthetic.TintHelper#createTintedDrawable(LDrawable;LColorStateList;)LDrawable;

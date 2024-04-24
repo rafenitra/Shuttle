@@ -1,3 +1,8 @@
 android.support.design.widget.CustomCollapsingTextHelper#draw(LCanvas;)V
-==
-length java.lang.CharSequence#length()I
+android.support.design.widget.CustomCollapsingTextHelper#drawTextureBitmap(LCanvas;FF)V
+android.support.design.widget.CustomCollapsingTextHelper#getAscent()F
+android.support.design.widget.CustomCollapsingTextHelper#drawSubText(LCanvas;FF)V
+android.support.design.widget.CustomCollapsingTextHelper#drawText(LCanvas;FF)V
+android.support.design.widget.CustomCollapsingTextHelper#shouldDrawText()Z
+android.support.design.widget.CustomCollapsingTextHelper#drawDebugRect(LCanvas;F)V
+android.support.design.widget.CustomCollapsingTextHelper#scaleCanvas(LCanvas;FF)V

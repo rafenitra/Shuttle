@@ -1,3 +1,1 @@
-com.simplecity.amp_library.model.CategoryItem#getFragment(LContext;)LFragment;
-==
-getTitleResId com.simplecity.amp_library.model.CategoryItem#getTitleResId()I
+com.github.florent37.glidepalette.BitmapPalette#skipPaletteCache(Z)Lcom/github/florent37/glidepalette/BitmapPalette;

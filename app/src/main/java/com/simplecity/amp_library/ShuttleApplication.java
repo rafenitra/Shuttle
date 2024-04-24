@@ -52,6 +52,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.concurrent.TimeUnit;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -64,9 +65,13 @@ import org.jaudiotagger.audio.exceptions.ReadOnlyFileException;
 import org.jaudiotagger.tag.FieldKey;
 import org.jaudiotagger.tag.Tag;
 import org.jaudiotagger.tag.TagException;
-import org.jaudiotagger.tag.TagOptionSingleton;
+import org.jaudiotagger.tag.TagOptionSingleton; 
+
+
 
 public class ShuttleApplication extends DaggerApplication {
+
+    private static final Logger logger = Logger.getLogger(ShuttleApplication.class.getName());
 
     private static final String TAG = "ShuttleApplication";
 
@@ -210,9 +215,7 @@ public class ShuttleApplication extends DaggerApplication {
 
         Glide.get(this).clearMemory();
     }
-    
 
-    //Correction
     public HashMap<String, UserSelectedArtwork> getUserSelectedArtwork() {
         return userSelectedArtwork;
     }
@@ -221,7 +224,7 @@ public class ShuttleApplication extends DaggerApplication {
         try {
             return getPackageManager().getPackageInfo(getPackageName(), 0).versionName;
         } catch (PackageManager.NameNotFoundException | NullPointerException ignored) {
-            System.out.println(ignored.toString());
+            logger.info(ignored.toString());
         }
         return "unknown";
     }
@@ -299,6 +302,7 @@ public class ShuttleApplication extends DaggerApplication {
             try {
                 getContentResolver().delete(PlayCountTable.URI, selection.toString(), null);
             } catch (IllegalArgumentException ignored) {
+                println("There is an exception:"+ ignored.getMessage());
             }
         });
     }
@@ -378,18 +382,5 @@ public class ShuttleApplication extends DaggerApplication {
                     getContentResolver().applyBatch(MediaStore.AUTHORITY, new ArrayList<>(contentProviderOperations));
                 })
                 .flatMapCompletable(songs -> Completable.complete());
-    }
-
-    private void enableStrictMode() {
-        StrictMode.setVmPolicy(new StrictMode.VmPolicy.Builder()
-                .detectAll()
-                .penaltyLog()
-                .build());
-
-        StrictMode.setThreadPolicy(new StrictMode.ThreadPolicy.Builder()
-                .detectAll()
-                .penaltyLog()
-                .penaltyFlashScreen()
-                .build());
     }
 }

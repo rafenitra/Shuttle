@@ -1,3 +1,1 @@
-com.simplecity.amp_library.utils.LetterDrawable#pickColor(Ljava/lang/String;)I
-java.lang.String#hashCode()I
-java.lang.Math#abs(I)I
+com.simplecityapps.recycler_adapter.recyclerview.SpanSizeLookup#getSpanSize(I)I

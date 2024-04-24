@@ -1,1 +1,1 @@
-com.simplecity.amp_library.billing.BillingManager#startServiceConnection(LUnsafeAction;)V
+com.simplecity.amp_library.http.lastfm.LastFmArtist#instance-init#

@@ -1,1 +1,1 @@
-com.simplecity.amp_library.model.UserSelectedArtwork#toString()Ljava/lang/String;
+com.simplecity.amp_library.ui.screens.tagger.TaggerTask#albumArtist(Ljava/lang/String;)Lcom/simplecity/amp_library/ui/screens/tagger/TaggerTask;

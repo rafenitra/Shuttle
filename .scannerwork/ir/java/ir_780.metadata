@@ -1,3 +1,1 @@
-com.simplecity.multisheetview.ui.view.MultiSheetView#<init>(LContext;)V
-==
-<init> com.simplecity.multisheetview.ui.view.MultiSheetView#<init>(LContext;LAttributeSet;)V
+com.simplecity.amp_library.sql.legacy.BlacklistedSong#hashCode()I

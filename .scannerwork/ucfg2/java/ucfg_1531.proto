@@ -1,32 +1,17 @@
 
-?com.simplecity.amp_library.ui.modelviews.FolderView#hashCode()It
-h/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.javaÍ Í("1*õ
+bcom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment#screenName()Ljava/lang/String;„
+x/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/screens/miniplayer/MiniPlayerFragment.javaÌ Ì("1*™
 1
-Î Î([
-Y
+Í Í(`
+^
 
-Î Î(%	
-%0int"java.lang.Object#hashCode()I*"
+Í Í(
+%0java.lang.String"__id*2
 
-__unknown_file (
-""µ
-²
+__unknown_file (
+MiniPlayerFragment"&
 
-Ï Ï(-5
-%1/com.simplecity.amp_library.model.BaseFileObject"__id*g
-
-__unknown_file (K*I5
-3com.simplecity.amp_library.ui.modelviews.FolderView"
-baseFileObject¸µ
-
-Ï Ï(8	
-%2int";com.simplecity.amp_library.model.BaseFileObject#hashCode()I*S
-
-__unknown_file (7
-5
-%1/com.simplecity.amp_library.model.BaseFileObject2
-hashCode()"
-
-Ð Ð(
-""B75
-3com.simplecity.amp_library.ui.modelviews.FolderViewHX
+Í Í(
+
+%0java.lang.StringBGE
+Ccom.simplecity.amp_library.ui.screens.miniplayer.MiniPlayerFragment

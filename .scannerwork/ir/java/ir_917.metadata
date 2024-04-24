@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.views.ThemedStatusBarView#onAttachedToWindow()V
+com.simplecity.amp_library.glide.palette.ColorSetTranscoder#getId()Ljava/lang/String;
+java.lang.Class#getName()Ljava/lang/String;

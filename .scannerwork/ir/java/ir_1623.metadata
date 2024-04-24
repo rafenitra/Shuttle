@@ -1,3 +1,3 @@
-com.simplecity.amp_library.ui.screens.drawer.MiniPlayerLockManager#canShowMiniPlayer()Z
+com.simplecity.amp_library.ui.modelviews.ArtworkView#onClick()V
 ==
-isEmpty java.util.List#isEmpty()Z
+onClick com.simplecity.amp_library.ui.modelviews.ArtworkView$ClickListener#onClick(Lcom/simplecity/amp_library/ui/modelviews/ArtworkView;)V

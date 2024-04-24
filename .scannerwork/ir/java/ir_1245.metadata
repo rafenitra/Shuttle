@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.AestheticTintedImageView#<init>(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.ViewBackgroundSubscriber#onNext(Ljava/lang/Integer;)V

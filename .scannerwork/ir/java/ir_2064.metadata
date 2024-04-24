@@ -1,11 +1,2 @@
-com.simplecity.amp_library.ui.widgets.WidgetProviderMedium#update(LMusicService;LSharedPreferences;[IZ)V
+com.simplecity.amp_library.ui.views.DragGripView#<init>(LContext;LAttributeSet;I)V
 null
-com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#setupButtons(LContext;LRemoteViews;II)V
-java.lang.String#equals(Ljava/lang/Object;)Z
-com.simplecity.amp_library.utils.ColorUtils#adjustAlpha(IF)I
-==
-setupShuffleView com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#setupShuffleView(LMusicService;LRemoteViews;Z)V
-doOnMainThread com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#doOnMainThread(Lcom/simplecity/amp_library/rx/UnsafeAction;)V
-setupRepeatView com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#setupRepeatView(LMusicService;LRemoteViews;Z)V
-pushUpdate com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#pushUpdate(LContext;ILRemoteViews;)V
-getRootViewId com.simplecity.amp_library.ui.widgets.WidgetProviderMedium#getRootViewId()I

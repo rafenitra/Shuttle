@@ -1,8 +1,3 @@
-com.simplecity.amp_library.sql.providers.PlayCountContentProvider#checkColumns([Ljava/lang/String;)V
-java.util.HashSet#<init>(Ljava/util/Collection;)V
-java.lang.IllegalArgumentException#<init>(Ljava/lang/String;)V
-java.util.Arrays#asList([Ljava/lang/Object;)Ljava/util/List;
-java.util.HashSet#instance-init#
-java.lang.IllegalArgumentException#instance-init#
+com.simplecity.amp_library.ui.modelviews.PlaylistView#areContentsEqual(Ljava/lang/Object;)Z
 ==
-containsAll java.util.AbstractCollection#containsAll(Ljava/util/Collection;)Z
+equals com.simplecity.amp_library.ui.modelviews.PlaylistView#equals(Ljava/lang/Object;)Z

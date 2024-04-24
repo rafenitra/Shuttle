@@ -1,2 +1,1 @@
-android.support.design.widget.CustomCollapsingTextHelper#setCollapsedTextColor(LColorStateList;)V
-android.support.design.widget.CustomCollapsingTextHelper#recalculate()V
+android.support.design.widget.CustomCollapsingTextHelper#getText()Ljava/lang/CharSequence;

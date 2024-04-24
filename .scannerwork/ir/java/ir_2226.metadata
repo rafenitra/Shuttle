@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#instance-init#
+com.simplecityapps.recycler_adapter.model.BaseViewModel#createView(LViewGroup;)LView;
+==
+getLayoutResId com.simplecityapps.recycler_adapter.model.BaseViewModel#getLayoutResId()I

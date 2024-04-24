@@ -1,3 +1,2 @@
-com.simplecity.amp_library.ui.views.FavoriteActionBarView#toggle()V
-==
-setIsFavorite com.simplecity.amp_library.ui.views.FavoriteActionBarView#setIsFavorite(Z)V
+com.simplecity.amp_library.glide.preloader.RecyclerViewPreloader#<init>(LPreloadModelProvider;LPreloadSizeProvider;I)V
+null

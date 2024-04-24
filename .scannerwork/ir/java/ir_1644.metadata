@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.screens.main.MainActivity#onServiceConnected(LComponentName;LIBinder;)V
-com.simplecity.amp_library.ui.screens.main.MainActivity#handlePendingPlaybackRequest()V
+com.simplecity.amp_library.ui.screens.main.MainActivity#getDrawerLayout()LDrawerLayout;

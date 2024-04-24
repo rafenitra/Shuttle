@@ -1,1 +1,1 @@
-com.simplecity.amp_library.utils.SettingsManager#storePrimaryColor(I)V
+com.simplecity.amp_library.utils.SettingsManager#getNagMessageRead()Z

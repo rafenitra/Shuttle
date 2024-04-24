@@ -1,1 +1,2 @@
-com.simplecity.amp_library.utils.color.BitmapPaletteProcessor#hasEnoughPopulation(LPalette/Swatch;)Z
+com.afollestad.aesthetic.AestheticButton#invalidateColors(LColorIsDarkState;)V
+null

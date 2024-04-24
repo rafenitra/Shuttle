@@ -35,50 +35,62 @@ public class TagUpdate {
         try {
             this.title = tag.getFirst(FieldKey.TITLE);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         try {
             this.album = tag.getFirst(FieldKey.ALBUM);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         try {
             this.artist = tag.getFirst(FieldKey.ARTIST);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         try {
             this.albumArtist = tag.getFirst(FieldKey.ALBUM_ARTIST);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         try {
             this.genre = tag.getFirst(FieldKey.GENRE);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         try {
             this.year = tag.getFirst(FieldKey.YEAR);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         try {
             this.track = tag.getFirst(FieldKey.TRACK);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         try {
             this.trackTotal = tag.getFirst(FieldKey.TRACK_TOTAL);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         try {
             this.disc = tag.getFirst(FieldKey.DISC_NO);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         try {
             this.discTotal = tag.getFirst(FieldKey.DISC_TOTAL);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         try {
             this.lyrics = tag.getFirst(FieldKey.LYRICS);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
         try {
             this.comment = tag.getFirst(FieldKey.COMMENT);
         } catch (UnsupportedOperationException ignored) {
+            ignored.printStackTrace();
         }
     }
 

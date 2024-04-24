@@ -1,16 +1,16 @@
 
-Dcom.simplecity.amp_library.utils.SettingsManager#ignoreDuplicates()Zq
-e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaî î(#"1*‹
+Kcom.simplecity.amp_library.utils.SettingsManager#ignoreMediaStoreArtwork()Zq
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaà à(*"1*“
 1
-ï ï(d
-b
+á á(l
+j
 
-ï ï(5
-%0java.lang.String"__id*6
+á á(0
+%0java.lang.String"__id*>
 
-__unknown_file (
-pref_ignore_duplicates"
+__unknown_file (" 
+pref_ignore_mediastore_artwork"
 
-ï ï(>
+á á(9
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

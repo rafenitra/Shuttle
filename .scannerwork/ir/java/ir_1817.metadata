@@ -1,1 +1,1 @@
-com.simplecity.amp_library.model.SuggestedHeader#<init>(Ljava/lang/String;Ljava/lang/String;LPlaylist;)V
+com.simplecity.amp_library.playback.PlaybackManager#notifyChange(Ljava/lang/String;)V

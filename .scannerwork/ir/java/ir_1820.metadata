@@ -1,2 +1,1 @@
-com.simplecity.amp_library.playback.PlaybackManager#instance-init#
-null
+com.simplecity.amp_library.playback.PlaybackManager#closeEqualizerSessions(ZI)V

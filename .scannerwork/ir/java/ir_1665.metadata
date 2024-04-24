@@ -1,2 +1,3 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#instance-init#
-java.util.ArrayList#<init>()V
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#removeItem(I)LViewModel;
+==
+getItemCount com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#getItemCount()I

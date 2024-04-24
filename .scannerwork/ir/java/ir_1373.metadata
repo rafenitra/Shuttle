@@ -1,2 +1,1 @@
-com.simplecity.amp_library.utils.sorting.SortManager#sortSongs(Ljava/util/List;I)V
-java.util.Collections#sort(Ljava/util/List;Ljava/util/Comparator;)V
+com.afollestad.aesthetic.Util#setNavBarColorCompat(LAppCompatActivity;I)V

@@ -1,3 +1,2 @@
-com.simplecity.amp_library.model.ArtworkModel#hashCode()I
-==
-hashCode java.io.File#hashCode()I
+com.simplecity.amp_library.services.ArtworkDownloadService#updateProgress()V
+com.simplecity.amp_library.services.ArtworkDownloadService#getNotificationBuilder()LNotificationCompat/Builder;

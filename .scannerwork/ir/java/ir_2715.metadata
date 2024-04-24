@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.adapters.SectionedAdapter#instance-init#
+com.simplecity.amp_library.utils.AnalyticsManager#logRateClicked()V
+null
+com.simplecity.amp_library.utils.AnalyticsManager#analyticsEnabled()Z

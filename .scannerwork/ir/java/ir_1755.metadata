@@ -1,2 +1,1 @@
-com.simplecity.amp_library.services.Equalizer#openEqualizerSession(ZI)V
-null
+com.simplecity.amp_library.ui.common.PurchasePresenter#upgradeClicked()V

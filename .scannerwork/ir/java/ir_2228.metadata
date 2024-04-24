@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.screens.search.voice.VoiceSearchActivity#onCreate(LBundle;)V
+com.simplecityapps.recycler_adapter.model.BaseViewModel#getSpanSize(I)I

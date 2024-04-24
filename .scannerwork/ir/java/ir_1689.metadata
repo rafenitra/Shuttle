@@ -1,2 +1,4 @@
-com.simplecity.amp_library.model.Song#hasPlayed()Z
-com.simplecity.amp_library.model.Song#getElapsedTime()J
+com.simplecity.amp_library.model.Song#getAlbumArtist()LAlbumArtist;
+null
+==
+getAlbum com.simplecity.amp_library.model.Song#getAlbum()LAlbum;

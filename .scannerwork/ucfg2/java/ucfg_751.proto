@@ -1,50 +1,18 @@
 
-Xcom.afollestad.aesthetic.Aesthetic#colorStatusBar(I)Lcom/afollestad/aesthetic/Aesthetic;s
-g/D:/EPSI/Analyse Code/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.javaÞ Þ(!"1*¶
+^com.afollestad.aesthetic.Aesthetic#colorIconTitleActive(I)Lcom/afollestad/aesthetic/Aesthetic;s
+g/D:/EPSI/Analyse Code/Shuttle/libraries/aesthetic/src/main/java/com/afollestad/aesthetic/Aesthetic.java³ ³('"1*¬
 1
-ß ß(a
-_
+´ ´(
+e
+c
 
-ß ß(3
-%0java.lang.String"__id*3
+´ ´(-
+%0java.lang.String"__id*7
 
-__unknown_file (
-status_bar_color_%sÂ
-¿
+__unknown_file (
+icon_title_active_color"4
 
-ß5 ß(A
-%1"Ccom.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;*B
-
-__unknown_file (&"$
-"com.afollestad.aesthetic.Aesthetic*"
-
-__unknown_file (
-""ó
-ð
-
-ß ß(B
-%2"Pjava.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;*0
-
-__unknown_file ("
-java.lang.String*4
-
-__unknown_file (
-
-%0java.lang.String*"
-
-__unknown_file (
-
-%1Q
-O
-
-ß ß(C
-keyjava.lang.String"__id*"
-
-__unknown_file (
-
-%2"4
-
-á á(&$
+µ µ(&$
 "com.afollestad.aesthetic.Aesthetic: 
 
 __unknown_file (

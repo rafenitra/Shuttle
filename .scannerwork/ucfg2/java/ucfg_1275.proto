@@ -1,14 +1,149 @@
 
-icom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium#getLayoutIdString()Ljava/lang/String;‚
-x/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivityMedium.java ("1*™
-1 (#d
-b
- (8
-%0java.lang.String"__id*8
+Ucom.simplecity.amp_library.ui.modelviews.SearchHeaderView#equals(Ljava/lang/Object;)Zx
+n/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/SearchHeaderView.java= =("startingBlock*Ý
+2C= C(AŠ
+‡
+C= C(P
+%8"	__compare*"
 
-__unknown_file (
-widget_medium_layout_id_"$
- (9
-
-%0java.lang.StringBGE
-Ccom.simplecity.amp_library.ui.widgets.WidgetConfigureActivityMedium
+__unknown_file (
+==*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""<
+:
+C= C(P
+%6"__id*"
+
+__unknown_file (
+
+%8*
+1*P
+3C  C(&<
+:
+C  C(:
+%6"__id*"
+
+__unknown_file (
+
+%7*
+1*€
+startingBlock= =(#ˆ
+…
+< <(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectU
+S
+=! =("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+9*°
+4A3 A(4‹
+ˆ
+A A(5A
+that9com.simplecity.amp_library.ui.modelviews.SearchHeaderView"__id*3
+
+__unknown_file (
+
+ojava.lang.ObjectŠ
+‡
+C C(
+%5"	__compare*"
+
+__unknown_file (
+!=*"
+
+__unknown_file (
+""*"
+
+__unknown_file (
+""*
+2
+3*!
+5?< ?(A"
+?5 ?(B
+""*Ÿ
+6? ?(!¹¶
+? ?(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*Y
+
+__unknown_file (=;
+9com.simplecity.amp_library.ui.modelviews.SearchHeaderView2
+getClass()“
+?' ?(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()µ
+²
+? ?(3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+4
+5*¼
+7? ?(¤
+¡
+? ?(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+5
+6*!
+8> >(""
+> >(#
+""*ó
+9> >(Û
+Ø
+> >(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*Y
+
+__unknown_file (=;
+9com.simplecity.amp_library.ui.modelviews.SearchHeaderView*3
+
+__unknown_file (
+
+ojava.lang.Object*
+7
+8*!
+1C C(Q"
+C C(Q
+"":!
+= =("
+ojava.lang.ObjectB=;
+9com.simplecity.amp_library.ui.modelviews.SearchHeaderViewHX

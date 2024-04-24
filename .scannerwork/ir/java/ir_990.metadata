@@ -1,4 +1,2 @@
-com.simplecity.amp_library.playback.MusicService#getTaskerIntent(LSong;)LIntent;
-null
-==
-isPlaying com.simplecity.amp_library.playback.MusicService#isPlaying()Z
+com.simplecity.amp_library.ui.views.TextViewDrawableSize#<init>(LContext;LAttributeSet;)V
+com.simplecity.amp_library.ui.views.TextViewDrawableSize#init(LContext;LAttributeSet;I)V

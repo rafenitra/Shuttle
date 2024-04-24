@@ -1,17 +1,17 @@
 
-Ccom.simplecity.amp_library.utils.SettingsManager#getPrimaryColor()Iq
-e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java« «("1*Ã
+Ocom.simplecity.amp_library.utils.SettingsManager#getUsePaletteNowPlayingOnly()Zq
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaŸ Ÿ(."1*Î
 1
-¬ ¬(›
-˜
+   (¦
+£
 
-¬ ¬(,
-%0java.lang.String"__id*l
+   (8
+%0java.lang.String"__id*w
 
-__unknown_file (P*N2
-0com.simplecity.amp_library.utils.SettingsManager"
-KEY_PREF_PRIMARY_COLOR"
+__unknown_file ([*Y2
+0com.simplecity.amp_library.utils.SettingsManager"#
+!KEY_PREF_PALETTE_NOW_PLAYING_ONLY"
 
-¬ ¬(2
+   (A
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

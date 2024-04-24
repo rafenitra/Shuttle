@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.widgets.WidgetProviderLarge#getLayoutIdString()Ljava/lang/String;
+com.simplecity.amp_library.ShuttleApplication#instance-init#
+java.util.HashMap#<init>()V

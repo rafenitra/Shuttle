@@ -1,3 +1,4 @@
-com.simplecity.amp_library.model.Header#equals(Ljava/lang/Object;)Z
-java.lang.Object#getClass()Ljava/lang/Class;
-java.lang.String#equals(Ljava/lang/Object;)Z
+com.simplecity.amp_library.playback.QueueManager#clearQueue()V
+com.simplecity.amp_library.playback.QueueManager#notifyQueueChanged()V
+==
+setShuffleMode com.simplecity.amp_library.playback.QueueManager#setShuffleMode(I)V

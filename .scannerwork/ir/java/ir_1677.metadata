@@ -1,1 +1,2 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#addItems(Ljava/util/List;)V
+com.simplecity.amp_library.model.Song#setPaused()V
+java.lang.System#currentTimeMillis()J

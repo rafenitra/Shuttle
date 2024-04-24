@@ -1,4 +1,3 @@
-com.simplecity.amp_library.model.CategoryItem#savePrefs(LSharedPreferences/Editor;)V
-==
-getSortKey com.simplecity.amp_library.model.CategoryItem#getSortKey()Ljava/lang/String;
-getEnabledKey com.simplecity.amp_library.model.CategoryItem#getEnabledKey()Ljava/lang/String;
+com.github.florent37.glidepalette.BitmapPalette#intoBackground(LView;I)Lcom/github/florent37/glidepalette/BitmapPalette;
+null
+com.github.florent37.glidepalette.BitmapPalette#assertTargetsIsNotEmpty()V

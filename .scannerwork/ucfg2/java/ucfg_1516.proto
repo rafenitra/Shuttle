@@ -1,10 +1,171 @@
 
-E__sonar_lambda_129$com.simplecity.amp_library.ui.views.CustomCheckboxq
-g/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/CustomCheckbox.java:  :(V"1*!
-1:4 :(D"
-:4 :(V
-"": 
+Ocom.simplecity.amp_library.ui.modelviews.FolderView#equals(Ljava/lang/Object;)Zt
+h/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/modelviews/FolderView.javaÂ Â("startingBlock*%
+2
+Å% Å(*"
+
+Å Å(+
+""*¿
+3
+Å Å(¥
+¢
+
+Å Å(
+%5boolean",java.lang.Object#equals(Ljava/lang/Object;)Z*"
 
-__unknown_file (
-""B
-	!Unknown!
+__unknown_file (
+""*3
+
+__unknown_file (
+
+ojava.lang.Object*
+2
+1*†
+startingBlock
+Â Â(#Š
+‡
+
+Á Á(
+%9"
+__annotate*2
+
+__unknown_file (
+java.lang.Override*3
+
+__unknown_file (
+
+ojava.lang.ObjectW
+U
+
+Â! Â("
+ojava.lang.Object"__annotation*"
+
+__unknown_file (
+
+%9*
+8*%
+4
+Ä< Ä(A"
+
+Ä5 Ä(B
+""*¡
+5
+Ä Ä(!µ²
+
+Ä Ä(#
+%2java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*S
+
+__unknown_file (75
+3com.simplecity.amp_library.ui.modelviews.FolderView2
+getClass()•’
+
+Ä' Ä(3
+%3java.lang.Class",java.lang.Object#getClass()Ljava/lang/Class;*3
+
+__unknown_file (
+
+ojava.lang.Object2
+getClass()·
+´
+
+Ä Ä(3
+%4boolean"	__compare*"
+
+__unknown_file (
+!=*3
+
+__unknown_file (
+
+%2java.lang.Class*3
+
+__unknown_file (
+
+%3java.lang.Class*
+3
+4*À
+6
+Ä Ä(¦
+£
+
+Ä Ä(
+%1boolean"	__compare*"
+
+__unknown_file (
+==*3
+
+__unknown_file (
+
+ojava.lang.Object*"
+
+__unknown_file (
+""*
+4
+5*%
+7
+Ã Ã(""
+
+Ã Ã(#
+""*ñ
+8
+Ã Ã(×
+Ô
+
+Ã Ã(
+%0boolean"	__compare*"
+
+__unknown_file (
+==*S
+
+__unknown_file (75
+3com.simplecity.amp_library.ui.modelviews.FolderView*3
+
+__unknown_file (
+
+ojava.lang.Object*
+6
+7*Ù
+1
+Ç' Ç((‡
+„
+
+Ç Ç();
+that3com.simplecity.amp_library.ui.modelviews.FolderView"__id*3
+
+__unknown_file (
+
+ojava.lang.Objectµ
+²
+
+É É(5
+%6/com.simplecity.amp_library.model.BaseFileObject"__id*g
+
+__unknown_file (K*I5
+3com.simplecity.amp_library.ui.modelviews.FolderView"
+baseFileObject»
+¸
+
+É% É(85
+%7/com.simplecity.amp_library.model.BaseFileObject"__id*m
+
+__unknown_file (Q*O
+;
+that3com.simplecity.amp_library.ui.modelviews.FolderView"
+baseFileObject±®
+
+É É(9
+%8boolean"Kcom.simplecity.amp_library.model.BaseFileObject#equals(Ljava/lang/Object;)Z*S
+
+__unknown_file (7
+5
+%6/com.simplecity.amp_library.model.BaseFileObject*S
+
+__unknown_file (7
+5
+%7/com.simplecity.amp_library.model.BaseFileObject2equals(Ljava/lang/Object;)"
+
+É É(:
+"":#
+
+Â Â("
+ojava.lang.ObjectB75
+3com.simplecity.amp_library.ui.modelviews.FolderViewHX

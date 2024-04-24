@@ -1,57 +1,9 @@
 
-Gcom.simplecity.amp_library.model.Song#getArtworkKey()Ljava/lang/String;f
-Z/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/model/Song.javaÝ Ý("3*±
-2
-Þ  Þ(-š
-—
-
-Þ  Þ(/
-
-%2void"6com.simplecity.amp_library.model.Song#setArtworkKey()V*E
-
-__unknown_file ()'
-%com.simplecity.amp_library.model.Song*
-1*È
-3
-Þ Þ(„
-
-
-Þ Þ(
-%0java.lang.String"__id*U
-
-__unknown_file (9*7'
-%com.simplecity.amp_library.model.Song"
-
-artworkKey§
-¤
-
-Þ Þ(
-%1boolean"	__compare*"
-
-__unknown_file (
-==*4
-
-__unknown_file (
-
-%0java.lang.String*"
-
-__unknown_file (
-""*
-2
-1*¾
+Ccom.simplecity.amp_library.ui.views.SnowfallView$Snowflake#snowX()Fq
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/views/SnowfallView.java× ×("1*%
 1
-ß ß(„
-
+Ø Ø("
 
-ß ß(
-%3java.lang.String"__id*U
-
-__unknown_file (9*7'
-%com.simplecity.amp_library.model.Song"
-
-artworkKey"&
-
-ß ß(
-
-%3java.lang.StringB)'
-%com.simplecity.amp_library.model.SongH
+Ù Ù(
+""B><
+:com.simplecity.amp_library.ui.views.SnowfallView$SnowflakeX

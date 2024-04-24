@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticSpinner#<init>(LContext;)V
+android.support.design.widget.CustomCollapsingTextHelper#getExpandedTextColor()LColorStateList;

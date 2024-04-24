@@ -1,2 +1,1 @@
-com.simplecity.amp_library.utils.ArtworkUtils#getMediaStoreArtwork(LContext;LSong;)Ljava/io/InputStream;
-com.simplecity.amp_library.utils.ArtworkUtils#getMediaStoreArtwork(LContext;LSong;)Ljava/io/InputStream;
+com.simplecity.amp_library.ui.views.NonScrollImageButton#<init>(LContext;LAttributeSet;)V

@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.screens.main.MainController#onCreateView(LLayoutInflater;LViewGroup;LBundle;)LView;
-com.simplecity.amp_library.ui.screens.main.MainController#toggleBottomSheetVisibility(ZZ)V
+com.simplecity.amp_library.ui.views.NonClickableToolbar#<init>(LContext;LAttributeSet;I)V

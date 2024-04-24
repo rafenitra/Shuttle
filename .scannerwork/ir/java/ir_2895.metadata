@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#playbackChanged(Z)V
+com.simplecity.amp_library.ui.screens.nowplaying.PlayerFragment#presentSongInfoDialog(LSong;)V

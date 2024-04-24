@@ -1,1 +1,2 @@
-com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#addItem(LViewModel;)V
+com.simplecity.amp_library.model.Song#hasPlayed()Z
+com.simplecity.amp_library.model.Song#getElapsedTime()J

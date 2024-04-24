@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MediaManager#playAll(LSingle;LFunction0;)LDisposable;
+com.simplecity.amp_library.playback.MediaManager#getAudioSessionId()I

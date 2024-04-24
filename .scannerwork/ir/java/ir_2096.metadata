@@ -1,2 +1,1 @@
-com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createSingle(LContext;LFunction;LQuery;Ljava/lang/Object;)LSingle;
-com.simplecity.amp_library.sql.sqlbrite.SqlBriteUtils#createObservable(LContext;LFunction;LQuery;Ljava/lang/Object;)LObservable;
+com.simplecity.amp_library.glide.utils.CustomAppWidgetTarget#instance-init#

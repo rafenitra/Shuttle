@@ -1,4 +1,3 @@
-com.afollestad.aesthetic.Aesthetic#attach(LAppCompatActivity;)V
-com.afollestad.aesthetic.Aesthetic#key(LContext;)Ljava/lang/String;
-com.afollestad.aesthetic.Util#setInflaterFactory(LLayoutInflater;)V
-java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;
+com.afollestad.aesthetic.Aesthetic#colorPrimaryRes(I)Lcom/afollestad/aesthetic/Aesthetic;
+==
+colorPrimary com.afollestad.aesthetic.Aesthetic#colorPrimary(I)Lcom/afollestad/aesthetic/Aesthetic;

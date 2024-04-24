@@ -1,3 +1,1 @@
-com.afollestad.aesthetic.Aesthetic#colorCardViewBackgroundRes(I)Lcom/afollestad/aesthetic/Aesthetic;
-==
-colorCardViewBackground com.afollestad.aesthetic.Aesthetic#colorCardViewBackground(I)Lcom/afollestad/aesthetic/Aesthetic;
+com.afollestad.aesthetic.Aesthetic#apply()V

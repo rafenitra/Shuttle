@@ -1,3 +1,2 @@
-com.afollestad.aesthetic.ViewTextColorAction#create(LTextView;)Lcom/afollestad/aesthetic/ViewTextColorAction;
-com.afollestad.aesthetic.ViewTextColorAction#<init>(LTextView;)V
-com.afollestad.aesthetic.ViewTextColorAction#instance-init#
+com.simplecity.amp_library.billing.BillingManager#queryPurchases()V
+com.simplecity.amp_library.billing.BillingManager#startServiceConnection(LUnsafeAction;)V

@@ -1,1 +1,2 @@
-com.simplecity.multisheetview.ui.behavior.CustomBottomSheetBehavior#instance-init#
+com.simplecity.amp_library.services.ArtworkDownloadService#onStartCommand(LIntent;II)I
+java.lang.String#equals(Ljava/lang/Object;)Z

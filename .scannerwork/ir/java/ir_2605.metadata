@@ -1,2 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.FolderView#setWhitelisted(LRepository/WhitelistRepository;Z)V
-null
+com.afollestad.aesthetic.AestheticActionMenuItemView#<init>(LContext;LAttributeSet;)V

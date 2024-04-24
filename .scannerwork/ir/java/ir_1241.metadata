@@ -1,2 +1,1 @@
-com.simplecity.amp_library.http.lastfm.LastFmUtils#getBestImageUrl(Ljava/util/List;)Ljava/lang/String;
-com.simplecity.amp_library.http.lastfm.LastFmUtils#findSize(Ljava/util/List;Ljava/lang/String;)LLastFmImage;
+com.afollestad.aesthetic.ViewBackgroundSubscriber#<init>(LView;)V

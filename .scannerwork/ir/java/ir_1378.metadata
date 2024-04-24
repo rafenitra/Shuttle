@@ -1,1 +1,1 @@
-com.simplecity.amp_library.glide.fetcher.FolderFetcher#getStream()Ljava/io/InputStream;
+com.afollestad.aesthetic.Util#setOverflowButtonColor(LToolbar;I)V

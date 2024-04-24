@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.screens.main.MainActivity#screenName()Ljava/lang/String;
+com.simplecityapps.recycler_adapter.adapter.ViewModelAdapter#onBindViewHolder(LRecyclerView/ViewHolder;I)V

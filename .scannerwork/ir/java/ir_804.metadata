@@ -1,1 +1,3 @@
-com.simplecity.amp_library.playback.MediaManager#shuffleAll(LSingle;LFunction0;)LDisposable;
+com.simplecity.amp_library.playback.MediaManager#getAlbum()LAlbum;
+==
+getSong com.simplecity.amp_library.playback.MediaManager#getSong()LSong;

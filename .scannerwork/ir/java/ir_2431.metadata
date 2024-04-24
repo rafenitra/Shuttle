@@ -1,2 +1,1 @@
-com.simplecity.amp_library.utils.menu.MenuUtils#goToArtist(LRepository/AlbumArtistsRepository;LAlbumArtist;LNavigationEventRelay;)V
-java.util.Collections#emptyList()Ljava/util/List;
+com.afollestad.aesthetic.AestheticSeekBar#onDetachedFromWindow()V

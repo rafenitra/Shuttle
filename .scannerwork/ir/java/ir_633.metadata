@@ -1,2 +1,3 @@
-android.support.design.widget.CustomCollapsingTextHelper#setInterpolatedSubSize(F)V
-android.support.design.widget.CustomCollapsingTextHelper#calculateUsingSubSize(F)V
+android.support.design.widget.CustomCollapsingTextHelper#drawSubText(LCanvas;FF)V
+==
+length java.lang.CharSequence#length()I

@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.screens.folders.FolderFragment#onDestroyView()V
+com.simplecity.amp_library.ui.screens.folders.FolderFragment#onFileObjectOverflowClick(LView;LFolderView;)V
+null

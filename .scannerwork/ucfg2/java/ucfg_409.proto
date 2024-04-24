@@ -1,17 +1,16 @@
 
-Acom.simplecity.amp_library.utils.SettingsManager#getUsePalette()Zq
-e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.java› ›( "1*½
+?com.simplecity.amp_library.utils.SettingsManager#getHasRated()Zq
+e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/SettingsManager.javaŠ Š("1*~
 1
-œ œ(•
-’
+‹ ‹(W
+U
 
-œ œ('
-%0java.lang.String"__id*f
+‹ ‹($
+%0java.lang.String"__id*)
 
-__unknown_file (J*H2
-0com.simplecity.amp_library.utils.SettingsManager"
-KEY_PREF_PALETTE"
+__unknown_file (
+	has_rated"
 
-œ œ(/
+‹ ‹(-
 ""B42
 0com.simplecity.amp_library.utils.SettingsManagerHX

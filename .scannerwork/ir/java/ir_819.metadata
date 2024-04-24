@@ -1,1 +1,1 @@
-com.simplecity.amp_library.playback.MediaManager#getDuration()J
+com.simplecity.amp_library.playback.MediaManager#getQueuePosition()I

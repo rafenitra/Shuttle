@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.PlayPauseDrawable#getPausePlayAnimator()LAnimator;
+com.afollestad.aesthetic.AestheticNestedScrollView#invalidateColors(I)V

@@ -1,11 +1,11 @@
 
 Dcom.simplecity.amp_library.utils.color.ColorHelper#shouldUseDark(I)Zs
-g/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÅ Å(("3*À
+g/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/color/ColorHelper.javaÇ Ç(("3*À
 2
-È È(*Š
+Ê Ê(*Š
 ‡
 
-È È(N
+Ê Ê(N
 %1double"^com.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat#calculateLuminance(I)D*g
 
 __unknown_file (K"I
@@ -15,7 +15,7 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 ""œ
 ™
 
-È È(T
+Ê Ê(T
 %2boolean"	__compare*!
 
 __unknown_file (
@@ -29,10 +29,10 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 ""*
 1*¦
 3
-Æ Æ()Œ
+È È()Œ
 ‰
 
-Æ Æ(G
+È È(G
 %0"	__compare*"
 
 __unknown_file (
@@ -46,9 +46,9 @@ Gcom.simplecity.amp_library.utils.color.ColorHelper$ColorUtilsFromCompat*"
 2
 1*%
 1
-Ê Ê("
+Ì Ì("
 
-Ê Ê(
+Ì Ì(
 "": 
 
 __unknown_file (

@@ -11,12 +11,14 @@ import java.io.InputStream;
 public class CustomGlideModule implements GlideModule {
 
     public CustomGlideModule() {
-
+        //this is the constructor without argument
     }
 
+
+    
     @Override
     public void applyOptions(Context context, GlideBuilder builder) {
-
+        //this methode is still empty 
     }
 
     @Override

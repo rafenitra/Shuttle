@@ -1,4 +1,1 @@
-android.support.design.widget.CustomCollapsingTextHelper#calculateUsingTextSize(F)V
-android.support.design.widget.CustomCollapsingTextHelper#calculateIsRtl(Ljava/lang/CharSequence;)Z
-java.lang.Math#min(FF)F
-android.support.design.widget.CustomCollapsingTextHelper#isClose(FF)Z
+android.support.design.widget.CustomCollapsingTextHelper#scaleCanvas(LCanvas;FF)V

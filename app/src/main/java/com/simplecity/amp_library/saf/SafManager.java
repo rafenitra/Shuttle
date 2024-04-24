@@ -255,7 +255,7 @@ public class SafManager {
         }
 
         public SafDialog() {
-
+            //this is a constructor without argument 
         }
 
         public static <T extends AppCompatActivity & SafResultListener> void show(T activity) {

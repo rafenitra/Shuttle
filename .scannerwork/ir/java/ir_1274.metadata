@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.modelviews.PlaylistView#onOverflowClicked(ILView;)V
-==
-onPlaylistOverflowClick com.simplecity.amp_library.ui.modelviews.PlaylistView$OnClickListener#onPlaylistOverflowClick(ILView;LPlaylist;)V
+com.simplecity.amp_library.glide.fetcher.TagFetcher#getTag()Ljava/lang/String;

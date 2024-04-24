@@ -1,3 +1,2 @@
-com.simplecity.amp_library.utils.AnalyticsManager#logUpgrade(Ljava/lang/String;)V
+com.simplecity.amp_library.ui.views.SuggestedHeaderButton#init()V
 null
-com.simplecity.amp_library.utils.AnalyticsManager#analyticsEnabled()Z

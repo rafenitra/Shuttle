@@ -1,1 +1,2 @@
-com.simplecity.amp_library.model.Genre#getProjection()[Ljava/lang/String;
+com.simplecity.amp_library.ui.screens.qcircle.QCircleActivity#registerIntentReceiver()V
+null

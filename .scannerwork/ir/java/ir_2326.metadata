@@ -1,1 +1,2 @@
-com.simplecity.amp_library.di.app.activity.fragment.DialogFragmentModule#<init>()V
+com.simplecity.amp_library.model.Header#hashCode()I
+java.lang.String#hashCode()I

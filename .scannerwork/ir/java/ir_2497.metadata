@@ -1,1 +1,1 @@
-com.afollestad.aesthetic.AestheticNestedScrollView#<init>(LContext;LAttributeSet;)V
+com.afollestad.aesthetic.TintHelper#getDefaultRippleColor(LContext;Z)I

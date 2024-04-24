@@ -1,3 +1,1 @@
-com.simplecity.amp_library.ui.widgets.BaseWidgetProvider#pushUpdate(LContext;ILRemoteViews;)V
-null
-java.lang.Object#getClass()Ljava/lang/Class;
+com.simplecity.amp_library.utils.ComparisonUtils#compareInt(II)I

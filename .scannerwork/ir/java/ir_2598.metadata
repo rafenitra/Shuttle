@@ -1,1 +1,2 @@
-com.simplecity.amp_library.ui.modelviews.FolderView#<init>(Lcom/simplecity/amp_library/model/BaseFileObject;LRepository/WhitelistRepository;LRepository/BlacklistRepository;LSettingsManager;ZZ)V
+com.simplecity.amp_library.ui.modelviews.FolderView#bindView(Lcom/simplecity/amp_library/ui/modelviews/FolderView$ViewHolder;ILjava/util/List;)V
+java.lang.String#format(Ljava/lang/String;[Ljava/lang/Object;)Ljava/lang/String;

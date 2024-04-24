@@ -1,127 +1,14 @@
 
-_com.simplecity.amp_library.utils.ComparisonUtils#compare(Ljava/lang/String;Ljava/lang/String;)Io
-e/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/utils/ComparisonUtils.java ("startingBlock*!
-2! !("
-! !(
-""*Ó
-3   (÷”
-   ($
-%2boolean",java.lang.String#equals(Ljava/lang/Object;)Z*6
+acom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall#screenName()Ljava/lang/String;Å
+w/D:/EPSI/Analyse Code/Shuttle/app/src/main/java/com/simplecity/amp_library/ui/widgets/WidgetConfigureActivitySmall.java ("1*ù
+1 (h
+f
+ (
+%0java.lang.String"__id*<
 
-__unknown_file (
-
-str1java.lang.String*6
-
-__unknown_file (
-
-str2java.lang.String2equals(Ljava/lang/Object;)*
-2
-1*ÿ
-startingBlock (KÄ
-~
- ('
-%5"
-__annotate*(
-
-__unknown_file (
-
-Nullable*6
-
-__unknown_file (
-
-str1java.lang.StringX
-V
-/ (3
-str1java.lang.String"__annotation*"
-
-__unknown_file (
-
-%5Ä
-~
-5 (>
-%6"
-__annotate*(
-
-__unknown_file (
-
-Nullable*6
-
-__unknown_file (
-
-str2java.lang.StringX
-V
-F (J
-str2java.lang.String"__annotation*"
-
-__unknown_file (
-
-%6*
-7*!
-4 ("
- (
-""*ø
-5 (ß
-§
- (
-%1boolean"	__compare*"
-
-__unknown_file (
-==*6
-
-__unknown_file (
-
-str2java.lang.String*"
-
-__unknown_file (
-""*
-3
-4*!
-6 ("
- (
-""*ø
-7 (ß
-§
- (
-%0boolean"	__compare*"
-
-__unknown_file (
-==*6
-
-__unknown_file (
-
-str1java.lang.String*"
-
-__unknown_file (
-""*
-5
-6*Ê
-1# #(ç
-ä
-# #(
-%3java.text.Collator"__id*^
-
-__unknown_file (B*@2
-0com.simplecity.amp_library.utils.ComparisonUtils"
-
-collator≤Ø
-# #(/	
-%4int"Ajava.text.Collator#compare(Ljava/lang/String;Ljava/lang/String;)I*6
-
-__unknown_file (
-
-%3java.text.Collator*6
-
-__unknown_file (
-
-str1java.lang.String*6
-
-__unknown_file (
-
-str2java.lang.String2-compare(Ljava/lang/String;Ljava/lang/String;)"
-# #(0
-"":$
- (4
-str1java.lang.String:$
-5 (J
-str2java.lang.StringB4"2
-0com.simplecity.amp_library.utils.ComparisonUtilsHX
+__unknown_file ( 
+WidgetConfigureActivitySmall"$
+ (
+
+%0java.lang.StringBFD
+Bcom.simplecity.amp_library.ui.widgets.WidgetConfigureActivitySmall

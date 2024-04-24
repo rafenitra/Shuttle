@@ -1,2 +1,2 @@
-com.afollestad.aesthetic.LightDarkColorState#color()I
-com.afollestad.aesthetic.LightDarkColorState#isDark()Z
+com.simplecity.amp_library.glide.utils.GlideUtils#drawableToBitmap(LDrawable;)LBitmap;
+null

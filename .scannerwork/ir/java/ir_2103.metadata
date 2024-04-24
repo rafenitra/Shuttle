@@ -1,1 +1,1 @@
-com.simplecity.amp_library.ui.views.StatusBarView#onMeasure(II)V
+com.simplecity.amp_library.ui.modelviews.SearchHeaderView#getLayoutResId()I

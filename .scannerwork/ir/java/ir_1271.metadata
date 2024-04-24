@@ -1,1 +1,3 @@
-com.simplecity.amp_library.ui.modelviews.PlaylistView#getLayoutResId()I
+com.simplecity.amp_library.glide.palette.ColorSetResource#recycle()V
+java.lang.UnsupportedOperationException#instance-init#
+java.lang.UnsupportedOperationException#<init>(Ljava/lang/String;)V
