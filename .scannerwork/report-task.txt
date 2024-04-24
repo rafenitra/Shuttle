@@ -3,5 +3,5 @@ projectKey=epsi-rafanomezantsoa-ary_tp-epsi-rafanomezanrsoa-ary
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.53978
 dashboardUrl=https://sonarcloud.io/dashboard?id=epsi-rafanomezantsoa-ary_tp-epsi-rafanomezanrsoa-ary
-ceTaskId=AY8P3YfHT0_6NNsMVGjh
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY8P3YfHT0_6NNsMVGjh
+ceTaskId=AY8QAAD5fnCBFrlgJs9P
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AY8QAAD5fnCBFrlgJs9P
